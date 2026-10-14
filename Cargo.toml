@@ -1,6 +1,10 @@
 [package]
 name = "cloudroom"
 version = "0.1.57"
+description = "RJ Cloudroom Core — Sovereign Multi-Agent Runtime, Harness Orchestrator & 416-Skill Execution Engine by RJ Business Solutions"
+authors = ["Rick Jefferson <support@rjbusinesssolutions.org>"]
+homepage = "https://rjbusinesssolutions.org"
+repository = "https://github.com/rjbizsolution23-wq/cloudroom-core"
 edition = "2024"
 rust-version = "1.89"
 license = "Apache-2.0"

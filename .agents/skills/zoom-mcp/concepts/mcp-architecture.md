@@ -1,0 +1,151 @@
+# MCP Architecture — Zoom MCP Server
+
+## What is MCP?
+
+Model Context Protocol (MCP) standardizes how AI systems connect to external tools and data
+sources. Zoom exposes hosted MCP surfaces that clients can discover and call over MCP.
+
+## Hosted Zoom MCP Surfaces
+
+### Zoom MCP
+
+| Transport | URL |
+|-----------|-----|
+| Streamable HTTP (recommended) | `https://mcp.zoom.us/mcp/zoom/streamable` |
+| SSE (fallback) | `https://mcp.zoom.us/mcp/zoom/sse` |
+
+### Whiteboard MCP
+
+| Transport | URL |
+|-----------|-----|
+| Streamable HTTP (recommended) | `https://mcp.zoom.us/mcp/whiteboard/streamable` |
+| SSE (fallback) | `https://mcp.zoom.us/mcp/whiteboard/sse` |
+
+In this repo, Whiteboard MCP is handled by the child skill
+[../whiteboard/SKILL.md](../whiteboard/SKILL.md).
+
+### Team Chat MCP
+
+| Transport | URL |
+|-----------|-----|
+| Streamable HTTP (recommended) | `https://mcp.zoom.us/mcp/chat/streamable` |
+| Legacy alias | `https://mcp.zoom.us/mcp/team_chat/streamable` |
+
+In this repo, Team Chat MCP is handled by the child skill
+[../team-chat/SKILL.md](../team-chat/SKILL.md).
+
+### Other Dedicated Product Servers
+
+| Product | Streamable HTTP | Child skill |
+|---------|-----------------|-------------|
+| Meetings | `https://mcp.zoom.us/mcp/meeting/streamable` | [Meetings](../meetings/SKILL.md) |
+| Docs | `https://mcp.zoom.us/mcp/docs/streamable` | [Docs](../docs/SKILL.md) |
+| Tasks | `https://mcp.zoom.us/mcp/tasks/streamable` | [Tasks](../tasks/SKILL.md) |
+| Revenue Accelerator | `https://mcp.zoom.us/mcp/revenue_accelerator/streamable` | [Revenue Accelerator](../revenue-accelerator/SKILL.md) |
+
+## Discovery Model
+
+Do not hardcode tool counts in client logic.
+
+Use the MCP protocol `tools/list` response as the current source of truth for:
+- tool names
+- descriptions
+- parameter schemas
+- newly added or removed tools
+
+## Current Capability Shape
+
+The current default Zoom MCP surface exposes 9 tools centered on:
+- semantic meeting search
+- cross-Zoom search over Team Chat messages and Zoom Docs/My Notes
+- meeting asset retrieval
+- recording resource retrieval
+- Zoom Docs creation from Markdown
+- Zoom Docs/My Notes Markdown content export
+- Hub file creation and multi-format content export
+
+If the task requires deterministic meeting CRUD, use the REST API skill instead of assuming
+those operations exist on the current Zoom MCP surface.
+
+## Authentication Model
+
+User OAuth is the primary documented path.
+
+S2S tokens can:
+- initialize against the MCP gateway
+- complete `tools/list`
+- open SSE sessions
+
+Treat S2S as transport/discovery-capable unless tool execution has been separately validated
+for your app and scopes.
+
+## Protected Resource Metadata
+
+The hosted MCP surfaces advertise supported scopes through OAuth protected-resource metadata.
+Zoom MCP protected-resource metadata currently exposes:
+- `docs:write:import`
+- `docs:read:export`
+- `ai_companion:read:search`
+- `meeting:read:assets`
+- `meeting:read:search`
+- `cloud_recording:read:content`
+- `cloud_recording:read:list_user_recordings`
+- `hub:write:content`
+- `hub:read:content`
+
+Whiteboard MCP protected-resource metadata currently exposes:
+- `whiteboard:write:whiteboard`
+- `whiteboard:read:list_whiteboards`
+- `whiteboard:read:whiteboard`
+- `whiteboard:write:collaborator`
+- `whiteboard:delete:collaborator`
+- `whiteboard:update:collaborator`
+- `whiteboard:read:list_collaborators`
+
+Team Chat MCP protected-resource metadata currently exposes:
+- `team_chat:write:user_message`
+- `team_chat:update:user_message`
+- `team_chat:write:contact_information`
+- `team_chat:write:user_channel`
+- `team_chat:update:user_channel`
+- `team_chat:write:members`
+- `team_chat:read:channel`
+- `team_chat:update:channel_member_role`
+- `team_chat:read:list_members`
+- `team_chat:read:list_user_channels`
+- `team_chat:read:list_contacts`
+- `team_chat:read:list_user_files`
+- `team_chat:read:list_user_messages`
+- `team_chat:read:list_user_sessions`
+- `chat_channel:read` and `chat_channel:write` metadata aliases
+
+## Retrieval Model
+
+`search_meetings` is not just a title filter. It is a semantic retrieval path over meeting
+content, recap-linked assets, and recording-linked artifacts.
+
+`search_zoom` is the cross-Zoom knowledge discovery path for Team Chat messages, Zoom Docs,
+and My Notes. Pair it with `get_file_content` when a returned Zoom Doc or My Notes file must
+be read as Markdown.
+
+Useful result families:
+- recap-oriented results with AI summaries and linked assets
+- recording-oriented results for post-meeting content retrieval
+- chat/docs-oriented results for collaboration search and document inspection
+
+When writing parsers, validate the live response shape from the server rather than relying on
+older example field names.
+
+## Feature Prerequisites
+
+AI Companion features such as **Smart Recording** and **Meeting Summary** are feature
+prerequisites for useful semantic retrieval and recap-linked content. They do not replace the
+required OAuth scopes.
+
+## Error Layering
+
+Failures can happen at two layers:
+- MCP protocol layer (`-32001`, `-32602`, `-32603`)
+- underlying Zoom API-style permission/resource failures surfaced through the MCP response
+
+See [../references/error-codes.md](../references/error-codes.md).

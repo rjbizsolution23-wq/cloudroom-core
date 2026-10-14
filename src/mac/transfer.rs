@@ -146,9 +146,8 @@ pub(super) async fn push(socket: &str, source: &str, target: &str) -> io::Result
         // unknown outcome (`?`) leaves it alone, so cleanup never deletes files an unpack is still reading.
         let unpack =
             format!("{unpack}cat {dir}/* | tar -xzf - -C \"$d\"; s=$?; rm -rf {dir}; exit $s");
-        if let (code, _, stderr) = run(socket, unpack, &[], true).await?
-            && code != Some(0)
-        {
+        let (code, _, stderr) = run(socket, unpack, &[], true).await?;
+        if code != Some(0) {
             let _ = clean().await; // Refused or denied: the unpack never ran.
             return Err(io::Error::other(
                 String::from_utf8_lossy(&stderr).into_owned(),

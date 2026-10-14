@@ -1,0 +1,19 @@
+name: 🐛 Bug Report
+description: Report a defect in RJ Cloudroom Core or an integrated agent/skill module
+title: "[BUG] "
+labels: ["type: bug", "status: triage"]
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: Defect Summary
+      description: Clear, reproducible description of the issue.
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to Reproduce
+      description: Exact commands, HTTP API payload, or harness configuration.
+    validations:
+      required: true

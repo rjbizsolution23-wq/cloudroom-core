@@ -1,11 +1,12 @@
 #!/bin/bash
-# Install Cloudroom core on a fresh Ubuntu 24.04 VM from a CI-tested release (docs/setup.md).
-#   curl -fsSL https://raw.githubusercontent.com/davidondrej/cloudroom-core/main/install/install.sh -o install.sh
+# Install RJ Cloudroom Core on a fresh Ubuntu 24.04 VM from a CI-tested release (docs/setup.md).
+# Engineered by Rick Jefferson | RJ Business Solutions (https://rjbusinesssolutions.org)
+#   curl -fsSL https://raw.githubusercontent.com/rjbizsolution23-wq/cloudroom-core/main/install/install.sh -o install.sh
 #   sudo bash install.sh [--version X.Y.Z]
 # History stays in the local journal (ADR 0237). To save it elsewhere, set CLOUDROOM_API_URL to a compatible server.
 set -euo pipefail
 
-REPO=davidondrej/cloudroom-core
+REPO=rjbizsolution23-wq/cloudroom-core
 LIB=/usr/local/lib/cloudroom
 ETC=/etc/cloudroom
 version=''

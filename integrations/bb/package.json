@@ -1,12 +1,13 @@
 {
   "name": "@cloudroom/client",
   "version": "0.1.0",
-  "description": "TypeScript client for the Cloudroom core HTTP API.",
+  "description": "TypeScript client for the RJ Cloudroom Core HTTP API — Engineered by RJ Business Solutions.",
+  "author": "Rick Jefferson <support@rjbusinesssolutions.org> (https://rjbusinesssolutions.org)",
   "license": "Apache-2.0",
-  "homepage": "https://github.com/davidondrej/cloudroom-core/blob/main/docs/api.md",
+  "homepage": "https://github.com/rjbizsolution23-wq/cloudroom-core/blob/main/docs/api.md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/davidondrej/cloudroom-core.git",
+    "url": "git+https://github.com/rjbizsolution23-wq/cloudroom-core.git",
     "directory": "integrations/bb"
   },
   "type": "module",

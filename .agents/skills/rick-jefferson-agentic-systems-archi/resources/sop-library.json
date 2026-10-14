@@ -1,0 +1,830 @@
+{
+  "total_sops": 165,
+  "sops": [
+    {
+      "code": "SOP-001",
+      "title": "**SOP-001:** Install Google Analytics 4",
+      "section": "Check 1: Tracking"
+    },
+    {
+      "code": "SOP-002",
+      "title": "**SOP-002:** Install Google Tag Manager",
+      "section": "Check 1: Tracking"
+    },
+    {
+      "code": "SOP-003",
+      "title": "**SOP-003:** Install Facebook Pixel",
+      "section": "Check 1: Tracking"
+    },
+    {
+      "code": "SOP-004",
+      "title": "**SOP-004:** Verify all events firing",
+      "section": "Check 1: Tracking"
+    },
+    {
+      "code": "SOP-005",
+      "title": "**SOP-005:** Set up conversion tracking",
+      "section": "Check 1: Tracking"
+    },
+    {
+      "code": "SOP-006",
+      "title": "**SOP-006:** Verify site speed \u2265 90 Lighthouse",
+      "section": "Check 2: Hosting"
+    },
+    {
+      "code": "SOP-007",
+      "title": "**SOP-007:** Confirm 99.9% uptime",
+      "section": "Check 2: Hosting"
+    },
+    {
+      "code": "SOP-008",
+      "title": "**SOP-008:** Enable CDN",
+      "section": "Check 2: Hosting"
+    },
+    {
+      "code": "SOP-009",
+      "title": "**SOP-009:** Verify SSL certificate",
+      "section": "Check 2: Hosting"
+    },
+    {
+      "code": "SOP-010",
+      "title": "**SOP-010:** Test mobile performance",
+      "section": "Check 2: Hosting"
+    },
+    {
+      "code": "SOP-011",
+      "title": "**SOP-011:** Install RankMath Pro",
+      "section": "Check 3: Plugins"
+    },
+    {
+      "code": "SOP-012",
+      "title": "**SOP-012:** Install LinkWhisper",
+      "section": "Check 3: Plugins"
+    },
+    {
+      "code": "SOP-013",
+      "title": "**SOP-013:** Install WP Rocket",
+      "section": "Check 3: Plugins"
+    },
+    {
+      "code": "SOP-014",
+      "title": "**SOP-014:** Verify Elementor version",
+      "section": "Check 3: Plugins"
+    },
+    {
+      "code": "SOP-015",
+      "title": "**SOP-015:** Test all plugin conflicts",
+      "section": "Check 3: Plugins"
+    },
+    {
+      "code": "SOP-016",
+      "title": "**SOP-016:** Team member logins",
+      "section": "Check 4: Access"
+    },
+    {
+      "code": "SOP-017",
+      "title": "**SOP-017:** Permission audit",
+      "section": "Check 4: Access"
+    },
+    {
+      "code": "SOP-018",
+      "title": "**SOP-018:** 2FA enabled",
+      "section": "Check 4: Access"
+    },
+    {
+      "code": "SOP-019",
+      "title": "**SOP-019:** Backup admin access",
+      "section": "Check 4: Access"
+    },
+    {
+      "code": "SOP-020",
+      "title": "**SOP-020:** API keys secured",
+      "section": "Check 4: Access"
+    },
+    {
+      "code": "SOP-021",
+      "title": "**SOP-021:** Backup schedule verified",
+      "section": "Check 5: Governance"
+    },
+    {
+      "code": "SOP-022",
+      "title": "**SOP-022:** Security scans monthly",
+      "section": "Check 5: Governance"
+    },
+    {
+      "code": "SOP-023",
+      "title": "**SOP-023:** Compliance review (GDPR, CCPA)",
+      "section": "Check 5: Governance"
+    },
+    {
+      "code": "SOP-024",
+      "title": "**SOP-024:** Data retention policy",
+      "section": "Check 5: Governance"
+    },
+    {
+      "code": "SOP-025",
+      "title": "**SOP-025:** Incident response plan",
+      "section": "Check 5: Governance"
+    },
+    {
+      "code": "SOP-026",
+      "title": "**SOP-026:** Weekly video recording session",
+      "section": "Video Production SOPs"
+    },
+    {
+      "code": "SOP-027",
+      "title": "**SOP-027:** Client interview capture",
+      "section": "Video Production SOPs"
+    },
+    {
+      "code": "SOP-028",
+      "title": "**SOP-028:** Behind-the-scenes filming",
+      "section": "Video Production SOPs"
+    },
+    {
+      "code": "SOP-029",
+      "title": "**SOP-029:** Testimonial recording",
+      "section": "Video Production SOPs"
+    },
+    {
+      "code": "SOP-030",
+      "title": "**SOP-030:** Team story capture",
+      "section": "Video Production SOPs"
+    },
+    {
+      "code": "SOP-031",
+      "title": "**SOP-031:** Product demo recording",
+      "section": "Video Production SOPs"
+    },
+    {
+      "code": "SOP-032",
+      "title": "**SOP-032:** Live event filming",
+      "section": "Video Production SOPs"
+    },
+    {
+      "code": "SOP-033",
+      "title": "**SOP-033:** Q&A session recording",
+      "section": "Video Production SOPs"
+    },
+    {
+      "code": "SOP-034",
+      "title": "**SOP-034:** Real client photography",
+      "section": "Photo Production SOPs"
+    },
+    {
+      "code": "SOP-035",
+      "title": "**SOP-035:** In-progress project shots",
+      "section": "Photo Production SOPs"
+    },
+    {
+      "code": "SOP-036",
+      "title": "**SOP-036:** Team headshots",
+      "section": "Photo Production SOPs"
+    },
+    {
+      "code": "SOP-037",
+      "title": "**SOP-037:** Behind-the-scenes photos",
+      "section": "Photo Production SOPs"
+    },
+    {
+      "code": "SOP-038",
+      "title": "**SOP-038:** Before/after documentation",
+      "section": "Photo Production SOPs"
+    },
+    {
+      "code": "SOP-039",
+      "title": "**SOP-039:** Podcast recording setup",
+      "section": "Audio SOPs"
+    },
+    {
+      "code": "SOP-040",
+      "title": "**SOP-040:** Voice-over capture",
+      "section": "Audio SOPs"
+    },
+    {
+      "code": "SOP-041",
+      "title": "**SOP-041:** Audio quality check",
+      "section": "Audio SOPs"
+    },
+    {
+      "code": "SOP-042",
+      "title": "**SOP-042:** Case study capture",
+      "section": "Documentation SOPs"
+    },
+    {
+      "code": "SOP-043",
+      "title": "**SOP-043:** Data point collection",
+      "section": "Documentation SOPs"
+    },
+    {
+      "code": "SOP-044",
+      "title": "**SOP-044:** Client permission forms",
+      "section": "Documentation SOPs"
+    },
+    {
+      "code": "SOP-045",
+      "title": "**SOP-045:** Release documentation",
+      "section": "Documentation SOPs"
+    },
+    {
+      "code": "SOP-046",
+      "title": "**SOP-046:** Define audience segments (WHO)",
+      "section": "Topic Wheel SOPs"
+    },
+    {
+      "code": "SOP-047",
+      "title": "**SOP-047:** Define topic areas (WHAT)",
+      "section": "Topic Wheel SOPs"
+    },
+    {
+      "code": "SOP-048",
+      "title": "**SOP-048:** Build Topic Wheel matrix",
+      "section": "Topic Wheel SOPs"
+    },
+    {
+      "code": "SOP-049",
+      "title": "**SOP-049:** Prioritize by ROI potential",
+      "section": "Topic Wheel SOPs"
+    },
+    {
+      "code": "SOP-050",
+      "title": "**SOP-050:** Assign content to cells",
+      "section": "Topic Wheel SOPs"
+    },
+    {
+      "code": "SOP-051",
+      "title": "**SOP-051:** Video transcript to outline",
+      "section": "Article Creation SOPs"
+    },
+    {
+      "code": "SOP-052",
+      "title": "**SOP-052:** Outline to 2,500+ word article",
+      "section": "Article Creation SOPs"
+    },
+    {
+      "code": "SOP-053",
+      "title": "**SOP-053:** SEO Tree placement",
+      "section": "Article Creation SOPs"
+    },
+    {
+      "code": "SOP-054",
+      "title": "**SOP-054:** Internal linking pass",
+      "section": "Article Creation SOPs"
+    },
+    {
+      "code": "SOP-055",
+      "title": "**SOP-055:** Schema markup application",
+      "section": "Article Creation SOPs"
+    },
+    {
+      "code": "SOP-056",
+      "title": "**SOP-056:** E-E-A-T signal verification",
+      "section": "Article Creation SOPs"
+    },
+    {
+      "code": "SOP-057",
+      "title": "**SOP-057:** Identify quotable moments",
+      "section": "Clip Generation SOPs"
+    },
+    {
+      "code": "SOP-058",
+      "title": "**SOP-058:** 15-second clip production",
+      "section": "Clip Generation SOPs"
+    },
+    {
+      "code": "SOP-059",
+      "title": "**SOP-059:** 30-second clip production",
+      "section": "Clip Generation SOPs"
+    },
+    {
+      "code": "SOP-060",
+      "title": "**SOP-060:** 60-second clip production",
+      "section": "Clip Generation SOPs"
+    },
+    {
+      "code": "SOP-061",
+      "title": "**SOP-061:** Vertical format optimization",
+      "section": "Clip Generation SOPs"
+    },
+    {
+      "code": "SOP-062",
+      "title": "**SOP-062:** Horizontal format optimization",
+      "section": "Clip Generation SOPs"
+    },
+    {
+      "code": "SOP-063",
+      "title": "**SOP-063:** Square format optimization",
+      "section": "Clip Generation SOPs"
+    },
+    {
+      "code": "SOP-064",
+      "title": "**SOP-064:** LinkedIn carousel creation",
+      "section": "Carousel Generation SOPs"
+    },
+    {
+      "code": "SOP-065",
+      "title": "**SOP-065:** Instagram carousel creation",
+      "section": "Carousel Generation SOPs"
+    },
+    {
+      "code": "SOP-066",
+      "title": "**SOP-066:** Twitter thread creation",
+      "section": "Carousel Generation SOPs"
+    },
+    {
+      "code": "SOP-067",
+      "title": "**SOP-067:** Facebook post creation",
+      "section": "Carousel Generation SOPs"
+    },
+    {
+      "code": "SOP-068",
+      "title": "**SOP-068:** Newsletter draft",
+      "section": "Email SOPs"
+    },
+    {
+      "code": "SOP-069",
+      "title": "**SOP-069:** Nurture sequence emails",
+      "section": "Email SOPs"
+    },
+    {
+      "code": "SOP-070",
+      "title": "**SOP-070:** Sales email templates",
+      "section": "Email SOPs"
+    },
+    {
+      "code": "SOP-071",
+      "title": "**SOP-071:** Podcast episode edit",
+      "section": "Podcast SOPs"
+    },
+    {
+      "code": "SOP-072",
+      "title": "**SOP-072:** Show notes generation",
+      "section": "Podcast SOPs"
+    },
+    {
+      "code": "SOP-073",
+      "title": "**SOP-073:** Podcast talking points",
+      "section": "Podcast SOPs"
+    },
+    {
+      "code": "SOP-074",
+      "title": "**SOP-074:** Guest outreach templates",
+      "section": "Podcast SOPs"
+    },
+    {
+      "code": "SOP-075",
+      "title": "**SOP-100:** WordPress publishing",
+      "section": "Website Publishing SOPs"
+    },
+    {
+      "code": "SOP-076",
+      "title": "**SOP-101:** SEO Tree link updates",
+      "section": "Website Publishing SOPs"
+    },
+    {
+      "code": "SOP-077",
+      "title": "**SOP-102:** Schema deployment",
+      "section": "Website Publishing SOPs"
+    },
+    {
+      "code": "SOP-078",
+      "title": "**SOP-103:** Sitemap regeneration",
+      "section": "Website Publishing SOPs"
+    },
+    {
+      "code": "SOP-079",
+      "title": "**SOP-104:** Video upload",
+      "section": "YouTube SOPs"
+    },
+    {
+      "code": "SOP-080",
+      "title": "**SOP-105:** Thumbnail creation",
+      "section": "YouTube SOPs"
+    },
+    {
+      "code": "SOP-081",
+      "title": "**SOP-106:** Description optimization",
+      "section": "YouTube SOPs"
+    },
+    {
+      "code": "SOP-082",
+      "title": "**SOP-107:** Tag optimization",
+      "section": "YouTube SOPs"
+    },
+    {
+      "code": "SOP-083",
+      "title": "**SOP-108:** Playlist assignment",
+      "section": "YouTube SOPs"
+    },
+    {
+      "code": "SOP-084",
+      "title": "**SOP-109:** End screen setup",
+      "section": "YouTube SOPs"
+    },
+    {
+      "code": "SOP-085",
+      "title": "**SOP-110:** YouTube Shorts publish",
+      "section": "YouTube SOPs"
+    },
+    {
+      "code": "SOP-086",
+      "title": "**SOP-111:** Video upload",
+      "section": "TikTok SOPs"
+    },
+    {
+      "code": "SOP-087",
+      "title": "**SOP-112:** Caption + hashtag optimization",
+      "section": "TikTok SOPs"
+    },
+    {
+      "code": "SOP-088",
+      "title": "**SOP-113:** Cover image selection",
+      "section": "TikTok SOPs"
+    },
+    {
+      "code": "SOP-089",
+      "title": "**SOP-114:** Reel upload",
+      "section": "Instagram SOPs"
+    },
+    {
+      "code": "SOP-090",
+      "title": "**SOP-115:** Grid post",
+      "section": "Instagram SOPs"
+    },
+    {
+      "code": "SOP-091",
+      "title": "**SOP-116:** Story publish",
+      "section": "Instagram SOPs"
+    },
+    {
+      "code": "SOP-092",
+      "title": "**SOP-117:** Highlight organization",
+      "section": "Instagram SOPs"
+    },
+    {
+      "code": "SOP-093",
+      "title": "**SOP-118:** Post publishing",
+      "section": "LinkedIn SOPs"
+    },
+    {
+      "code": "SOP-094",
+      "title": "**SOP-119:** Article publishing",
+      "section": "LinkedIn SOPs"
+    },
+    {
+      "code": "SOP-095",
+      "title": "**SOP-120:** Company page update",
+      "section": "LinkedIn SOPs"
+    },
+    {
+      "code": "SOP-096",
+      "title": "**SOP-121:** Thread publishing",
+      "section": "X/Twitter SOPs"
+    },
+    {
+      "code": "SOP-097",
+      "title": "**SOP-122:** Single post",
+      "section": "X/Twitter SOPs"
+    },
+    {
+      "code": "SOP-098",
+      "title": "**SOP-123:** Retweet strategy",
+      "section": "X/Twitter SOPs"
+    },
+    {
+      "code": "SOP-099",
+      "title": "**SOP-124:** Page post",
+      "section": "Facebook SOPs"
+    },
+    {
+      "code": "SOP-100",
+      "title": "**SOP-125:** Group post",
+      "section": "Facebook SOPs"
+    },
+    {
+      "code": "SOP-101",
+      "title": "**SOP-126:** Story publish",
+      "section": "Facebook SOPs"
+    },
+    {
+      "code": "SOP-102",
+      "title": "**SOP-127:** Reel publish",
+      "section": "Facebook SOPs"
+    },
+    {
+      "code": "SOP-103",
+      "title": "**SOP-128:** GBP post",
+      "section": "Google Business Profile SOPs"
+    },
+    {
+      "code": "SOP-104",
+      "title": "**SOP-129:** Q&A response",
+      "section": "Google Business Profile SOPs"
+    },
+    {
+      "code": "SOP-105",
+      "title": "**SOP-130:** Photo upload",
+      "section": "Google Business Profile SOPs"
+    },
+    {
+      "code": "SOP-106",
+      "title": "**SOP-131:** Review response",
+      "section": "Google Business Profile SOPs"
+    },
+    {
+      "code": "SOP-107",
+      "title": "**SOP-132:** Newsletter send",
+      "section": "Email List SOPs"
+    },
+    {
+      "code": "SOP-108",
+      "title": "**SOP-133:** Segmentation",
+      "section": "Email List SOPs"
+    },
+    {
+      "code": "SOP-109",
+      "title": "**SOP-134:** A/B testing",
+      "section": "Email List SOPs"
+    },
+    {
+      "code": "SOP-110",
+      "title": "**SOP-180:** Campaign setup",
+      "section": "Dollar-a-Day SOPs"
+    },
+    {
+      "code": "SOP-111",
+      "title": "**SOP-181:** Audience creation",
+      "section": "Dollar-a-Day SOPs"
+    },
+    {
+      "code": "SOP-112",
+      "title": "**SOP-182:** Creative selection",
+      "section": "Dollar-a-Day SOPs"
+    },
+    {
+      "code": "SOP-113",
+      "title": "**SOP-183:** Budget assignment ($1/day)",
+      "section": "Dollar-a-Day SOPs"
+    },
+    {
+      "code": "SOP-114",
+      "title": "**SOP-184:** Day 1-6 monitoring",
+      "section": "Dollar-a-Day SOPs"
+    },
+    {
+      "code": "SOP-115",
+      "title": "**SOP-185:** Day 7 analysis",
+      "section": "Dollar-a-Day SOPs"
+    },
+    {
+      "code": "SOP-116",
+      "title": "**SOP-186:** Kill decision execution",
+      "section": "Dollar-a-Day SOPs"
+    },
+    {
+      "code": "SOP-117",
+      "title": "**SOP-187:** Scale decision execution",
+      "section": "Dollar-a-Day SOPs"
+    },
+    {
+      "code": "SOP-118",
+      "title": "**SOP-188:** Winner move to $30/30",
+      "section": "Dollar-a-Day SOPs"
+    },
+    {
+      "code": "SOP-119",
+      "title": "**SOP-189:** Engagement detection",
+      "section": "Thank You Machine SOPs"
+    },
+    {
+      "code": "SOP-120",
+      "title": "**SOP-190:** Response templates",
+      "section": "Thank You Machine SOPs"
+    },
+    {
+      "code": "SOP-121",
+      "title": "**SOP-191:** 24-hour response SLA",
+      "section": "Thank You Machine SOPs"
+    },
+    {
+      "code": "SOP-122",
+      "title": "**SOP-192:** Escalation to human",
+      "section": "Thank You Machine SOPs"
+    },
+    {
+      "code": "SOP-123",
+      "title": "**SOP-193:** Relationship logging",
+      "section": "Thank You Machine SOPs"
+    },
+    {
+      "code": "SOP-124",
+      "title": "**SOP-194:** Cross-post automation",
+      "section": "Organic Amplification SOPs"
+    },
+    {
+      "code": "SOP-125",
+      "title": "**SOP-195:** Partner network sharing",
+      "section": "Organic Amplification SOPs"
+    },
+    {
+      "code": "SOP-126",
+      "title": "**SOP-196:** Podcast tour outreach",
+      "section": "Organic Amplification SOPs"
+    },
+    {
+      "code": "SOP-127",
+      "title": "**SOP-197:** Media pitch templates",
+      "section": "Organic Amplification SOPs"
+    },
+    {
+      "code": "SOP-128",
+      "title": "**SOP-198:** GA4 data pull",
+      "section": "Metrics Collection"
+    },
+    {
+      "code": "SOP-129",
+      "title": "**SOP-199:** Ads platform data pull",
+      "section": "Metrics Collection"
+    },
+    {
+      "code": "SOP-130",
+      "title": "**SOP-200:** Social platform data pull",
+      "section": "Metrics Collection"
+    },
+    {
+      "code": "SOP-131",
+      "title": "**SOP-201:** GBP data pull",
+      "section": "Metrics Collection"
+    },
+    {
+      "code": "SOP-132",
+      "title": "**SOP-202:** Phone call tracking",
+      "section": "Metrics Collection"
+    },
+    {
+      "code": "SOP-133",
+      "title": "**SOP-203:** Consolidated dashboard",
+      "section": "Metrics Collection"
+    },
+    {
+      "code": "SOP-134",
+      "title": "**SOP-204:** Weekly performance review",
+      "section": "Analysis"
+    },
+    {
+      "code": "SOP-135",
+      "title": "**SOP-205:** Content ROI analysis",
+      "section": "Analysis"
+    },
+    {
+      "code": "SOP-136",
+      "title": "**SOP-206:** Channel ROI analysis",
+      "section": "Analysis"
+    },
+    {
+      "code": "SOP-137",
+      "title": "**SOP-207:** Audience insight report",
+      "section": "Analysis"
+    },
+    {
+      "code": "SOP-138",
+      "title": "**SOP-208:** Trend detection",
+      "section": "Analysis"
+    },
+    {
+      "code": "SOP-139",
+      "title": "**SOP-209:** Weekly brief generation",
+      "section": "Action"
+    },
+    {
+      "code": "SOP-140",
+      "title": "**SOP-210:** Priority action list",
+      "section": "Action"
+    },
+    {
+      "code": "SOP-141",
+      "title": "**SOP-211:** Feedback to Stage 1 (next produce plan)",
+      "section": "Action"
+    },
+    {
+      "code": "SOP-142",
+      "title": "Foundation (SOP-001 through SOP-025)",
+      "section": "Action"
+    },
+    {
+      "code": "SOP-143",
+      "title": "Stage 1 Produce (SOP-026 through SOP-045)",
+      "section": "Action"
+    },
+    {
+      "code": "SOP-144",
+      "title": "Stage 1.5 Reason (SOP-046 through SOP-050)",
+      "section": "Action"
+    },
+    {
+      "code": "SOP-145",
+      "title": "Stage 2 Process (SOP-051 through SOP-099)",
+      "section": "Action"
+    },
+    {
+      "code": "SOP-146",
+      "title": "Stage 3 Post (SOP-100 through SOP-179)",
+      "section": "Action"
+    },
+    {
+      "code": "SOP-147",
+      "title": "Stage 4 Promote (SOP-180 through SOP-197)",
+      "section": "Action"
+    },
+    {
+      "code": "SOP-148",
+      "title": "MAA Loop (SOP-198 through SOP-211)",
+      "section": "Action"
+    },
+    {
+      "code": "SOP-149",
+      "title": "**CMS:** WordPress",
+      "section": "Action"
+    },
+    {
+      "code": "SOP-150",
+      "title": "**SEO:** RankMath Pro",
+      "section": "Action"
+    },
+    {
+      "code": "SOP-151",
+      "title": "**Internal Linking:** LinkWhisper",
+      "section": "Action"
+    },
+    {
+      "code": "SOP-152",
+      "title": "**Speed:** WP Rocket",
+      "section": "Action"
+    },
+    {
+      "code": "SOP-153",
+      "title": "**Page Builder:** Elementor",
+      "section": "Action"
+    },
+    {
+      "code": "SOP-154",
+      "title": "**Analytics:** GA4 + GTM",
+      "section": "Action"
+    },
+    {
+      "code": "SOP-155",
+      "title": "**Tracking:** Meta Pixel, Google Ads pixel",
+      "section": "Action"
+    },
+    {
+      "code": "SOP-156",
+      "title": "**Hosting:** High-performance managed WP",
+      "section": "Action"
+    },
+    {
+      "code": "SOP-157",
+      "title": "**CDN:** Cloudflare",
+      "section": "Action"
+    },
+    {
+      "code": "SOP-158",
+      "title": "dennisyu.com",
+      "section": "Action"
+    },
+    {
+      "code": "SOP-159",
+      "title": "blitzmetrics.com",
+      "section": "Action"
+    },
+    {
+      "code": "SOP-160",
+      "title": "localservicespotlight.com",
+      "section": "Action"
+    },
+    {
+      "code": "SOP-161",
+      "title": "aibuilderspotlight.com",
+      "section": "Action"
+    },
+    {
+      "code": "SOP-162",
+      "title": "dunkerspotlight.com",
+      "section": "Action"
+    },
+    {
+      "code": "SOP-163",
+      "title": "Main library: https://blitzmetrics.com/task-library",
+      "section": "Action"
+    },
+    {
+      "code": "SOP-164",
+      "title": "Organized view: https://blitzmetrics.com/the-task-library",
+      "section": "Action"
+    },
+    {
+      "code": "SOP-165",
+      "title": "Team resources: https://blitzmetrics.com/team-member-additional-resources",
+      "section": "Action"
+    }
+  ]
+}

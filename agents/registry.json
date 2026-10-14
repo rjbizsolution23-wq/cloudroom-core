@@ -1,0 +1,3840 @@
+{
+  "organization": "RJ Business Solutions",
+  "founder": "Rick Jefferson",
+  "website": "https://rjbusinesssolutions.org",
+  "repository": "https://github.com/rjbizsolution23-wq/cloudroom-core",
+  "total_agents": 222,
+  "total_skills": 416,
+  "agents": [
+    {
+      "id": "8-second-cinematic-ad-director-v2",
+      "name": "8-SECOND CINEMATIC AD DIRECTOR \u2014 v2.0",
+      "category": "directors",
+      "path": "agents/directors/8-second-cinematic-ad-director-v2.md"
+    },
+    {
+      "id": "api-director-neuronedge-labs-v2",
+      "name": "API DIRECTOR \u2014 NeuronEdge Labs\u2122 (v2.0)",
+      "category": "directors",
+      "path": "agents/directors/api-director-neuronedge-labs-v2.md"
+    },
+    {
+      "id": "backend-director-neuronedge-labs-v",
+      "name": "BACKEND DIRECTOR \u2014 NeuronEdge Labs\u2122 (v2.0)",
+      "category": "directors",
+      "path": "agents/directors/backend-director-neuronedge-labs-v.md"
+    },
+    {
+      "id": "content-director-neuronedge-labs-v",
+      "name": "CONTENT DIRECTOR \u2014 NeuronEdge Labs\u2122 (v2.0)",
+      "category": "directors",
+      "path": "agents/directors/content-director-neuronedge-labs-v.md"
+    },
+    {
+      "id": "database-director-neuronedge-labs",
+      "name": "DATABASE DIRECTOR \u2014 NeuronEdge Labs\u2122 (v2.0)",
+      "category": "directors",
+      "path": "agents/directors/database-director-neuronedge-labs.md"
+    },
+    {
+      "id": "devsecops-director-neuronedge-labs",
+      "name": "DEVSECOPS DIRECTOR \u2014 NeuronEdge Labs\u2122 (v2.0)",
+      "category": "directors",
+      "path": "agents/directors/devsecops-director-neuronedge-labs.md"
+    },
+    {
+      "id": "engineering-director-neuronedge-labs",
+      "name": "ENGINEERING DIRECTOR \u2014 NeuronEdge Labs\u2122 (v2.0)",
+      "category": "directors",
+      "path": "agents/directors/engineering-director-neuronedge-labs.md"
+    },
+    {
+      "id": "finance-director-neuronedge-labs-v",
+      "name": "FINANCE DIRECTOR \u2014 NeuronEdge Labs\u2122 (v2.0)",
+      "category": "directors",
+      "path": "agents/directors/finance-director-neuronedge-labs-v.md"
+    },
+    {
+      "id": "frontend-director-neuronedge-labs",
+      "name": "FRONTEND DIRECTOR \u2014 NeuronEdge Labs\u2122 (v2.0)",
+      "category": "directors",
+      "path": "agents/directors/frontend-director-neuronedge-labs.md"
+    },
+    {
+      "id": "infrastructure-director-neuronedge-l",
+      "name": "INFRASTRUCTURE DIRECTOR \u2014 NeuronEdge Labs\u2122 (v2.0)",
+      "category": "directors",
+      "path": "agents/directors/infrastructure-director-neuronedge-l.md"
+    },
+    {
+      "id": "marketing-director-neuronedge-labs",
+      "name": "MARKETING DIRECTOR \u2014 NeuronEdge Labs\u2122 (v2.0)",
+      "category": "directors",
+      "path": "agents/directors/marketing-director-neuronedge-labs.md"
+    },
+    {
+      "id": "qa-director-neuronedge-labs-v2",
+      "name": "QA DIRECTOR \u2014 NeuronEdge Labs\u2122 (v2.0)",
+      "category": "directors",
+      "path": "agents/directors/qa-director-neuronedge-labs-v2.md"
+    },
+    {
+      "id": "research-director-2-neuronedge-labs",
+      "name": "RESEARCH DIRECTOR \u2014 NeuronEdge Labs\u2122 (v2.0)",
+      "category": "directors",
+      "path": "agents/directors/research-director-2-neuronedge-labs.md"
+    },
+    {
+      "id": "research-director-neuronedge-labs",
+      "name": "RESEARCH DIRECTOR \u2014 NeuronEdge Labs\u2122 (v2.1)",
+      "category": "directors",
+      "path": "agents/directors/research-director-neuronedge-labs.md"
+    },
+    {
+      "id": "research-director1-neuronedge-labs",
+      "name": "RESEARCH DIRECTOR \u2014 NeuronEdge Labs\u2122 (v2.0)",
+      "category": "directors",
+      "path": "agents/directors/research-director1-neuronedge-labs.md"
+    },
+    {
+      "id": "sales-director-neuronedge-labs-v2",
+      "name": "SALES DIRECTOR \u2014 NeuronEdge Labs\u2122 (v2.0)",
+      "category": "directors",
+      "path": "agents/directors/sales-director-neuronedge-labs-v2.md"
+    },
+    {
+      "id": "support-director-neuronedge-labs-v",
+      "name": "SUPPORT DIRECTOR \u2014 NeuronEdge Labs\u2122 (v2.0)",
+      "category": "directors",
+      "path": "agents/directors/support-director-neuronedge-labs-v.md"
+    },
+    {
+      "id": "api-integration-master-v2",
+      "name": "API INTEGRATION MASTER \u2014 v2.0",
+      "category": "engineering",
+      "path": "agents/engineering/api-integration-master-v2.md"
+    },
+    {
+      "id": "app-forge-architect-v2",
+      "name": "APP FORGE ARCHITECT \u2014 v2.0",
+      "category": "engineering",
+      "path": "agents/engineering/app-forge-architect-v2.md"
+    },
+    {
+      "id": "codeforge-nexus-ai-v2",
+      "name": "codeforge-nexus-ai-v2",
+      "category": "engineering",
+      "path": "agents/engineering/codeforge-nexus-ai-v2.md"
+    },
+    {
+      "id": "codeforge-nexus-v2",
+      "name": "CODEFORGE NEXUS v2.0 \u2014 RJ Business Solutions",
+      "category": "engineering",
+      "path": "agents/engineering/codeforge-nexus-v2.md"
+    },
+    {
+      "id": "db-overlord-v2",
+      "name": "DB OVERLORD \u2014 v2.0",
+      "category": "engineering",
+      "path": "agents/engineering/db-overlord-v2.md"
+    },
+    {
+      "id": "elite-agent-architect-v2",
+      "name": "ELITE AGENT ARCHITECT \u2014 v2.0",
+      "category": "engineering",
+      "path": "agents/engineering/elite-agent-architect-v2.md"
+    },
+    {
+      "id": "i-built-this-one-by-combining-the-python",
+      "name": "Part 1: System prompt",
+      "category": "engineering",
+      "path": "agents/engineering/i-built-this-one-by-combining-the-python.md"
+    },
+    {
+      "id": "i-rebuilt-excel-master-architect-for-o",
+      "name": "EXCEL MASTER ARCHITECT v14.0 \u2014 RJ Business Solutions",
+      "category": "engineering",
+      "path": "agents/engineering/i-rebuilt-excel-master-architect-for-o.md"
+    },
+    {
+      "id": "prompt-architect-prompt-engineering",
+      "name": "@prompt_architect \u2014 Prompt Engineering Director (v2.0)",
+      "category": "engineering",
+      "path": "agents/engineering/prompt-architect-prompt-engineering.md"
+    },
+    {
+      "id": "rj-architect-lead-full-stack-archite",
+      "name": "RJ ARCHITECT \u2014 Lead Full-Stack Architect & Creative Director",
+      "category": "engineering",
+      "path": "agents/engineering/rj-architect-lead-full-stack-archite.md"
+    },
+    {
+      "id": "rj-seo-architect-v2",
+      "name": "RJ SEO ARCHITECT \u2014 v2.0",
+      "category": "engineering",
+      "path": "agents/engineering/rj-seo-architect-v2.md"
+    },
+    {
+      "id": "the-supreme-full-stack-architect-agent",
+      "name": "THE SUPREME FULL-STACK ARCHITECT AGENT (SFSAA) \u2014 v3.0",
+      "category": "engineering",
+      "path": "agents/engineering/the-supreme-full-stack-architect-agent.md"
+    },
+    {
+      "id": "unreal-c-engine-authority-v2",
+      "name": "UNREAL C++ ENGINE AUTHORITY \u2014 v2.0",
+      "category": "engineering",
+      "path": "agents/engineering/unreal-c-engine-authority-v2.md"
+    },
+    {
+      "id": "you-are-a-senior-full-stack-software-arc",
+      "name": "DELIVERY FORMAT (every app request)",
+      "category": "engineering",
+      "path": "agents/engineering/you-are-a-senior-full-stack-software-arc.md"
+    },
+    {
+      "id": "you-are-the-architecture-omniscient-matr",
+      "name": "TRUTH RULE (supreme)",
+      "category": "engineering",
+      "path": "agents/engineering/you-are-the-architecture-omniscient-matr.md"
+    },
+    {
+      "id": "you-are-the-supreme-typescript-quantum-d",
+      "name": "TRUTH RULE (overrides everything below)",
+      "category": "engineering",
+      "path": "agents/engineering/you-are-the-supreme-typescript-quantum-d.md"
+    },
+    {
+      "id": "authority-book-engine-v2",
+      "name": "AUTHORITY BOOK ENGINE \u2014 v2.0",
+      "category": "finance_credit_tax",
+      "path": "agents/finance_credit_tax/authority-book-engine-v2.md"
+    },
+    {
+      "id": "credit-repair-compliant-marketing-engi",
+      "name": "CREDIT REPAIR COMPLIANT MARKETING ENGINE \u2014 v2.0",
+      "category": "finance_credit_tax",
+      "path": "agents/finance_credit_tax/credit-repair-compliant-marketing-engi.md"
+    },
+    {
+      "id": "rick-jefferson-ai-supreme-viral-mult",
+      "name": "RICK JEFFERSON AI \u2014 Supreme Viral Multimodal Content Agent v2.0",
+      "category": "finance_credit_tax",
+      "path": "agents/finance_credit_tax/rick-jefferson-ai-supreme-viral-mult.md"
+    },
+    {
+      "id": "rick-jefferson-credit-oracle-of-the",
+      "name": "RICK JEFFERSON \u2014 CREDIT ORACLE OF THE SOUTH\u2122 | Financial Mentor System (v6.0)",
+      "category": "finance_credit_tax",
+      "path": "agents/finance_credit_tax/rick-jefferson-credit-oracle-of-the.md"
+    },
+    {
+      "id": "rick-jefferson-revenue-catalyst-academ",
+      "name": "RICK JEFFERSON REVENUE CATALYST ACADEMY \u2014 v2.0",
+      "category": "finance_credit_tax",
+      "path": "agents/finance_credit_tax/rick-jefferson-revenue-catalyst-academ.md"
+    },
+    {
+      "id": "rick-jefferson-supreme-credit-master",
+      "name": "RICK JEFFERSON SUPREME CREDIT MASTER \u2014 v2.0",
+      "category": "finance_credit_tax",
+      "path": "agents/finance_credit_tax/rick-jefferson-supreme-credit-master.md"
+    },
+    {
+      "id": "rick-jefferson-ultimate-ai-tax-system",
+      "name": "MANDATORY FACT-CHECKING PROTOCOL (MUST FOLLOW ON EVERY RESPONSE)",
+      "category": "finance_credit_tax",
+      "path": "agents/finance_credit_tax/rick-jefferson-ultimate-ai-tax-system.md"
+    },
+    {
+      "id": "supreme-underwriting-intelligence-agen",
+      "name": "SUPREME UNDERWRITING INTELLIGENCE AGENT \u2014 v2.0",
+      "category": "finance_credit_tax",
+      "path": "agents/finance_credit_tax/supreme-underwriting-intelligence-agen.md"
+    },
+    {
+      "id": "50x-sales-system-agent-v2",
+      "name": "50X SALES SYSTEM AGENT v2.0 \u2014 Rick Jefferson Solutions",
+      "category": "growth_marketing_sales",
+      "path": "agents/growth_marketing_sales/50x-sales-system-agent-v2.md"
+    },
+    {
+      "id": "activation-phrase-start-every-response",
+      "name": "ROLES",
+      "category": "growth_marketing_sales",
+      "path": "agents/growth_marketing_sales/activation-phrase-start-every-response.md"
+    },
+    {
+      "id": "d-i-r-g-e",
+      "name": "D.I.R.G.E. \u2014 Digital Intelligence Recon & Growth Engine \u2014 v2.0",
+      "category": "growth_marketing_sales",
+      "path": "agents/growth_marketing_sales/d-i-r-g-e.md"
+    },
+    {
+      "id": "dennis-ai-search-visibility",
+      "name": "dennis-ai-search-visibility",
+      "category": "growth_marketing_sales",
+      "path": "agents/growth_marketing_sales/dennis-ai-search-visibility.md"
+    },
+    {
+      "id": "dennis-content-factory",
+      "name": "dennis-content-factory",
+      "category": "growth_marketing_sales",
+      "path": "agents/growth_marketing_sales/dennis-content-factory.md"
+    },
+    {
+      "id": "dennis-definitive-article-writer",
+      "name": "dennis-definitive-article-writer",
+      "category": "growth_marketing_sales",
+      "path": "agents/growth_marketing_sales/dennis-definitive-article-writer.md"
+    },
+    {
+      "id": "dennis-dollar-a-day-strategist",
+      "name": "dennis-dollar-a-day-strategist",
+      "category": "growth_marketing_sales",
+      "path": "agents/growth_marketing_sales/dennis-dollar-a-day-strategist.md"
+    },
+    {
+      "id": "dennis-knowledge-panel-entity-seo",
+      "name": "dennis-knowledge-panel-entity-seo",
+      "category": "growth_marketing_sales",
+      "path": "agents/growth_marketing_sales/dennis-knowledge-panel-entity-seo.md"
+    },
+    {
+      "id": "dennis-personal-brand-strategist",
+      "name": "dennis-personal-brand-strategist",
+      "category": "growth_marketing_sales",
+      "path": "agents/growth_marketing_sales/dennis-personal-brand-strategist.md"
+    },
+    {
+      "id": "dennis-personal-brand-website-agent",
+      "name": "dennis-personal-brand-website-agent",
+      "category": "growth_marketing_sales",
+      "path": "agents/growth_marketing_sales/dennis-personal-brand-website-agent.md"
+    },
+    {
+      "id": "dennis-positive-mentions-harvester",
+      "name": "dennis-positive-mentions-harvester",
+      "category": "growth_marketing_sales",
+      "path": "agents/growth_marketing_sales/dennis-positive-mentions-harvester.md"
+    },
+    {
+      "id": "dennis-recursive-self-improvement-qa",
+      "name": "\ud83d\udd01 THE SELF-IMPROVEMENT LOOP (July 18, 2026)",
+      "category": "growth_marketing_sales",
+      "path": "agents/growth_marketing_sales/dennis-recursive-self-improvement-qa.md"
+    },
+    {
+      "id": "dennis-reputation-gap-analyzer",
+      "name": "dennis-reputation-gap-analyzer",
+      "category": "growth_marketing_sales",
+      "path": "agents/growth_marketing_sales/dennis-reputation-gap-analyzer.md"
+    },
+    {
+      "id": "formqualifyai-v2",
+      "name": "FormQualifyAI \u2014 v2.0",
+      "category": "growth_marketing_sales",
+      "path": "agents/growth_marketing_sales/formqualifyai-v2.md"
+    },
+    {
+      "id": "gohighlevel-empire-builder-v2",
+      "name": "GOHIGHLEVEL EMPIRE BUILDER \u2014 v2.0",
+      "category": "growth_marketing_sales",
+      "path": "agents/growth_marketing_sales/gohighlevel-empire-builder-v2.md"
+    },
+    {
+      "id": "legacy-adrian-4-0",
+      "name": "ADRIAN 4.0: Local Google Domination",
+      "category": "growth_marketing_sales",
+      "path": "agents/growth_marketing_sales/legacy-adrian-4-0.md"
+    },
+    {
+      "id": "legacy-brandon-2-0",
+      "name": "BRANDON 2.0: SEO-Optimized Video-to-Article Pipeline",
+      "category": "growth_marketing_sales",
+      "path": "agents/growth_marketing_sales/legacy-brandon-2-0.md"
+    },
+    {
+      "id": "legacy-christopher-3-0",
+      "name": "CHRISTOPHER 3.0: Google Algorithm SEO Audit Engine",
+      "category": "growth_marketing_sales",
+      "path": "agents/growth_marketing_sales/legacy-christopher-3-0.md"
+    },
+    {
+      "id": "legacy-ethan-2-0",
+      "name": "ETHAN 2.0: Google Algorithm Intelligence",
+      "category": "growth_marketing_sales",
+      "path": "agents/growth_marketing_sales/legacy-ethan-2-0.md"
+    },
+    {
+      "id": "legacy-olivia-2-0",
+      "name": "OLIVIA 2.0: Google Knowledge Panel Domination",
+      "category": "growth_marketing_sales",
+      "path": "agents/growth_marketing_sales/legacy-olivia-2-0.md"
+    },
+    {
+      "id": "legacy-warren-5-0",
+      "name": "WARREN 5.0: Google-Optimized Publishing",
+      "category": "growth_marketing_sales",
+      "path": "agents/growth_marketing_sales/legacy-warren-5-0.md"
+    },
+    {
+      "id": "rick-jefferson-faceless-digital-empi",
+      "name": "RICK JEFFERSON \u2014 FACELESS DIGITAL EMPIRE MENTOR v2.0",
+      "category": "growth_marketing_sales",
+      "path": "agents/growth_marketing_sales/rick-jefferson-faceless-digital-empi.md"
+    },
+    {
+      "id": "rick-jefferson-personal-social-media",
+      "name": "RICK JEFFERSON \u2014 PERSONAL SOCIAL MEDIA AGI (v2.0)",
+      "category": "growth_marketing_sales",
+      "path": "agents/growth_marketing_sales/rick-jefferson-personal-social-media.md"
+    },
+    {
+      "id": "you-are-funnelforge-ultra-v2",
+      "name": "12-ROLE ORCHESTRATION (run in sequence, one model, explicit handoffs)",
+      "category": "growth_marketing_sales",
+      "path": "agents/growth_marketing_sales/you-are-funnelforge-ultra-v2.md"
+    },
+    {
+      "id": "you-are-rick-jefferson-the-supreme-car",
+      "name": "TRUTH RULE (protects the candidate's reputation)",
+      "category": "growth_marketing_sales",
+      "path": "agents/growth_marketing_sales/you-are-rick-jefferson-the-supreme-car.md"
+    },
+    {
+      "id": "you-are-rick-jefferson-the-ultimate-of",
+      "name": "TRUTH RULE (credibility is the product)",
+      "category": "growth_marketing_sales",
+      "path": "agents/growth_marketing_sales/you-are-rick-jefferson-the-ultimate-of.md"
+    },
+    {
+      "id": "you-are-the-supreme-quantum-funnel-archi",
+      "name": "HONEST OPERATING MODEL",
+      "category": "growth_marketing_sales",
+      "path": "agents/growth_marketing_sales/you-are-the-supreme-quantum-funnel-archi.md"
+    },
+    {
+      "id": "you-are-the-video-seo-optimization-ass",
+      "name": "HONEST OPERATING MODEL",
+      "category": "growth_marketing_sales",
+      "path": "agents/growth_marketing_sales/you-are-the-video-seo-optimization-ass.md"
+    },
+    {
+      "id": "agent-manifest-1",
+      "name": "agent-manifest-1",
+      "category": "legal_compliance",
+      "path": "agents/legal_compliance/agent-manifest-1.md"
+    },
+    {
+      "id": "jukeyman-grants-federal-contracts",
+      "name": "JUKEYMAN \u2014 Grants, Federal Contracts, Quantum Funding, CSR/Inclusion & Growth Strategist (v2.0)",
+      "category": "legal_compliance",
+      "path": "agents/legal_compliance/jukeyman-grants-federal-contracts.md"
+    },
+    {
+      "id": "kdvma-master-sgt-v2",
+      "name": "KDVMA MASTER SGT \u2014 v2.0",
+      "category": "legal_compliance",
+      "path": "agents/legal_compliance/kdvma-master-sgt-v2.md"
+    },
+    {
+      "id": "legacy-jennifer-2-0",
+      "name": "JENNIFER 2.0: Elite Content Quality Enforcer",
+      "category": "legal_compliance",
+      "path": "agents/legal_compliance/legacy-jennifer-2-0.md"
+    },
+    {
+      "id": "legal-bankruptcy-restructuring-specialist",
+      "name": "Agent Name",
+      "category": "legal_compliance",
+      "path": "agents/legal_compliance/legal-bankruptcy-restructuring-specialist.md"
+    },
+    {
+      "id": "legal-business-litigation-specialist",
+      "name": "Agent Name",
+      "category": "legal_compliance",
+      "path": "agents/legal_compliance/legal-business-litigation-specialist.md"
+    },
+    {
+      "id": "legal-contract-drafting-specialist",
+      "name": "Agent Name",
+      "category": "legal_compliance",
+      "path": "agents/legal_compliance/legal-contract-drafting-specialist.md"
+    },
+    {
+      "id": "legal-corporate-formation-specialist",
+      "name": "Agent Name",
+      "category": "legal_compliance",
+      "path": "agents/legal_compliance/legal-corporate-formation-specialist.md"
+    },
+    {
+      "id": "legal-delaware-chancery-specialist",
+      "name": "Agent Name",
+      "category": "legal_compliance",
+      "path": "agents/legal_compliance/legal-delaware-chancery-specialist.md"
+    },
+    {
+      "id": "legal-m-a-deal-specialist",
+      "name": "Agent Name",
+      "category": "legal_compliance",
+      "path": "agents/legal_compliance/legal-m-a-deal-specialist.md"
+    },
+    {
+      "id": "legal-public-records-retrieval-specialist",
+      "name": "Agent Name",
+      "category": "legal_compliance",
+      "path": "agents/legal_compliance/legal-public-records-retrieval-specialist.md"
+    },
+    {
+      "id": "legal-sec-enforcement-specialist",
+      "name": "Agent Name",
+      "category": "legal_compliance",
+      "path": "agents/legal_compliance/legal-sec-enforcement-specialist.md"
+    },
+    {
+      "id": "legal-securities-compliance-specialist",
+      "name": "Agent Name",
+      "category": "legal_compliance",
+      "path": "agents/legal_compliance/legal-securities-compliance-specialist.md"
+    },
+    {
+      "id": "legal-state-court-routing-specialist",
+      "name": "Agent Name",
+      "category": "legal_compliance",
+      "path": "agents/legal_compliance/legal-state-court-routing-specialist.md"
+    },
+    {
+      "id": "men-s-justice-legal-titan-ai-fathers",
+      "name": "MEN'S JUSTICE LEGAL TITAN AI \u2014 Fathers' Family Law Information System (v2.0)",
+      "category": "legal_compliance",
+      "path": "agents/legal_compliance/men-s-justice-legal-titan-ai-fathers.md"
+    },
+    {
+      "id": "rick-jefferson-ai-supreme-meta-reaso",
+      "name": "RICK JEFFERSON AI \u2014 Supreme Meta-Reasoning & Prompt Engineering Agent",
+      "category": "legal_compliance",
+      "path": "agents/legal_compliance/rick-jefferson-ai-supreme-meta-reaso.md"
+    },
+    {
+      "id": "rick-jefferson-ai-supreme-prompt-eng",
+      "name": "RICK JEFFERSON AI \u2014 Supreme Prompt Engineering Agent v2.0",
+      "category": "legal_compliance",
+      "path": "agents/legal_compliance/rick-jefferson-ai-supreme-prompt-eng.md"
+    },
+    {
+      "id": "rick-jefferson-s-ai-assistant-consum",
+      "name": "RICK JEFFERSON'S AI ASSISTANT \u2014 Consumer Law Research & Content (v2.0)",
+      "category": "legal_compliance",
+      "path": "agents/legal_compliance/rick-jefferson-s-ai-assistant-consum.md"
+    },
+    {
+      "id": "stripe-nexus-payments-integration-ar",
+      "name": "STRIPE NEXUS \u2014 Payments Integration Architect (v2.0)",
+      "category": "legal_compliance",
+      "path": "agents/legal_compliance/stripe-nexus-payments-integration-ar.md"
+    },
+    {
+      "id": "supreme-legal-agi-ecosystem",
+      "name": "|DOUH\u0397\u0007b\u0015Yknq4R",
+      "category": "legal_compliance",
+      "path": "agents/legal_compliance/supreme-legal-agi-ecosystem.md"
+    },
+    {
+      "id": "supreme-legal-agi-skill-file",
+      "name": "\u0001\u0002=$`\u0012;JP\u007fj\u0496Q+\u0004\u0012t%\u0000hK\u0010(AC[\u0614bHtLBz&\u0018\u0019:\bJSYW",
+      "category": "legal_compliance",
+      "path": "agents/legal_compliance/supreme-legal-agi-skill-file.md"
+    },
+    {
+      "id": "system-prompt-1",
+      "name": "RICK JEFFERSON \u2014 SYSTEM PROMPT v5.0",
+      "category": "legal_compliance",
+      "path": "agents/legal_compliance/system-prompt-1.md"
+    },
+    {
+      "id": "this-gpt-helps-create-compliant-high-co",
+      "name": "this-gpt-helps-create-compliant-high-co",
+      "category": "legal_compliance",
+      "path": "agents/legal_compliance/this-gpt-helps-create-compliant-high-co.md"
+    },
+    {
+      "id": "untitled-2",
+      "name": "MANDATORY FOOTER (never omit)",
+      "category": "legal_compliance",
+      "path": "agents/legal_compliance/untitled-2.md"
+    },
+    {
+      "id": "untitled-39",
+      "name": "AI/ML DIRECTOR \u2014 NeuronEdge Labs\u2122 (v2.0)",
+      "category": "legal_compliance",
+      "path": "agents/legal_compliance/untitled-39.md"
+    },
+    {
+      "id": "you-are-the-omniscient-legal-enforcer",
+      "name": "WHAT YOU ARE",
+      "category": "legal_compliance",
+      "path": "agents/legal_compliance/you-are-the-omniscient-legal-enforcer.md"
+    },
+    {
+      "id": "rick-jefferson-ai-quantum-image-vi",
+      "name": "RICK JEFFERSON AI \u2014 Quantum Image & Video Prompt Architect v2.0",
+      "category": "media_audio_video",
+      "path": "agents/media_audio_video/rick-jefferson-ai-quantum-image-vi.md"
+    },
+    {
+      "id": "wave-professor-wave-music-mentor-s",
+      "name": "WAVE PROFESSOR \u2014 Wave Music Mentor & Studio Coach",
+      "category": "media_audio_video",
+      "path": "agents/media_audio_video/wave-professor-wave-music-mentor-s.md"
+    },
+    {
+      "id": "youtube-intelligence-extractor-v2",
+      "name": "YOUTUBE INTELLIGENCE EXTRACTOR \u2014 v2.0",
+      "category": "media_audio_video",
+      "path": "agents/media_audio_video/youtube-intelligence-extractor-v2.md"
+    },
+    {
+      "id": "rick-jefferson-agentic-systems-archi",
+      "name": "RICK JEFFERSON \u2014 AGENTIC SYSTEMS ARCHITECT \u2014 v2.0",
+      "category": "operations_sop",
+      "path": "agents/operations_sop/rick-jefferson-agentic-systems-archi.md"
+    },
+    {
+      "id": "you-are-rick-jefferson-elite-ai-system",
+      "name": "CORE IDENTITY",
+      "category": "operations_sop",
+      "path": "agents/operations_sop/you-are-rick-jefferson-elite-ai-system.md"
+    },
+    {
+      "id": "devteam-master-orchestrator-v2",
+      "name": "DEVTEAM MASTER ORCHESTRATOR v2.0 \u2014 Rick Jefferson / RJ Business Solutions",
+      "category": "orchestrators",
+      "path": "agents/orchestrators/devteam-master-orchestrator-v2.md"
+    },
+    {
+      "id": "enterprise-base44-meta-orchestrator",
+      "name": "ENTERPRISE BASE44 META-ORCHESTRATOR \u2014 v2.0",
+      "category": "orchestrators",
+      "path": "agents/orchestrators/enterprise-base44-meta-orchestrator.md"
+    },
+    {
+      "id": "knowledge-to-masteragent-genesis-syste",
+      "name": "KNOWLEDGE-TO-MASTERAGENT GENESIS SYSTEM \u2014 v2.0",
+      "category": "orchestrators",
+      "path": "agents/orchestrators/knowledge-to-masteragent-genesis-syste.md"
+    },
+    {
+      "id": "legacy-stephanie-2-0",
+      "name": "STEPHANIE 2.0: SEO Operations Orchestrator",
+      "category": "orchestrators",
+      "path": "agents/orchestrators/legacy-stephanie-2-0.md"
+    },
+    {
+      "id": "quantum-prompt-genesis-v2",
+      "name": "QUANTUM PROMPT GENESIS \u2014 v2.0",
+      "category": "orchestrators",
+      "path": "agents/orchestrators/quantum-prompt-genesis-v2.md"
+    },
+    {
+      "id": "rj-boardroom-multidisciplinary-busin",
+      "name": "RJ BOARDROOM \u2014 Multidisciplinary Business Operating System v2.0",
+      "category": "orchestrators",
+      "path": "agents/orchestrators/rj-boardroom-multidisciplinary-busin.md"
+    },
+    {
+      "id": "supreme-meta-agi-rick-mode-v11",
+      "name": "SUPREME META AGI \u2014 RICK MODE v11.0 (Self-Verifying Fleet Edition)",
+      "category": "orchestrators",
+      "path": "agents/orchestrators/supreme-meta-agi-rick-mode-v11.md"
+    },
+    {
+      "id": "supreme-meta-agi-rick-mode-v12",
+      "name": "\ud83d\udd25 SUPREME META AGI \u2014 RICK MODE v12.0 \"UNIFIED FLEET\"",
+      "category": "orchestrators",
+      "path": "agents/orchestrators/supreme-meta-agi-rick-mode-v12.md"
+    },
+    {
+      "id": "you-are-supreme-legal-agi-master-router",
+      "name": "\ud83c\udfaf YOUR PRIMARY ROLE: INTAKE, DETECT, ROUTE",
+      "category": "orchestrators",
+      "path": "agents/orchestrators/you-are-supreme-legal-agi-master-router.md"
+    },
+    {
+      "id": "chief-architect",
+      "name": "CHIEF ARCHITECT",
+      "category": "plugins",
+      "path": "agents/plugins/antigravity-omega/chief-architect.md"
+    },
+    {
+      "id": "cloudflare-master",
+      "name": "CLOUDFLARE MASTER",
+      "category": "plugins",
+      "path": "agents/plugins/antigravity-omega/cloudflare-master.md"
+    },
+    {
+      "id": "data-engineer",
+      "name": "DATA ENGINEER",
+      "category": "plugins",
+      "path": "agents/plugins/antigravity-omega/data-engineer.md"
+    },
+    {
+      "id": "devops-sre",
+      "name": "DEVOPS / SRE",
+      "category": "plugins",
+      "path": "agents/plugins/antigravity-omega/devops-sre.md"
+    },
+    {
+      "id": "documentation-engineer",
+      "name": "DOCUMENTATION ENGINEER",
+      "category": "plugins",
+      "path": "agents/plugins/antigravity-omega/documentation-engineer.md"
+    },
+    {
+      "id": "frontend-engineer",
+      "name": "FRONTEND ENGINEER",
+      "category": "plugins",
+      "path": "agents/plugins/antigravity-omega/frontend-engineer.md"
+    },
+    {
+      "id": "huggingface-specialist",
+      "name": "HUGGING FACE SPECIALIST",
+      "category": "plugins",
+      "path": "agents/plugins/antigravity-omega/huggingface-specialist.md"
+    },
+    {
+      "id": "kaggle-scientist",
+      "name": "KAGGLE SCIENTIST",
+      "category": "plugins",
+      "path": "agents/plugins/antigravity-omega/kaggle-scientist.md"
+    },
+    {
+      "id": "model-router",
+      "name": "MODEL ROUTER",
+      "category": "plugins",
+      "path": "agents/plugins/antigravity-omega/model-router.md"
+    },
+    {
+      "id": "omega-commander",
+      "name": "OMEGA COMMANDER",
+      "category": "plugins",
+      "path": "agents/plugins/antigravity-omega/omega-commander.md"
+    },
+    {
+      "id": "openrouter-specialist",
+      "name": "OPENROUTER SPECIALIST",
+      "category": "plugins",
+      "path": "agents/plugins/antigravity-omega/openrouter-specialist.md"
+    },
+    {
+      "id": "performance-engineer",
+      "name": "PERFORMANCE ENGINEER",
+      "category": "plugins",
+      "path": "agents/plugins/antigravity-omega/performance-engineer.md"
+    },
+    {
+      "id": "principal-engineer",
+      "name": "PRINCIPAL ENGINEER",
+      "category": "plugins",
+      "path": "agents/plugins/antigravity-omega/principal-engineer.md"
+    },
+    {
+      "id": "qa-verifier",
+      "name": "QA VERIFIER",
+      "category": "plugins",
+      "path": "agents/plugins/antigravity-omega/qa-verifier.md"
+    },
+    {
+      "id": "security-red-team",
+      "name": "SECURITY RED TEAM",
+      "category": "plugins",
+      "path": "agents/plugins/antigravity-omega/security-red-team.md"
+    },
+    {
+      "id": "truth-temporal-engineer",
+      "name": "TRUTH & TEMPORAL ENGINEER",
+      "category": "plugins",
+      "path": "agents/plugins/antigravity-omega/truth-temporal-engineer.md"
+    },
+    {
+      "id": "ai-gameplay-engineer",
+      "name": "AI GAMEPLAY ENGINEER",
+      "category": "plugins",
+      "path": "agents/plugins/apex-gameforge/ai-gameplay-engineer.md"
+    },
+    {
+      "id": "analytics-growth-agent",
+      "name": "ANALYTICS & GROWTH",
+      "category": "plugins",
+      "path": "agents/plugins/apex-gameforge/analytics-growth-agent.md"
+    },
+    {
+      "id": "animation-character-agent",
+      "name": "CHARACTER & ANIMATION",
+      "category": "plugins",
+      "path": "agents/plugins/apex-gameforge/animation-character-agent.md"
+    },
+    {
+      "id": "apex-gameforge-commander",
+      "name": "APEX GAMEFORGE COMMANDER",
+      "category": "plugins",
+      "path": "agents/plugins/apex-gameforge/apex-gameforge-commander.md"
+    },
+    {
+      "id": "art-technical-artist",
+      "name": "ART / TECH ART",
+      "category": "plugins",
+      "path": "agents/plugins/apex-gameforge/art-technical-artist.md"
+    },
+    {
+      "id": "audio-director",
+      "name": "AUDIO DIRECTOR",
+      "category": "plugins",
+      "path": "agents/plugins/apex-gameforge/audio-director.md"
+    },
+    {
+      "id": "economy-balancing-designer",
+      "name": "GAME ECONOMY",
+      "category": "plugins",
+      "path": "agents/plugins/apex-gameforge/economy-balancing-designer.md"
+    },
+    {
+      "id": "engine-technical-director",
+      "name": "ENGINE TECHNICAL DIRECTOR",
+      "category": "plugins",
+      "path": "agents/plugins/apex-gameforge/engine-technical-director.md"
+    },
+    {
+      "id": "game-director",
+      "name": "GAME DIRECTOR",
+      "category": "plugins",
+      "path": "agents/plugins/apex-gameforge/game-director.md"
+    },
+    {
+      "id": "gameplay-engineer",
+      "name": "GAMEPLAY ENGINEER",
+      "category": "plugins",
+      "path": "agents/plugins/apex-gameforge/gameplay-engineer.md"
+    },
+    {
+      "id": "level-world-designer",
+      "name": "LEVEL / WORLD DESIGN",
+      "category": "plugins",
+      "path": "agents/plugins/apex-gameforge/level-world-designer.md"
+    },
+    {
+      "id": "market-intelligence",
+      "name": "MARKET INTELLIGENCE",
+      "category": "plugins",
+      "path": "agents/plugins/apex-gameforge/market-intelligence.md"
+    },
+    {
+      "id": "monetization-liveops",
+      "name": "MONETIZATION & LIVEOPS",
+      "category": "plugins",
+      "path": "agents/plugins/apex-gameforge/monetization-liveops.md"
+    },
+    {
+      "id": "multiplayer-backend-engineer",
+      "name": "MULTIPLAYER & BACKEND",
+      "category": "plugins",
+      "path": "agents/plugins/apex-gameforge/multiplayer-backend-engineer.md"
+    },
+    {
+      "id": "narrative-designer",
+      "name": "NARRATIVE DESIGNER",
+      "category": "plugins",
+      "path": "agents/plugins/apex-gameforge/narrative-designer.md"
+    },
+    {
+      "id": "performance-engineer",
+      "name": "PERFORMANCE ENGINEER",
+      "category": "plugins",
+      "path": "agents/plugins/apex-gameforge/performance-engineer.md"
+    },
+    {
+      "id": "platform-release-engineer",
+      "name": "RELEASE ENGINEER",
+      "category": "plugins",
+      "path": "agents/plugins/apex-gameforge/platform-release-engineer.md"
+    },
+    {
+      "id": "qa-playtest-agent",
+      "name": "QA / PLAYTEST",
+      "category": "plugins",
+      "path": "agents/plugins/apex-gameforge/qa-playtest-agent.md"
+    },
+    {
+      "id": "security-integrity-agent",
+      "name": "SECURITY & INTEGRITY",
+      "category": "plugins",
+      "path": "agents/plugins/apex-gameforge/security-integrity-agent.md"
+    },
+    {
+      "id": "systems-designer",
+      "name": "SYSTEMS DESIGNER",
+      "category": "plugins",
+      "path": "agents/plugins/apex-gameforge/systems-designer.md"
+    },
+    {
+      "id": "truth-temporal-game-auditor",
+      "name": "TRUTH & TEMPORAL GAME AUDITOR",
+      "category": "plugins",
+      "path": "agents/plugins/apex-gameforge/truth-temporal-game-auditor.md"
+    },
+    {
+      "id": "ai-model-router",
+      "name": "AI MODEL ROUTER",
+      "category": "plugins",
+      "path": "agents/plugins/nexus-architect/ai-model-router.md"
+    },
+    {
+      "id": "cloudflare-master",
+      "name": "CLOUDFLARE MASTER",
+      "category": "plugins",
+      "path": "agents/plugins/nexus-architect/cloudflare-master.md"
+    },
+    {
+      "id": "data-engineer",
+      "name": "DATA ENGINEER",
+      "category": "plugins",
+      "path": "agents/plugins/nexus-architect/data-engineer.md"
+    },
+    {
+      "id": "devops-sre",
+      "name": "DEVOPS / SRE",
+      "category": "plugins",
+      "path": "agents/plugins/nexus-architect/devops-sre.md"
+    },
+    {
+      "id": "frontend-engineer",
+      "name": "FRONTEND ENGINEER",
+      "category": "plugins",
+      "path": "agents/plugins/nexus-architect/frontend-engineer.md"
+    },
+    {
+      "id": "nexus-architect",
+      "name": "NEXUS ARCHITECT",
+      "category": "plugins",
+      "path": "agents/plugins/nexus-architect/nexus-architect.md"
+    },
+    {
+      "id": "performance-engineer",
+      "name": "PERFORMANCE ENGINEER",
+      "category": "plugins",
+      "path": "agents/plugins/nexus-architect/performance-engineer.md"
+    },
+    {
+      "id": "principal-engineer",
+      "name": "PRINCIPAL ENGINEER",
+      "category": "plugins",
+      "path": "agents/plugins/nexus-architect/principal-engineer.md"
+    },
+    {
+      "id": "qa-verifier",
+      "name": "QA VERIFIER",
+      "category": "plugins",
+      "path": "agents/plugins/nexus-architect/qa-verifier.md"
+    },
+    {
+      "id": "security-red-team",
+      "name": "SECURITY RED TEAM",
+      "category": "plugins",
+      "path": "agents/plugins/nexus-architect/security-red-team.md"
+    },
+    {
+      "id": "truth-temporal-engineer",
+      "name": "TRUTH & TEMPORAL ENGINEER",
+      "category": "plugins",
+      "path": "agents/plugins/nexus-architect/truth-temporal-engineer.md"
+    },
+    {
+      "id": "academic-researcher",
+      "name": "ACADEMIC RESEARCHER",
+      "category": "plugins",
+      "path": "agents/plugins/rj-prometheus-apex/academic-researcher.md"
+    },
+    {
+      "id": "agent-systems-architect",
+      "name": "AGENT SYSTEMS ARCHITECT",
+      "category": "plugins",
+      "path": "agents/plugins/rj-prometheus-apex/agent-systems-architect.md"
+    },
+    {
+      "id": "business-strategist",
+      "name": "BUSINESS STRATEGIST",
+      "category": "plugins",
+      "path": "agents/plugins/rj-prometheus-apex/business-strategist.md"
+    },
+    {
+      "id": "cloudflare-architect",
+      "name": "CLOUDFLARE ARCHITECT",
+      "category": "plugins",
+      "path": "agents/plugins/rj-prometheus-apex/cloudflare-architect.md"
+    },
+    {
+      "id": "competitive-intelligence",
+      "name": "COMPETITIVE INTELLIGENCE",
+      "category": "plugins",
+      "path": "agents/plugins/rj-prometheus-apex/competitive-intelligence.md"
+    },
+    {
+      "id": "context-engineer",
+      "name": "CONTEXT ENGINEER",
+      "category": "plugins",
+      "path": "agents/plugins/rj-prometheus-apex/context-engineer.md"
+    },
+    {
+      "id": "model-intelligence",
+      "name": "MODEL INTELLIGENCE",
+      "category": "plugins",
+      "path": "agents/plugins/rj-prometheus-apex/model-intelligence.md"
+    },
+    {
+      "id": "monetization-architect",
+      "name": "MONETIZATION ARCHITECT",
+      "category": "plugins",
+      "path": "agents/plugins/rj-prometheus-apex/monetization-architect.md"
+    },
+    {
+      "id": "principal-engineer",
+      "name": "PRINCIPAL ENGINEER",
+      "category": "plugins",
+      "path": "agents/plugins/rj-prometheus-apex/principal-engineer.md"
+    },
+    {
+      "id": "prompt-architect",
+      "name": "PROMPT ARCHITECT",
+      "category": "plugins",
+      "path": "agents/plugins/rj-prometheus-apex/prompt-architect.md"
+    },
+    {
+      "id": "prompt-evaluator",
+      "name": "PROMPT EVALUATOR",
+      "category": "plugins",
+      "path": "agents/plugins/rj-prometheus-apex/prompt-evaluator.md"
+    },
+    {
+      "id": "qa-verifier",
+      "name": "QA VERIFIER",
+      "category": "plugins",
+      "path": "agents/plugins/rj-prometheus-apex/qa-verifier.md"
+    },
+    {
+      "id": "reasoning-strategist",
+      "name": "REASONING STRATEGIST",
+      "category": "plugins",
+      "path": "agents/plugins/rj-prometheus-apex/reasoning-strategist.md"
+    },
+    {
+      "id": "research-oracle",
+      "name": "RESEARCH ORACLE",
+      "category": "plugins",
+      "path": "agents/plugins/rj-prometheus-apex/research-oracle.md"
+    },
+    {
+      "id": "rj-prometheus-apex",
+      "name": "RJ PROMETHEUS APEX",
+      "category": "plugins",
+      "path": "agents/plugins/rj-prometheus-apex/rj-prometheus-apex.md"
+    },
+    {
+      "id": "security-red-team",
+      "name": "SECURITY RED TEAM",
+      "category": "plugins",
+      "path": "agents/plugins/rj-prometheus-apex/security-red-team.md"
+    },
+    {
+      "id": "truth-temporal-oracle",
+      "name": "TRUTH TEMPORAL ORACLE",
+      "category": "plugins",
+      "path": "agents/plugins/rj-prometheus-apex/truth-temporal-oracle.md"
+    },
+    {
+      "id": "analytics-strategist",
+      "name": "ANALYTICS STRATEGIST",
+      "category": "plugins",
+      "path": "agents/plugins/supreme-blog-engine/analytics-strategist.md"
+    },
+    {
+      "id": "competitive-intelligence",
+      "name": "COMPETITIVE INTELLIGENCE",
+      "category": "plugins",
+      "path": "agents/plugins/supreme-blog-engine/competitive-intelligence.md"
+    },
+    {
+      "id": "content-refresh",
+      "name": "CONTENT REFRESH",
+      "category": "plugins",
+      "path": "agents/plugins/supreme-blog-engine/content-refresh.md"
+    },
+    {
+      "id": "content-writer",
+      "name": "CONTENT WRITER",
+      "category": "plugins",
+      "path": "agents/plugins/supreme-blog-engine/content-writer.md"
+    },
+    {
+      "id": "distribution-strategist",
+      "name": "DISTRIBUTION STRATEGIST",
+      "category": "plugins",
+      "path": "agents/plugins/supreme-blog-engine/distribution-strategist.md"
+    },
+    {
+      "id": "keyword-intelligence",
+      "name": "KEYWORD INTELLIGENCE",
+      "category": "plugins",
+      "path": "agents/plugins/supreme-blog-engine/keyword-intelligence.md"
+    },
+    {
+      "id": "publishing-indexing",
+      "name": "PUBLISHING & INDEXING",
+      "category": "plugins",
+      "path": "agents/plugins/supreme-blog-engine/publishing-indexing.md"
+    },
+    {
+      "id": "schema-specialist",
+      "name": "SCHEMA SPECIALIST",
+      "category": "plugins",
+      "path": "agents/plugins/supreme-blog-engine/schema-specialist.md"
+    },
+    {
+      "id": "seo-optimizer",
+      "name": "SEO OPTIMIZER",
+      "category": "plugins",
+      "path": "agents/plugins/supreme-blog-engine/seo-optimizer.md"
+    },
+    {
+      "id": "supreme-blog-commander",
+      "name": "SUPREME BLOG COMMANDER",
+      "category": "plugins",
+      "path": "agents/plugins/supreme-blog-engine/supreme-blog-commander.md"
+    },
+    {
+      "id": "topical-authority",
+      "name": "TOPICAL AUTHORITY",
+      "category": "plugins",
+      "path": "agents/plugins/supreme-blog-engine/topical-authority.md"
+    },
+    {
+      "id": "trend-intelligence",
+      "name": "TREND INTELLIGENCE",
+      "category": "plugins",
+      "path": "agents/plugins/supreme-blog-engine/trend-intelligence.md"
+    },
+    {
+      "id": "truth-seo-auditor",
+      "name": "TRUTH & SEO TEMPORAL AUDITOR",
+      "category": "plugins",
+      "path": "agents/plugins/supreme-blog-engine/truth-seo-auditor.md"
+    },
+    {
+      "id": "visual-content-director",
+      "name": "VISUAL CONTENT DIRECTOR",
+      "category": "plugins",
+      "path": "agents/plugins/supreme-blog-engine/visual-content-director.md"
+    },
+    {
+      "id": "agent-four-oracle",
+      "name": "AGENT FOUR: THE ENHANCED ORACLE",
+      "category": "plugins",
+      "path": "agents/plugins/youtube-empire/agent-four-oracle.md"
+    },
+    {
+      "id": "agent-one-content-alchemist",
+      "name": "AGENT ONE: THE NEURAL CONTENT ALCHEMIST",
+      "category": "plugins",
+      "path": "agents/plugins/youtube-empire/agent-one-content-alchemist.md"
+    },
+    {
+      "id": "agent-three-community-sentinel",
+      "name": "AGENT THREE: ADVANCED COMMUNITY SENTINEL",
+      "category": "plugins",
+      "path": "agents/plugins/youtube-empire/agent-three-community-sentinel.md"
+    },
+    {
+      "id": "agent-two-studio-ops",
+      "name": "AGENT TWO: ORCHESTRATED STUDIO OPS",
+      "category": "plugins",
+      "path": "agents/plugins/youtube-empire/agent-two-studio-ops.md"
+    },
+    {
+      "id": "agent-zero-trend-hunter",
+      "name": "AGENT ZERO: THE ENHANCED TREND HUNTER",
+      "category": "plugins",
+      "path": "agents/plugins/youtube-empire/agent-zero-trend-hunter.md"
+    },
+    {
+      "id": "analytics-growth-agent",
+      "name": "ANALYTICS & GROWTH AGENT",
+      "category": "plugins",
+      "path": "agents/plugins/youtube-empire/analytics-growth-agent.md"
+    },
+    {
+      "id": "asset-factory",
+      "name": "ASSET FACTORY",
+      "category": "plugins",
+      "path": "agents/plugins/youtube-empire/asset-factory.md"
+    },
+    {
+      "id": "audience-intelligence",
+      "name": "AUDIENCE INTELLIGENCE",
+      "category": "plugins",
+      "path": "agents/plugins/youtube-empire/audience-intelligence.md"
+    },
+    {
+      "id": "automation-architect",
+      "name": "AUTOMATION ARCHITECT",
+      "category": "plugins",
+      "path": "agents/plugins/youtube-empire/automation-architect.md"
+    },
+    {
+      "id": "brand-positioning-strategist",
+      "name": "BRAND POSITIONING STRATEGIST",
+      "category": "plugins",
+      "path": "agents/plugins/youtube-empire/brand-positioning-strategist.md"
+    },
+    {
+      "id": "channel-intelligence",
+      "name": "CHANNEL INTELLIGENCE",
+      "category": "plugins",
+      "path": "agents/plugins/youtube-empire/channel-intelligence.md"
+    },
+    {
+      "id": "competitor-youtube-intelligence",
+      "name": "COMPETITOR YOUTUBE INTELLIGENCE",
+      "category": "plugins",
+      "path": "agents/plugins/youtube-empire/competitor-youtube-intelligence.md"
+    },
+    {
+      "id": "content-strategist",
+      "name": "CONTENT STRATEGIST",
+      "category": "plugins",
+      "path": "agents/plugins/youtube-empire/content-strategist.md"
+    },
+    {
+      "id": "funnel-architect",
+      "name": "FUNNEL ARCHITECT",
+      "category": "plugins",
+      "path": "agents/plugins/youtube-empire/funnel-architect.md"
+    },
+    {
+      "id": "monetization-architect",
+      "name": "MONETIZATION ARCHITECT",
+      "category": "plugins",
+      "path": "agents/plugins/youtube-empire/monetization-architect.md"
+    },
+    {
+      "id": "podcast-empire-architect",
+      "name": "ELITE AI PODCAST EMPIRE ARCHITECT",
+      "category": "plugins",
+      "path": "agents/plugins/youtube-empire/podcast-empire-architect.md"
+    },
+    {
+      "id": "product-suite-architect",
+      "name": "PRODUCT SUITE ARCHITECT",
+      "category": "plugins",
+      "path": "agents/plugins/youtube-empire/product-suite-architect.md"
+    },
+    {
+      "id": "sponsorship-affiliate-strategist",
+      "name": "SPONSORSHIP & AFFILIATE STRATEGIST",
+      "category": "plugins",
+      "path": "agents/plugins/youtube-empire/sponsorship-affiliate-strategist.md"
+    },
+    {
+      "id": "title-hook-thumbnail-strategist",
+      "name": "PACKAGING STRATEGIST",
+      "category": "plugins",
+      "path": "agents/plugins/youtube-empire/title-hook-thumbnail-strategist.md"
+    },
+    {
+      "id": "transcript-knowledge-miner",
+      "name": "TRANSCRIPT KNOWLEDGE MINER",
+      "category": "plugins",
+      "path": "agents/plugins/youtube-empire/transcript-knowledge-miner.md"
+    },
+    {
+      "id": "trend-opportunity-scout",
+      "name": "TREND OPPORTUNITY SCOUT",
+      "category": "plugins",
+      "path": "agents/plugins/youtube-empire/trend-opportunity-scout.md"
+    },
+    {
+      "id": "truth-temporal-auditor",
+      "name": "TRUTH & TEMPORAL AUDITOR",
+      "category": "plugins",
+      "path": "agents/plugins/youtube-empire/truth-temporal-auditor.md"
+    },
+    {
+      "id": "video-ranking-analyst",
+      "name": "VIDEO RANKING ANALYST",
+      "category": "plugins",
+      "path": "agents/plugins/youtube-empire/video-ranking-analyst.md"
+    },
+    {
+      "id": "youtube-data-auditor",
+      "name": "YOUTUBE DATA AUDITOR",
+      "category": "plugins",
+      "path": "agents/plugins/youtube-empire/youtube-data-auditor.md"
+    },
+    {
+      "id": "youtube-empire-commander",
+      "name": "YOUTUBE EMPIRE COMMANDER & ALGORITHM GOD \u2014 TUBEMIND AGI",
+      "category": "plugins",
+      "path": "agents/plugins/youtube-empire/youtube-empire-commander.md"
+    },
+    {
+      "id": "elite-agent-architect-v2",
+      "name": "elite-agent-architect-v2",
+      "category": "specialized",
+      "path": "agents/specialized/elite-agent-architect-v2.md"
+    },
+    {
+      "id": "i-rewrote-this-one-too",
+      "name": "EXCEL MASTER ARCHITECT v14.0",
+      "category": "specialized",
+      "path": "agents/specialized/i-rewrote-this-one-too.md"
+    },
+    {
+      "id": "i-rewrote-this-one",
+      "name": "SENIOR AI ENGINEER \u2014 EVERGREEN FRESHNESS PROTOCOL (v7.0)",
+      "category": "specialized",
+      "path": "agents/specialized/i-rewrote-this-one.md"
+    },
+    {
+      "id": "rick-jefferson-total-mastery-mentor",
+      "name": "RICK JEFFERSON TOTAL MASTERY MENTOR \u2014 v2.0",
+      "category": "specialized",
+      "path": "agents/specialized/rick-jefferson-total-mastery-mentor.md"
+    },
+    {
+      "id": "rjbs-prime-ai-assistant-v2",
+      "name": "RJBS PRIME AI ASSISTANT \u2014 v2.0",
+      "category": "specialized",
+      "path": "agents/specialized/rjbs-prime-ai-assistant-v2.md"
+    },
+    {
+      "id": "universal-metacor-template-engine-v2",
+      "name": "UNIVERSAL METACOR TEMPLATE ENGINE \u2014 v2.0",
+      "category": "specialized",
+      "path": "agents/specialized/universal-metacor-template-engine-v2.md"
+    },
+    {
+      "id": "you-are-rj-prometheus-rick-jefferson-s",
+      "name": "PRIME DIRECTIVE",
+      "category": "specialized",
+      "path": "agents/specialized/you-are-rj-prometheus-rick-jefferson-s.md"
+    },
+    {
+      "id": "you-are-the-genspark-master-agent-rj-b",
+      "name": "HONEST CAPABILITIES",
+      "category": "specialized",
+      "path": "agents/specialized/you-are-the-genspark-master-agent-rj-b.md"
+    },
+    {
+      "id": "your-doc-was-dated-february-28-and-it-s",
+      "name": "Part 1: What changed since Feb 28",
+      "category": "specialized",
+      "path": "agents/specialized/your-doc-was-dated-february-28-and-it-s.md"
+    }
+  ],
+  "skills": [
+    {
+      "slug": "50x-sales-system-agent-v2",
+      "description": "Use this skill for 50X SALES SYSTEM AGENT v2. Senior sales-systems strategist + automation architect. You design funnels, scripts, CRM workflows, and closer training that raise conversion measurably and ethically.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/50x-sales-system-agent-v2/SKILL.md"
+    },
+    {
+      "slug": "8-second-cinematic-ad-director-v2",
+      "description": "Use this skill for 8-SECOND CINEMATIC AD DIRECTOR \u2014 v2. You are a commercial director and AI-video prompt engineer. You make 8-second vertical micro-ads in an anime-cinematic hybrid style: gritty gekiga realism (1970s\u201380s seinen manga: h...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/8-second-cinematic-ad-director-v2/SKILL.md"
+    },
+    {
+      "slug": "a11y-debugging",
+      "description": "Uses Chrome DevTools MCP for accessibility (a11y) debugging and auditing based on web.dev guidelines. Use when testing semantic HTML, ARIA labels, focus states, keyboard navigation, tap targets, and color contrast.",
+      "source": "plugin:chrome-devtools-plugin",
+      "path": ".agents/skills/a11y-debugging/SKILL.md"
+    },
+    {
+      "slug": "academic-researcher",
+      "description": "ACADEMIC RESEARCHER",
+      "source": "agents/plugins",
+      "path": ".agents/skills/academic-researcher/SKILL.md"
+    },
+    {
+      "slug": "accidental-data-loss-prevention",
+      "description": "RJ Business Solutions Skill (rj-global-skills)",
+      "source": "rj-global-skills",
+      "path": ".agents/skills/accidental-data-loss-prevention/SKILL.md"
+    },
+    {
+      "slug": "activation-phrase-start-every-response",
+      "description": "Use this skill for Activation Phrase (start EVERY response. Activation Phrase (start EVERY response with exactly): \\'Deploying as: The 50X Agent \u2013 Engineered by Rick Jefferson (\ud83d\udcde 945-308-8003)\\'.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/activation-phrase-start-every-response/SKILL.md"
+    },
+    {
+      "slug": "adversarial-review",
+      "description": "Reviews implementations under the assumption defects exist, searching specifically for missing requirements, security problems, race conditions, stale APIs, failure paths and unverified claims.",
+      "source": "plugin:antigravity-omega",
+      "path": ".agents/skills/adversarial-review/SKILL.md"
+    },
+    {
+      "slug": "agent-four-oracle",
+      "description": "AGENT FOUR: THE ENHANCED ORACLE",
+      "source": "agents/plugins",
+      "path": ".agents/skills/agent-four-oracle/SKILL.md"
+    },
+    {
+      "slug": "agent-manifest-1",
+      "description": "Use this skill for AGENT_MANIFEST (1). { \\'agent\\': { \\'id\\': \\'e1127052-9629-470e-b821-6d0bd229b616\\', \\'name\\': \\'Rick Jefferson - Credit Oracle of the South\u2122\\', \\'version\\': \\'5.0\\', \\'package_date\\': \\'2026-08-07\\', \\'system_name\\': ...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/agent-manifest-1/SKILL.md"
+    },
+    {
+      "slug": "agent-one-content-alchemist",
+      "description": "AGENT ONE: THE NEURAL CONTENT ALCHEMIST",
+      "source": "agents/plugins",
+      "path": ".agents/skills/agent-one-content-alchemist/SKILL.md"
+    },
+    {
+      "slug": "agent-systems-architect",
+      "description": "AGENT SYSTEMS ARCHITECT",
+      "source": "agents/plugins",
+      "path": ".agents/skills/agent-systems-architect/SKILL.md"
+    },
+    {
+      "slug": "agent-three-community-sentinel",
+      "description": "AGENT THREE: ADVANCED COMMUNITY SENTINEL",
+      "source": "agents/plugins",
+      "path": ".agents/skills/agent-three-community-sentinel/SKILL.md"
+    },
+    {
+      "slug": "agent-two-studio-ops",
+      "description": "AGENT TWO: ORCHESTRATED STUDIO OPS",
+      "source": "agents/plugins",
+      "path": ".agents/skills/agent-two-studio-ops/SKILL.md"
+    },
+    {
+      "slug": "agent-zero-trend-hunter",
+      "description": "AGENT ZERO: THE ENHANCED TREND HUNTER",
+      "source": "agents/plugins",
+      "path": ".agents/skills/agent-zero-trend-hunter/SKILL.md"
+    },
+    {
+      "slug": "ai-gameplay-engineer",
+      "description": "AI GAMEPLAY ENGINEER",
+      "source": "agents/plugins",
+      "path": ".agents/skills/ai-gameplay-engineer/SKILL.md"
+    },
+    {
+      "slug": "ai-model-router",
+      "description": "AI MODEL ROUTER",
+      "source": "agents/plugins",
+      "path": ".agents/skills/ai-model-router/SKILL.md"
+    },
+    {
+      "slug": "algorithmic-art",
+      "description": "Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this when users request creating art using code, generative art, algorithmic art, flow fields, or particle systems. Create original al...",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/algorithmic-art/SKILL.md"
+    },
+    {
+      "slug": "alphafold_database_fetch_and_analyze",
+      "description": "RJ Business Solutions Skill (plugin:science)",
+      "source": "plugin:science",
+      "path": ".agents/skills/alphafold_database_fetch_and_analyze/SKILL.md"
+    },
+    {
+      "slug": "alphagenome_atlas_website_links",
+      "description": "RJ Business Solutions Skill (plugin:science)",
+      "source": "plugin:science",
+      "path": ".agents/skills/alphagenome_atlas_website_links/SKILL.md"
+    },
+    {
+      "slug": "alphagenome_single_variant_analysis",
+      "description": "RJ Business Solutions Skill (plugin:science)",
+      "source": "plugin:science",
+      "path": ".agents/skills/alphagenome_single_variant_analysis/SKILL.md"
+    },
+    {
+      "slug": "alphagenome_variant_impact_score",
+      "description": "RJ Business Solutions Skill (plugin:science)",
+      "source": "plugin:science",
+      "path": ".agents/skills/alphagenome_variant_impact_score/SKILL.md"
+    },
+    {
+      "slug": "analytics-growth-agent",
+      "description": "ANALYTICS & GROWTH",
+      "source": "agents/plugins",
+      "path": ".agents/skills/analytics-growth-agent/SKILL.md"
+    },
+    {
+      "slug": "analytics-strategist",
+      "description": "ANALYTICS STRATEGIST",
+      "source": "agents/plugins",
+      "path": ".agents/skills/analytics-strategist/SKILL.md"
+    },
+    {
+      "slug": "animation-character-agent",
+      "description": "CHARACTER & ANIMATION",
+      "source": "agents/plugins",
+      "path": ".agents/skills/animation-character-agent/SKILL.md"
+    },
+    {
+      "slug": "apex-gameforge-commander",
+      "description": "APEX GAMEFORGE COMMANDER",
+      "source": "agents/plugins",
+      "path": ".agents/skills/apex-gameforge-commander/SKILL.md"
+    },
+    {
+      "slug": "api-and-interface-design",
+      "description": "Guides stable API and interface design. Use when designing APIs, module boundaries, or any public interface. Use when creating REST or GraphQL endpoints, defining type contracts between modules, or establishing boundaries between fronten...",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/api-and-interface-design/SKILL.md"
+    },
+    {
+      "slug": "api-director-neuronedge-labs-v2",
+      "description": "Use this skill for API DIRECTOR \u2014 NeuronEdge Labs\u2122 (v2. You are the API Director of NeuronEdge Labs. You own API architecture, endpoint design, contracts and schemas, validation, versioning, security at the API edge, and integration prot...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/api-director-neuronedge-labs-v2/SKILL.md"
+    },
+    {
+      "slug": "api-integration-master-v2",
+      "description": "Use this skill for API INTEGRATION MASTER \u2014 v2. You are the API Integration Master, a senior integration architect for API orchestration, authentication, and system integration across REST, GraphQL, gRPC, WebSockets, SSE, SOAP, and webho...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/api-integration-master-v2/SKILL.md"
+    },
+    {
+      "slug": "app-forge-architect-v2",
+      "description": "Use this skill for APP FORGE ARCHITECT \u2014 v2. You are App Forge Architect, a principal mobile/web product engineer. You turn ideas, documents, screenshots, and existing code into complete app specifications, architectures, production code...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/app-forge-architect-v2/SKILL.md"
+    },
+    {
+      "slug": "art-technical-artist",
+      "description": "ART / TECH ART",
+      "source": "agents/plugins",
+      "path": ".agents/skills/art-technical-artist/SKILL.md"
+    },
+    {
+      "slug": "asset-factory",
+      "description": "ASSET FACTORY",
+      "source": "agents/plugins",
+      "path": ".agents/skills/asset-factory/SKILL.md"
+    },
+    {
+      "slug": "audience-intelligence",
+      "description": "AUDIENCE INTELLIGENCE",
+      "source": "agents/plugins",
+      "path": ".agents/skills/audience-intelligence/SKILL.md"
+    },
+    {
+      "slug": "audio-director",
+      "description": "AUDIO DIRECTOR",
+      "source": "agents/plugins",
+      "path": ".agents/skills/audio-director/SKILL.md"
+    },
+    {
+      "slug": "authority-book-engine-v2",
+      "description": "Use this skill for AUTHORITY BOOK ENGINE \u2014 v2. You are an elite publishing strategist, developmental editor, ghostwriter, and brand architect. You turn rights-cleared source material and the author's own expertise into polished, market-p...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/authority-book-engine-v2/SKILL.md"
+    },
+    {
+      "slug": "automation-architect",
+      "description": "AUTOMATION ARCHITECT",
+      "source": "agents/plugins",
+      "path": ".agents/skills/automation-architect/SKILL.md"
+    },
+    {
+      "slug": "backend-director-neuronedge-labs-v",
+      "description": "Use this skill for BACKEND DIRECTOR \u2014 NeuronEdge Labs\u2122 (v. You are the Backend Director of NeuronEdge Labs. You own backend services, business logic, state machines, service orchestration, async processing, and server-side architecture.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/backend-director-neuronedge-labs-v/SKILL.md"
+    },
+    {
+      "slug": "bigquery-ai-ml",
+      "description": "Leverages BigQuery's built-in machine learning and GenAI capabilities",
+      "source": "rj-global-skills",
+      "path": ".agents/skills/bigquery-ai-ml/SKILL.md"
+    },
+    {
+      "slug": "bigquery-bigframes",
+      "description": "Generates Python code using BigQuery DataFrames (BigFrames). Use by\\",
+      "source": "rj-global-skills",
+      "path": ".agents/skills/bigquery-bigframes/SKILL.md"
+    },
+    {
+      "slug": "bigquery-data-transfer-service",
+      "description": "Discovers and inspects BigQuery Data Transfer Service (DTS) configurations.",
+      "source": "rj-global-skills",
+      "path": ".agents/skills/bigquery-data-transfer-service/SKILL.md"
+    },
+    {
+      "slug": "bigquery-graph-author",
+      "description": "Provides an end-to-end journey for authoring a BigQuery property graph",
+      "source": "rj-global-skills",
+      "path": ".agents/skills/bigquery-graph-author/SKILL.md"
+    },
+    {
+      "slug": "bigquery-graph-query",
+      "description": "Provides guidelines and best practices for querying BigQuery property",
+      "source": "rj-global-skills",
+      "path": ".agents/skills/bigquery-graph-query/SKILL.md"
+    },
+    {
+      "slug": "bigquery-sql",
+      "description": "Provides BigQuery SQL query optimization techniques, execution best practices,",
+      "source": "rj-global-skills",
+      "path": ".agents/skills/bigquery-sql/SKILL.md"
+    },
+    {
+      "slug": "brand-guidelines",
+      "description": "Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand colors or style guidelines, visual formatting, or company design standards apply.",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/brand-guidelines/SKILL.md"
+    },
+    {
+      "slug": "brand-positioning-strategist",
+      "description": "BRAND POSITIONING STRATEGIST",
+      "source": "agents/plugins",
+      "path": ".agents/skills/brand-positioning-strategist/SKILL.md"
+    },
+    {
+      "slug": "browser-testing-with-devtools",
+      "description": "Tests in real browsers via Chrome DevTools MCP. Use when building or debugging anything that runs in a browser. Use when you need to inspect the DOM, capture console errors, analyze network requests, profile performance, or verify visual...",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/browser-testing-with-devtools/SKILL.md"
+    },
+    {
+      "slug": "building-data-apps",
+      "description": "RJ Business Solutions Skill (rj-global-skills)",
+      "source": "rj-global-skills",
+      "path": ".agents/skills/building-data-apps/SKILL.md"
+    },
+    {
+      "slug": "business-strategist",
+      "description": "BUSINESS STRATEGIST",
+      "source": "agents/plugins",
+      "path": ".agents/skills/business-strategist/SKILL.md"
+    },
+    {
+      "slug": "business-value",
+      "description": "Connects technical work to revenue, cost reduction, risk reduction, differentiation, scalability and time-to-value.",
+      "source": "plugin:rj-prometheus-apex",
+      "path": ".agents/skills/business-value/SKILL.md"
+    },
+    {
+      "slug": "canvas-design",
+      "description": "Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user asks to create a poster, piece of art, design, or other static piece. Create original visual designs, never copying e...",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/canvas-design/SKILL.md"
+    },
+    {
+      "slug": "channel-intelligence",
+      "description": "CHANNEL INTELLIGENCE",
+      "source": "agents/plugins",
+      "path": ".agents/skills/channel-intelligence/SKILL.md"
+    },
+    {
+      "slug": "chembl_database",
+      "description": "RJ Business Solutions Skill (plugin:science)",
+      "source": "plugin:science",
+      "path": ".agents/skills/chembl_database/SKILL.md"
+    },
+    {
+      "slug": "chief-architect",
+      "description": "CHIEF ARCHITECT",
+      "source": "agents/plugins",
+      "path": ".agents/skills/chief-architect/SKILL.md"
+    },
+    {
+      "slug": "chrome-devtools",
+      "description": "Uses Chrome DevTools via MCP for efficient debugging, troubleshooting and browser automation. Use when debugging web pages, automating browser interactions, analyzing performance, or inspecting network requests. This skill does not apply...",
+      "source": "plugin:chrome-devtools-plugin",
+      "path": ".agents/skills/chrome-devtools/SKILL.md"
+    },
+    {
+      "slug": "chrome-extensions",
+      "description": "RJ Business Solutions Skill (plugin:modern-web-guidance-plugin)",
+      "source": "plugin:modern-web-guidance-plugin",
+      "path": ".agents/skills/chrome-extensions/SKILL.md"
+    },
+    {
+      "slug": "ci-cd-and-automation",
+      "description": "Automates CI/CD pipeline setup. Use when setting up or modifying build and deployment pipelines. Use when you need to automate quality gates, configure test runners in CI, or establish deployment strategies.",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/ci-cd-and-automation/SKILL.md"
+    },
+    {
+      "slug": "citation-audit",
+      "description": "Ensures citations exist, were inspected, are authoritative enough and directly support the associated claim.",
+      "source": "plugin:rj-prometheus-apex",
+      "path": ".agents/skills/citation-audit/SKILL.md"
+    },
+    {
+      "slug": "citation-validation",
+      "description": "Audits citations so sources genuinely exist, were inspected, are authoritative enough, are fresh enough and support the precise factual claim.",
+      "source": "plugin:antigravity-omega",
+      "path": ".agents/skills/citation-validation/SKILL.md"
+    },
+    {
+      "slug": "claude-api",
+      "description": "RJ Business Solutions Skill (plugin:base44-awesome-skills-plugin)",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/claude-api/SKILL.md"
+    },
+    {
+      "slug": "clinical_trials_database",
+      "description": "RJ Business Solutions Skill (plugin:science)",
+      "source": "plugin:science",
+      "path": ".agents/skills/clinical_trials_database/SKILL.md"
+    },
+    {
+      "slug": "clinvar_database",
+      "description": "RJ Business Solutions Skill (plugin:science)",
+      "source": "plugin:science",
+      "path": ".agents/skills/clinvar_database/SKILL.md"
+    },
+    {
+      "slug": "cloudflare-architect",
+      "description": "CLOUDFLARE ARCHITECT",
+      "source": "agents/plugins",
+      "path": ".agents/skills/cloudflare-architect/SKILL.md"
+    },
+    {
+      "slug": "cloudflare-architecture",
+      "description": "Selects appropriate Cloudflare components for compute, storage, durable state, async execution, AI, queues, caching and deployment without overengineering.",
+      "source": "plugin:antigravity-omega",
+      "path": ".agents/skills/cloudflare-architecture/SKILL.md"
+    },
+    {
+      "slug": "cloudflare-master",
+      "description": "CLOUDFLARE MASTER",
+      "source": "agents/plugins",
+      "path": ".agents/skills/cloudflare-master/SKILL.md"
+    },
+    {
+      "slug": "cloudflare-workers-dev",
+      "description": "High-performance edge guidelines for Wrangler, Hono backend routes, D1 database migrations, and Durable Objects.",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/cloudflare-workers-dev/SKILL.md"
+    },
+    {
+      "slug": "cobrowse-sdk",
+      "description": "Zoom Cobrowse SDK for web - JavaScript SDK for real-time collaborative browsing between agents and customers. Features include annotation tools, privacy masking, remote assist, and PIN-based session sharing.",
+      "source": "plugin:zoom-skills",
+      "path": ".agents/skills/cobrowse-sdk/SKILL.md"
+    },
+    {
+      "slug": "code-review-and-quality",
+      "description": "Conducts multi-axis code review. Use before merging any change. Use when reviewing code written by yourself, another agent, or a human. Use when you need to assess code quality across multiple dimensions before it enters the main branch.",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/code-review-and-quality/SKILL.md"
+    },
+    {
+      "slug": "code-simplification",
+      "description": "Simplifies code for clarity. Use when refactoring code for clarity without changing behavior. Use when code works but is harder to read, maintain, or extend than it should be. Use when reviewing code that has accumulated unnecessary comp...",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/code-simplification/SKILL.md"
+    },
+    {
+      "slug": "codeforge-nexus-ai",
+      "description": "RJ Business Solutions Skill (plugin:codeforge-nexus-ai)",
+      "source": "plugin:codeforge-nexus-ai",
+      "path": ".agents/skills/codeforge-nexus-ai/SKILL.md"
+    },
+    {
+      "slug": "codeforge-nexus-ai-v2",
+      "description": "Use this skill for CODEFORGE NEXUS AI \u2014 v2.0. You are CodeForge Nexus AI, the autonomous full-stack engineering system for RJ Business Solutions. You design, generate, test, and deploy production web applications on Cloudflare's develope...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/codeforge-nexus-ai-v2/SKILL.md"
+    },
+    {
+      "slug": "codeforge-nexus-v2",
+      "description": "Use this skill for CODEFORGE NEXUS v2. Senior full-stack + multi-agent engineering partner. You clarify, architect, build, test, and document production systems.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/codeforge-nexus-v2/SKILL.md"
+    },
+    {
+      "slug": "competitive-intelligence",
+      "description": "COMPETITIVE INTELLIGENCE",
+      "source": "agents/plugins",
+      "path": ".agents/skills/competitive-intelligence/SKILL.md"
+    },
+    {
+      "slug": "competitor-youtube-intelligence",
+      "description": "COMPETITOR YOUTUBE INTELLIGENCE",
+      "source": "agents/plugins",
+      "path": ".agents/skills/competitor-youtube-intelligence/SKILL.md"
+    },
+    {
+      "slug": "contact-center",
+      "description": "Zoom Contact Center skill pack for Contact Center apps, web embeds, and native mobile SDK integrations. Use for lifecycle patterns, engagement context/state handling, campaigns, callbacks, and version-drift troubleshooting.",
+      "source": "plugin:zoom-skills",
+      "path": ".agents/skills/contact-center/SKILL.md"
+    },
+    {
+      "slug": "content-director-neuronedge-labs-v",
+      "description": "Use this skill for CONTENT DIRECTOR \u2014 NeuronEdge Labs\u2122 (v. You are the Content Director of NeuronEdge Labs. You own copywriting, content strategy, SEO, brand voice, and UX writing.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/content-director-neuronedge-labs-v/SKILL.md"
+    },
+    {
+      "slug": "content-refresh",
+      "description": "CONTENT REFRESH",
+      "source": "agents/plugins",
+      "path": ".agents/skills/content-refresh/SKILL.md"
+    },
+    {
+      "slug": "content-strategist",
+      "description": "CONTENT STRATEGIST",
+      "source": "agents/plugins",
+      "path": ".agents/skills/content-strategist/SKILL.md"
+    },
+    {
+      "slug": "content-writer",
+      "description": "CONTENT WRITER",
+      "source": "agents/plugins",
+      "path": ".agents/skills/content-writer/SKILL.md"
+    },
+    {
+      "slug": "context-design",
+      "description": "Optimizes working context, retrieval, memory, summarization, references and progressive disclosure for long-horizon tasks.",
+      "source": "plugin:rj-prometheus-apex",
+      "path": ".agents/skills/context-design/SKILL.md"
+    },
+    {
+      "slug": "context-engineer",
+      "description": "CONTEXT ENGINEER",
+      "source": "agents/plugins",
+      "path": ".agents/skills/context-engineer/SKILL.md"
+    },
+    {
+      "slug": "context-engineering",
+      "description": "Optimizes agent context setup. Use when starting a new session, when agent output quality degrades, when switching between tasks, or when you need to configure rules files and context for a project.",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/context-engineering/SKILL.md"
+    },
+    {
+      "slug": "credentials",
+      "description": "RJ Business Solutions Skill (plugin:science)",
+      "source": "plugin:science",
+      "path": ".agents/skills/credentials/SKILL.md"
+    },
+    {
+      "slug": "credit-repair-compliant-marketing-engi",
+      "description": "Use this skill for CREDIT REPAIR COMPLIANT MARKETING ENGI. You are a direct-response copywriter and compliance-aware marketing strategist for credit repair businesses. You apply Rick Jefferson's compliant-growth framework: persuasive, co...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/credit-repair-compliant-marketing-engi/SKILL.md"
+    },
+    {
+      "slug": "d-i-r-g-e",
+      "description": "Use this skill for D.I.R.G.E. **\ud83d\ude80 READY TO SCALE YOUR DIGITAL PRESENCE?**.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/d-i-r-g-e/SKILL.md"
+    },
+    {
+      "slug": "data-autocleaning",
+      "description": "Automated data quality and transformation capabilities for Dataform/dbt/BigQuery",
+      "source": "rj-global-skills",
+      "path": ".agents/skills/data-autocleaning/SKILL.md"
+    },
+    {
+      "slug": "data-engineer",
+      "description": "DATA ENGINEER",
+      "source": "agents/plugins",
+      "path": ".agents/skills/data-engineer/SKILL.md"
+    },
+    {
+      "slug": "database-director-neuronedge-labs",
+      "description": "Use this skill for DATABASE DIRECTOR \u2014 NeuronEdge Labs\u2122 (. You are the Database Director of NeuronEdge Labs. You own database architecture, schema design, migrations, query performance, data integrity, data security, backups, and data li...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/database-director-neuronedge-labs/SKILL.md"
+    },
+    {
+      "slug": "dataform-bigquery",
+      "description": "Expertise in generating clean, correct, and efficient Dataform pipeline",
+      "source": "rj-global-skills",
+      "path": ".agents/skills/dataform-bigquery/SKILL.md"
+    },
+    {
+      "slug": "db-overlord-v2",
+      "description": "Use this skill for DB OVERLORD \u2014 v2. You are DB Overlord, a principal database architect and DBRE. You design, provision, secure, optimize, and automate database systems for production at scale, across every major engine and platform.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/db-overlord-v2/SKILL.md"
+    },
+    {
+      "slug": "dbsnp_database",
+      "description": "RJ Business Solutions Skill (plugin:science)",
+      "source": "plugin:science",
+      "path": ".agents/skills/dbsnp_database/SKILL.md"
+    },
+    {
+      "slug": "dbt-bigquery",
+      "description": "Expert guidance for creating, modifying, and optimizing dbt pipelines",
+      "source": "rj-global-skills",
+      "path": ".agents/skills/dbt-bigquery/SKILL.md"
+    },
+    {
+      "slug": "debug-optimize-lcp",
+      "description": "Guides debugging and optimizing Largest Contentful Paint (LCP) using Chrome DevTools MCP tools. Use this skill whenever the user asks about LCP performance, slow page loads, Core Web Vitals optimization, or wants to understand why their ...",
+      "source": "plugin:chrome-devtools-plugin",
+      "path": ".agents/skills/debug-optimize-lcp/SKILL.md"
+    },
+    {
+      "slug": "debugging-and-error-recovery",
+      "description": "Guides systematic root-cause debugging. Use when tests fail, builds break, behavior doesn't match expectations, or you encounter any unexpected error. Use when you need a systematic approach to finding and fixing the root cause rather th...",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/debugging-and-error-recovery/SKILL.md"
+    },
+    {
+      "slug": "dennis-ai-search-visibility",
+      "description": "Use this skill for Dennis Ai Search Visibility Agent. **Job Description:** Optimizes client presence in AI assistants (ChatGPT, Perplexity, Claude, Gemini, Grok). Ensures client is cited as authority in generative search results.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/dennis-ai-search-visibility/SKILL.md"
+    },
+    {
+      "slug": "dennis-content-factory",
+      "description": "Use this skill for Dennis Content Factory Agent. **Job Description:** Orchestrates the 5-Stage Content Factory pipeline. Turns one recording into 20+ assets.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/dennis-content-factory/SKILL.md"
+    },
+    {
+      "slug": "dennis-definitive-article-writer",
+      "description": "Use this skill for Dennis Definitive Article Writer Agent. **Job Description:** Creates definitive, long-form articles that dominate keywords. Uses real case studies, verified data, and E-E-A-T signals.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/dennis-definitive-article-writer/SKILL.md"
+    },
+    {
+      "slug": "dennis-dollar-a-day-strategist",
+      "description": "Use this skill for Dennis Dollar A Day Strategist Agent. **Job Description:** Executes Dollar-a-Day methodology per July 2026 Agentic Guide v1.0. Proposes campaigns, human approves spend.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/dennis-dollar-a-day-strategist/SKILL.md"
+    },
+    {
+      "slug": "dennis-knowledge-panel-entity-seo",
+      "description": "Use this skill for Dennis Knowledge Panel Entity Seo Agent. **Job Description:** Builds and defends Google Knowledge Panels. Tracks KGMID confidence score.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/dennis-knowledge-panel-entity-seo/SKILL.md"
+    },
+    {
+      "slug": "dennis-personal-brand-strategist",
+      "description": "Use this skill for Dennis Personal Brand Strategist Agent. **Job Description:** Positions and strategizes the founder's personal brand across all digital touchpoints. Defines unique voice, positioning statement, and 3-tier authority fram...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/dennis-personal-brand-strategist/SKILL.md"
+    },
+    {
+      "slug": "dennis-personal-brand-website-agent",
+      "description": "Use this skill for Dennis Personal Brand Website Agent Agent. **Job Description:** Builds, maintains, and optimizes the personal brand website. Implements schema markup, internal linking, SEO Tree structure, and E-E-A-T signals.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/dennis-personal-brand-website-agent/SKILL.md"
+    },
+    {
+      "slug": "dennis-positive-mentions-harvester",
+      "description": "Use this skill for Dennis Positive Mentions Harvester Agent. **Job Description:** Scans web, social, podcasts, and news for positive mentions of the client. Aggregates signals into reputation dashboard.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/dennis-positive-mentions-harvester/SKILL.md"
+    },
+    {
+      "slug": "dennis-recursive-self-improvement-qa",
+      "description": "Use this skill for Dennis Recursive Self Improvement Qa Agent. **Job Description:** Quality assurance for all other agents. Reviews outputs against definition of done.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/dennis-recursive-self-improvement-qa/SKILL.md"
+    },
+    {
+      "slug": "dennis-reputation-gap-analyzer",
+      "description": "Use this skill for Dennis Reputation Gap Analyzer Agent. **Job Description:** Identifies gaps between where the client's reputation IS vs where it SHOULD be. Prioritizes gap-closing actions by ROI.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/dennis-reputation-gap-analyzer/SKILL.md"
+    },
+    {
+      "slug": "deprecation-and-migration",
+      "description": "Manages deprecation and migration. Use when removing old systems, APIs, or features. Use when migrating users from one implementation to another. Use when deciding whether to maintain or sunset existing code.",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/deprecation-and-migration/SKILL.md"
+    },
+    {
+      "slug": "devops-sre",
+      "description": "DEVOPS / SRE",
+      "source": "agents/plugins",
+      "path": ".agents/skills/devops-sre/SKILL.md"
+    },
+    {
+      "slug": "devsecops-director-neuronedge-labs",
+      "description": "Use this skill for DEVSECOPS DIRECTOR \u2014 NeuronEdge Labs\u2122. You are the DevSecOps Director of NeuronEdge Labs. You embed security into every stage of development and operations: Zero Trust architecture, secure CI/CD, supply-chain integrity...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/devsecops-director-neuronedge-labs/SKILL.md"
+    },
+    {
+      "slug": "devteam-master-orchestrator-v2",
+      "description": "Use this skill for DEVTEAM MASTER ORCHESTRATOR v2. CTO-level engineering lead. Turn business goals into architectures, roadmaps, team plans, and quality systems a real team can execute.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/devteam-master-orchestrator-v2/SKILL.md"
+    },
+    {
+      "slug": "digital-dennis-master-v14",
+      "description": "Use this skill for master-level digital marketing, Google algorithm dominance, AI search visibility, and Dennis Yu's Dollar-a-Day ad strategy. Combines 30 years of elite marketing expertise with AI/ML automation.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/digital-dennis-master-v14/SKILL.md"
+    },
+    {
+      "slug": "discovering-gcp-data-assets",
+      "description": "RJ Business Solutions Skill (rj-global-skills)",
+      "source": "rj-global-skills",
+      "path": ".agents/skills/discovering-gcp-data-assets/SKILL.md"
+    },
+    {
+      "slug": "distribution-strategist",
+      "description": "DISTRIBUTION STRATEGIST",
+      "source": "agents/plugins",
+      "path": ".agents/skills/distribution-strategist/SKILL.md"
+    },
+    {
+      "slug": "doc-coauthoring",
+      "description": "Guide users through a structured workflow for co-authoring documentation. Use when user wants to write documentation, proposals, technical specs, decision docs, or similar structured content. This workflow helps users efficiently transfe...",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/doc-coauthoring/SKILL.md"
+    },
+    {
+      "slug": "documentation-and-adrs",
+      "description": "Records decisions and documentation. Use when making architectural decisions, changing public APIs, shipping features, or when you need to record context that future engineers and agents will need to understand the codebase.",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/documentation-and-adrs/SKILL.md"
+    },
+    {
+      "slug": "documentation-engineer",
+      "description": "DOCUMENTATION ENGINEER",
+      "source": "agents/plugins",
+      "path": ".agents/skills/documentation-engineer/SKILL.md"
+    },
+    {
+      "slug": "docx",
+      "description": "Use this skill whenever the user wants to create, read, edit, or manipulate Word documents (.docx files). Triggers include: any mention of 'Word doc', 'word document', '.docx', or requests to produce professional documents with formattin...",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/docx/SKILL.md"
+    },
+    {
+      "slug": "doubt-driven-development",
+      "description": "Subjects every non-trivial decision to a fresh-context adversarial review before it stands. Use when correctness matters more than speed, when working in unfamiliar code, when stakes are high (production, security-sensitive logic, irreve...",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/doubt-driven-development/SKILL.md"
+    },
+    {
+      "slug": "economy-balancing-designer",
+      "description": "GAME ECONOMY",
+      "source": "agents/plugins",
+      "path": ".agents/skills/economy-balancing-designer/SKILL.md"
+    },
+    {
+      "slug": "elite-agent-architect-specialized-v2",
+      "description": "Use this skill for ELITE AGENT ARCHITECT (SPECIALIZED) \u2014 v2. You are the Elite Agent Architect for RJ Business Solutions: a principal engineer who designs, builds, evaluates, and ships production AI agents and multi-agent systems. You op...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/elite-agent-architect-specialized-v2/SKILL.md"
+    },
+    {
+      "slug": "elite-agent-architect-v2",
+      "description": "Use this skill for ELITE AGENT ARCHITECT \u2014 v2. Principal agent engineer. You design, build, test, and ship agent systems \u2014 from single tool-using agents to multi-agent orchestrations \u2014 with production-grade code, evals, guardrails, and d...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/elite-agent-architect-v2/SKILL.md"
+    },
+    {
+      "slug": "embl_ebi_ols",
+      "description": "RJ Business Solutions Skill (plugin:science)",
+      "source": "plugin:science",
+      "path": ".agents/skills/embl_ebi_ols/SKILL.md"
+    },
+    {
+      "slug": "encode_ccres_database",
+      "description": "RJ Business Solutions Skill (plugin:science)",
+      "source": "plugin:science",
+      "path": ".agents/skills/encode_ccres_database/SKILL.md"
+    },
+    {
+      "slug": "enforcing-resource-attribution",
+      "description": "Enforces resource attribution for CLI commands. Use this skill whenever",
+      "source": "rj-global-skills",
+      "path": ".agents/skills/enforcing-resource-attribution/SKILL.md"
+    },
+    {
+      "slug": "engine-selection",
+      "description": "Selects a current engine from verified project requirements rather than permanent preference.",
+      "source": "plugin:apex-gameforge",
+      "path": ".agents/skills/engine-selection/SKILL.md"
+    },
+    {
+      "slug": "engine-technical-director",
+      "description": "ENGINE TECHNICAL DIRECTOR",
+      "source": "agents/plugins",
+      "path": ".agents/skills/engine-technical-director/SKILL.md"
+    },
+    {
+      "slug": "engineering-director-neuronedge-labs",
+      "description": "Use this skill for ENGINEERING DIRECTOR \u2014 NeuronEdge Labs. You are the Engineering Director of NeuronEdge Labs: lead architect and owner of engineering standards, architecture, build patterns, development flow, and technical quality acro...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/engineering-director-neuronedge-labs/SKILL.md"
+    },
+    {
+      "slug": "ensembl_database",
+      "description": "RJ Business Solutions Skill (plugin:science)",
+      "source": "plugin:science",
+      "path": ".agents/skills/ensembl_database/SKILL.md"
+    },
+    {
+      "slug": "enterprise-base44-meta-orchestrator",
+      "description": "Use this skill for ENTERPRISE BASE44 META-ORCHESTRATOR. You are the Enterprise Base44 Meta-Orchestrator. You turn any app request (CRM, marketplace, portal, analytics, knowledge base, internal tool) into a complete, production-grade Base...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/enterprise-base44-meta-orchestrator/SKILL.md"
+    },
+    {
+      "slug": "evidence-ledger",
+      "description": "Maintains structured evidence linking material technical claims and architecture decisions to their authoritative sources and verification dates.",
+      "source": "plugin:antigravity-omega",
+      "path": ".agents/skills/evidence-ledger/SKILL.md"
+    },
+    {
+      "slug": "extension_to_functions_codebase",
+      "description": "Skill for converting an installed Firebase Extension (or extension source) into a standalone Cloud Functions for Firebase codebase or publishable npm package, including V1 to V2 trigger upgrades, lifecycle hooks, and declarative security",
+      "source": "plugin:firebase",
+      "path": ".agents/skills/extension_to_functions_codebase/SKILL.md"
+    },
+    {
+      "slug": "federate-lakehouse-catalog",
+      "description": "Sets up Google Cloud Lakehouse federated catalogs to remote Iceberg",
+      "source": "rj-global-skills",
+      "path": ".agents/skills/federate-lakehouse-catalog/SKILL.md"
+    },
+    {
+      "slug": "finance-director-neuronedge-labs-v",
+      "description": "Use this skill for FINANCE DIRECTOR \u2014 NeuronEdge Labs\u2122 (v. You are the Finance Director of NeuronEdge Labs. You design, build, audit, and optimize billing systems, subscriptions, invoicing, revenue recognition, and financial reporting.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/finance-director-neuronedge-labs-v/SKILL.md"
+    },
+    {
+      "slug": "firebase_ai_logic_basics",
+      "description": "Official skill for integrating Firebase AI Logic (Gemini API) into web applications. Covers setup, multimodal inference, structured output, and security.",
+      "source": "plugin:firebase",
+      "path": ".agents/skills/firebase_ai_logic_basics/SKILL.md"
+    },
+    {
+      "slug": "firebase_app_hosting_basics",
+      "description": "RJ Business Solutions Skill (plugin:firebase)",
+      "source": "plugin:firebase",
+      "path": ".agents/skills/firebase_app_hosting_basics/SKILL.md"
+    },
+    {
+      "slug": "firebase_auth_basics",
+      "description": "Guide for setting up and using Firebase Authentication. Use this skill when the user's app requires user sign-in, user management, or secure data access using auth rules.",
+      "source": "plugin:firebase",
+      "path": ".agents/skills/firebase_auth_basics/SKILL.md"
+    },
+    {
+      "slug": "firebase_basics",
+      "description": "RJ Business Solutions Skill (plugin:firebase)",
+      "source": "plugin:firebase",
+      "path": ".agents/skills/firebase_basics/SKILL.md"
+    },
+    {
+      "slug": "firebase_crashlytics",
+      "description": "Comprehensive guide for Firebase Crashlytics, including provisioning and SDK usage. Use this skill when the user needs help setting up Crashlytics, adding crash reporting, or using the Crashlytics SDK in their application.",
+      "source": "plugin:firebase",
+      "path": ".agents/skills/firebase_crashlytics/SKILL.md"
+    },
+    {
+      "slug": "firebase_data_connect_basics",
+      "description": "Builds and deploys Firebase SQL Connect (aka Firebase Data Connect) backends with PostgreSQL securely. Use when designing schemas with tables and relations, writing authorized queries and mutations, configuring real-time data updates, or...",
+      "source": "plugin:firebase",
+      "path": ".agents/skills/firebase_data_connect_basics/SKILL.md"
+    },
+    {
+      "slug": "firebase_firestore",
+      "description": "RJ Business Solutions Skill (plugin:firebase)",
+      "source": "plugin:firebase",
+      "path": ".agents/skills/firebase_firestore/SKILL.md"
+    },
+    {
+      "slug": "firebase_hosting_basics",
+      "description": "RJ Business Solutions Skill (plugin:firebase)",
+      "source": "plugin:firebase",
+      "path": ".agents/skills/firebase_hosting_basics/SKILL.md"
+    },
+    {
+      "slug": "firebase_remote_config_basics",
+      "description": "RJ Business Solutions Skill (plugin:firebase)",
+      "source": "plugin:firebase",
+      "path": ".agents/skills/firebase_remote_config_basics/SKILL.md"
+    },
+    {
+      "slug": "firebase_security_rules_auditor",
+      "description": "RJ Business Solutions Skill (plugin:firebase)",
+      "source": "plugin:firebase",
+      "path": ".agents/skills/firebase_security_rules_auditor/SKILL.md"
+    },
+    {
+      "slug": "firestore_rules_creation",
+      "description": "RJ Business Solutions Skill (plugin:firebase)",
+      "source": "plugin:firebase",
+      "path": ".agents/skills/firestore_rules_creation/SKILL.md"
+    },
+    {
+      "slug": "foldseek_structural_search",
+      "description": "RJ Business Solutions Skill (plugin:science)",
+      "source": "plugin:science",
+      "path": ".agents/skills/foldseek_structural_search/SKILL.md"
+    },
+    {
+      "slug": "formqualifyai-v2",
+      "description": "Use this skill for FormQualifyAI \u2014 v2. You are FormQualifyAI, a conversion strategist and form-funnel architect. You design, build, and optimize qualification forms that convert high-intent leads, filter poor-fit prospects early, and rou...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/formqualifyai-v2/SKILL.md"
+    },
+    {
+      "slug": "frontend-design",
+      "description": "Guidance for distinctive, intentional visual design when building new UI or reshaping an existing one. Helps with aesthetic direction, typography, and making choices that don't read as templated defaults.",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/frontend-design/SKILL.md"
+    },
+    {
+      "slug": "frontend-director-neuronedge-labs",
+      "description": "Use this skill for FRONTEND DIRECTOR \u2014 NeuronEdge Labs\u2122 (. You are the Frontend Director of NeuronEdge Labs. You own UI/UX development, component architecture, design systems, accessibility, frontend performance, and frontend security.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/frontend-director-neuronedge-labs/SKILL.md"
+    },
+    {
+      "slug": "frontend-engineer",
+      "description": "FRONTEND ENGINEER",
+      "source": "agents/plugins",
+      "path": ".agents/skills/frontend-engineer/SKILL.md"
+    },
+    {
+      "slug": "frontend-ui-engineering",
+      "description": "Builds production-quality, accessible, responsive user-facing UIs. Use when building or modifying interfaces and pages, creating components, implementing layouts, meeting WCAG accessibility requirements, managing state, or when the outpu...",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/frontend-ui-engineering/SKILL.md"
+    },
+    {
+      "slug": "funnel-architect",
+      "description": "FUNNEL ARCHITECT",
+      "source": "agents/plugins",
+      "path": ".agents/skills/funnel-architect/SKILL.md"
+    },
+    {
+      "slug": "funnel-factory-apex",
+      "description": "RJ Business Solutions Skill (plugin:funnel-factory-apex)",
+      "source": "plugin:funnel-factory-apex",
+      "path": ".agents/skills/funnel-factory-apex/SKILL.md"
+    },
+    {
+      "slug": "game-ai",
+      "description": "Selects deterministic or generative AI architectures for NPCs and gameplay.",
+      "source": "plugin:apex-gameforge",
+      "path": ".agents/skills/game-ai/SKILL.md"
+    },
+    {
+      "slug": "game-concept",
+      "description": "Converts an idea into player fantasy, pillars, core loop, target audience and prototype hypothesis.",
+      "source": "plugin:apex-gameforge",
+      "path": ".agents/skills/game-concept/SKILL.md"
+    },
+    {
+      "slug": "game-director",
+      "description": "GAME DIRECTOR",
+      "source": "agents/plugins",
+      "path": ".agents/skills/game-director/SKILL.md"
+    },
+    {
+      "slug": "game-economy",
+      "description": "Models progression resources, currencies, sinks, sources and monetization interactions.",
+      "source": "plugin:apex-gameforge",
+      "path": ".agents/skills/game-economy/SKILL.md"
+    },
+    {
+      "slug": "game-performance",
+      "description": "Establishes platform performance budgets and optimizes measured bottlenecks.",
+      "source": "plugin:apex-gameforge",
+      "path": ".agents/skills/game-performance/SKILL.md"
+    },
+    {
+      "slug": "game-truth-verification",
+      "description": "Verifies current engines, SDKs, packages, platform policies, graphics technologies and licenses.",
+      "source": "plugin:apex-gameforge",
+      "path": ".agents/skills/game-truth-verification/SKILL.md"
+    },
+    {
+      "slug": "gameplay-engineer",
+      "description": "GAMEPLAY ENGINEER",
+      "source": "agents/plugins",
+      "path": ".agents/skills/gameplay-engineer/SKILL.md"
+    },
+    {
+      "slug": "gameplay-loop",
+      "description": "Designs and evaluates moment-to-moment and long-term gameplay loops.",
+      "source": "plugin:apex-gameforge",
+      "path": ".agents/skills/gameplay-loop/SKILL.md"
+    },
+    {
+      "slug": "gcp-data-pipelines",
+      "description": "Primary entry point for building, managing, and orchestrating data pipelines",
+      "source": "rj-global-skills",
+      "path": ".agents/skills/gcp-data-pipelines/SKILL.md"
+    },
+    {
+      "slug": "gcp-dataflow",
+      "description": "RJ Business Solutions Skill (rj-global-skills)",
+      "source": "rj-global-skills",
+      "path": ".agents/skills/gcp-dataflow/SKILL.md"
+    },
+    {
+      "slug": "gcp-managed-spark-upgrades",
+      "description": "Upgrades GCP Spark/Dataproc jobs to newer versions by analyzing, remediating,\\",
+      "source": "rj-global-skills",
+      "path": ".agents/skills/gcp-managed-spark-upgrades/SKILL.md"
+    },
+    {
+      "slug": "gcp-pipeline-orchestration",
+      "description": "This skill helps the agent generate or update orchestration pipeline",
+      "source": "rj-global-skills",
+      "path": ".agents/skills/gcp-pipeline-orchestration/SKILL.md"
+    },
+    {
+      "slug": "gcp-pipeline-resource-provisioning",
+      "description": "RJ Business Solutions Skill (rj-global-skills)",
+      "source": "rj-global-skills",
+      "path": ".agents/skills/gcp-pipeline-resource-provisioning/SKILL.md"
+    },
+    {
+      "slug": "gcp-spark",
+      "description": "RJ Business Solutions Skill (rj-global-skills)",
+      "source": "rj-global-skills",
+      "path": ".agents/skills/gcp-spark/SKILL.md"
+    },
+    {
+      "slug": "gcp-spark-troubleshooting",
+      "description": "Provides expert guidance for troubleshooting Google Cloud Spark and Dataproc",
+      "source": "rj-global-skills",
+      "path": ".agents/skills/gcp-spark-troubleshooting/SKILL.md"
+    },
+    {
+      "slug": "gcs-security-assessment",
+      "description": "Assesses the security posture of Google Cloud Storage (GCS) buckets\\",
+      "source": "rj-global-skills",
+      "path": ".agents/skills/gcs-security-assessment/SKILL.md"
+    },
+    {
+      "slug": "general",
+      "description": "RJ Business Solutions Skill (plugin:zoom-skills)",
+      "source": "plugin:zoom-skills",
+      "path": ".agents/skills/general/SKILL.md"
+    },
+    {
+      "slug": "git-workflow-and-versioning",
+      "description": "Structures git workflow practices. Use when making any code change. Use when committing, branching, resolving conflicts, or when you need to organize work across multiple parallel streams. Use when cutting a release, choosing a semantic ...",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/git-workflow-and-versioning/SKILL.md"
+    },
+    {
+      "slug": "gnomad_database",
+      "description": "RJ Business Solutions Skill (plugin:science)",
+      "source": "plugin:science",
+      "path": ".agents/skills/gnomad_database/SKILL.md"
+    },
+    {
+      "slug": "gohighlevel-empire-builder-v2",
+      "description": "Use this skill for GOHIGHLEVEL EMPIRE BUILDER \u2014 v2. You speak as Rick Jefferson of RJ Business Solutions, a senior HighLevel (GoHighLevel) architect for agencies, SaaS-mode operators, and service businesses. You design and build CRM syst...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/gohighlevel-empire-builder-v2/SKILL.md"
+    },
+    {
+      "slug": "google-antigravity-sdk",
+      "description": "Design, implement, and debug autonomous AI agents and multi-agent systems using the Google Antigravity (AGY) SDK. ACTIVATE this skill when the user wants to create, configure, or orchestrate Google Antigravity agents.",
+      "source": "plugin:google-antigravity-sdk",
+      "path": ".agents/skills/google-antigravity-sdk/SKILL.md"
+    },
+    {
+      "slug": "google-cloud-auth-verification",
+      "description": "Mandatory Step 0 pre-flight execution order and authentication verification",
+      "source": "rj-global-skills",
+      "path": ".agents/skills/google-cloud-auth-verification/SKILL.md"
+    },
+    {
+      "slug": "google-cloud-storage-basics",
+      "description": "Stores, retrieves, and manages data as objects in Cloud Storage (Google\\",
+      "source": "rj-global-skills",
+      "path": ".agents/skills/google-cloud-storage-basics/SKILL.md"
+    },
+    {
+      "slug": "google-cloud-storage-bucket-architect",
+      "description": "Creates Cloud Storage (Google Cloud Storage, or GCS) buckets. Analyzes\\",
+      "source": "rj-global-skills",
+      "path": ".agents/skills/google-cloud-storage-bucket-architect/SKILL.md"
+    },
+    {
+      "slug": "google-cloud-storage-fuse",
+      "description": "Mounts Cloud Storage buckets as a POSIX file system with Cloud Storage\\",
+      "source": "rj-global-skills",
+      "path": ".agents/skills/google-cloud-storage-fuse/SKILL.md"
+    },
+    {
+      "slug": "gtex_database",
+      "description": "RJ Business Solutions Skill (plugin:science)",
+      "source": "plugin:science",
+      "path": ".agents/skills/gtex_database/SKILL.md"
+    },
+    {
+      "slug": "huggingface-specialist",
+      "description": "HUGGING FACE SPECIALIST",
+      "source": "agents/plugins",
+      "path": ".agents/skills/huggingface-specialist/SKILL.md"
+    },
+    {
+      "slug": "human_protein_atlas_database",
+      "description": "RJ Business Solutions Skill (plugin:science)",
+      "source": "plugin:science",
+      "path": ".agents/skills/human_protein_atlas_database/SKILL.md"
+    },
+    {
+      "slug": "i-built-this-one-by-combining-the-python",
+      "description": "Use this skill for I built this one by combining the Python. I built this one by combining the Python Universe agent you sent earlier with this reference guide. That earlier prompt was the one I accidentally declined, so this also covers...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/i-built-this-one-by-combining-the-python/SKILL.md"
+    },
+    {
+      "slug": "i-rebuilt-excel-master-architect-for-o",
+      "description": "Use this skill for I rebuilt Excel Master Architect for **O. Senior Excel / Microsoft 365 data architect. Formulas, modeling, Power Query, Power Pivot/DAX, VBA, Office Scripts, Python, Copilot.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/i-rebuilt-excel-master-architect-for-o/SKILL.md"
+    },
+    {
+      "slug": "i-rewrote-this-one",
+      "description": "Use this skill for I rewrote this one. I rewrote this one. I kept your name and branding, the eight-phase structure, the `{{CURRENT_DATE}}` approach, the \\'search instead of assuming\\' rules, the domain lists, the repo and docs lists, th...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/i-rewrote-this-one/SKILL.md"
+    },
+    {
+      "slug": "i-rewrote-this-one-too",
+      "description": "Use this skill for I rewrote this one too. I rewrote this one too. I kept the name, the 10-layer structure, the five-part response format, the decision matrix and the do/never lists. The main reason for the rewrite is that one of the pro...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/i-rewrote-this-one-too/SKILL.md"
+    },
+    {
+      "slug": "idea-refine",
+      "description": "Refines raw ideas into sharp, actionable concepts through structured divergent and convergent thinking. Use when an idea is still vague, when you need to stress-test assumptions before committing to a plan, or when you want to expand opt...",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/idea-refine/SKILL.md"
+    },
+    {
+      "slug": "incremental-implementation",
+      "description": "Delivers changes incrementally. Use when implementing any feature or change that touches more than one file. Use when you're about to write a large amount of code at once, or when a task feels too big to land in one step.",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/incremental-implementation/SKILL.md"
+    },
+    {
+      "slug": "infrastructure-director-neuronedge-l",
+      "description": "Use this skill for INFRASTRUCTURE DIRECTOR \u2014 NeuronEdge L. You are the Infrastructure Director of NeuronEdge Labs. You own cloud architecture, deployment platforms, network topology, scalability, resilience, disaster recovery, and runtim...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/infrastructure-director-neuronedge-l/SKILL.md"
+    },
+    {
+      "slug": "internal-comms",
+      "description": "A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should use this skill whenever asked to write some sort of internal communications (status reports, leadersh...",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/internal-comms/SKILL.md"
+    },
+    {
+      "slug": "interpro_database",
+      "description": "RJ Business Solutions Skill (plugin:science)",
+      "source": "plugin:science",
+      "path": ".agents/skills/interpro_database/SKILL.md"
+    },
+    {
+      "slug": "interview-me",
+      "description": "Extracts what the user actually wants instead of what they think they should want. Achieves this through one-question-at-a-time interview until ~95% confidence about the underlying intent. Use when an ask is underspecified ('build me X' ...",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/interview-me/SKILL.md"
+    },
+    {
+      "slug": "jaspar_database",
+      "description": "RJ Business Solutions Skill (plugin:science)",
+      "source": "plugin:science",
+      "path": ".agents/skills/jaspar_database/SKILL.md"
+    },
+    {
+      "slug": "jukeyman-grants-federal-contracts",
+      "description": "Use this skill for JUKEYMAN \u2014 Grants, Federal Contracts,. You help organizations win funding and contracts and grow responsibly: grant writing, federal contracting, quantum/deep-tech funding, CSR and lawful inclusion programs, strategic ...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/jukeyman-grants-federal-contracts/SKILL.md"
+    },
+    {
+      "slug": "kaggle-scientist",
+      "description": "KAGGLE SCIENTIST",
+      "source": "agents/plugins",
+      "path": ".agents/skills/kaggle-scientist/SKILL.md"
+    },
+    {
+      "slug": "kdvma-master-sgt-v2",
+      "description": "Use this skill for KDVMA MASTER SGT \u2014 v2. You are KDVMA Master SGT, an expert VA benefits navigation and claims- preparation assistant. You help veterans, survivors, and their accredited representatives understand the VA claims process, ...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/kdvma-master-sgt-v2/SKILL.md"
+    },
+    {
+      "slug": "keyword-intelligence",
+      "description": "KEYWORD INTELLIGENCE",
+      "source": "agents/plugins",
+      "path": ".agents/skills/keyword-intelligence/SKILL.md"
+    },
+    {
+      "slug": "knowledge-to-masteragent-genesis-syste",
+      "description": "Use this skill for KNOWLEDGE-TO-MASTERAGENT GENESIS SYSTE. You turn knowledge sources (documents, transcripts, books, websites, courses, datasets, API docs) into a complete, deployable expert agent plus the documentation, business model,...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/knowledge-to-masteragent-genesis-syste/SKILL.md"
+    },
+    {
+      "slug": "launch-readiness",
+      "description": "Validates build, store, platform, quality, performance, telemetry, security and operational release gates.",
+      "source": "plugin:apex-gameforge",
+      "path": ".agents/skills/launch-readiness/SKILL.md"
+    },
+    {
+      "slug": "legacy-adrian-4-0",
+      "description": "Autonomous agent specialized in growth marketing sales. Provides expert execution, strategy, and architecture for ADRIAN 4.0: Local Google Domination.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/legacy-adrian-4-0/SKILL.md"
+    },
+    {
+      "slug": "legacy-brandon-2-0",
+      "description": "Use this skill for BRANDON 2.0: SEO-Optimized Video-to-Article Pipeline. **Role:** SEO-Optimized Video-to-Article Pipeline.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/legacy-brandon-2-0/SKILL.md"
+    },
+    {
+      "slug": "legacy-christopher-3-0",
+      "description": "Use this skill for CHRISTOPHER 3.0: Google Algorithm SEO Audit Engine. **Role:** Google Algorithm SEO Audit Engine.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/legacy-christopher-3-0/SKILL.md"
+    },
+    {
+      "slug": "legacy-ethan-2-0",
+      "description": "Autonomous agent specialized in growth marketing sales. Provides expert execution, strategy, and architecture for ETHAN 2.0: Google Algorithm Intelligence.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/legacy-ethan-2-0/SKILL.md"
+    },
+    {
+      "slug": "legacy-jennifer-2-0",
+      "description": "Autonomous agent specialized in legal compliance. Provides expert execution, strategy, and architecture for JENNIFER 2.0: Elite Content Quality Enforcer.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/legacy-jennifer-2-0/SKILL.md"
+    },
+    {
+      "slug": "legacy-olivia-2-0",
+      "description": "Use this skill for OLIVIA 2.0: Google Knowledge Panel Domination. **Role:** Google Knowledge Panel Domination.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/legacy-olivia-2-0/SKILL.md"
+    },
+    {
+      "slug": "legacy-stephanie-2-0",
+      "description": "Autonomous agent specialized in orchestrators. Provides expert execution, strategy, and architecture for STEPHANIE 2.0: SEO Operations Orchestrator.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/legacy-stephanie-2-0/SKILL.md"
+    },
+    {
+      "slug": "legacy-warren-5-0",
+      "description": "Autonomous agent specialized in growth marketing sales. Provides expert execution, strategy, and architecture for WARREN 5.0: Google-Optimized Publishing.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/legacy-warren-5-0/SKILL.md"
+    },
+    {
+      "slug": "legal-bankruptcy-restructuring-specialist",
+      "description": "Autonomous agent specialized in legal compliance. Provides expert execution, strategy, and architecture for Supreme Legal: BANKRUPTCY & RESTRUCTURING SPECIALIST.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/legal-bankruptcy-restructuring-specialist/SKILL.md"
+    },
+    {
+      "slug": "legal-business-litigation-specialist",
+      "description": "Autonomous agent specialized in legal compliance. Provides expert execution, strategy, and architecture for Supreme Legal: BUSINESS LITIGATION SPECIALIST.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/legal-business-litigation-specialist/SKILL.md"
+    },
+    {
+      "slug": "legal-contract-drafting-specialist",
+      "description": "Autonomous agent specialized in legal compliance. Provides expert execution, strategy, and architecture for Supreme Legal: CONTRACT DRAFTING SPECIALIST.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/legal-contract-drafting-specialist/SKILL.md"
+    },
+    {
+      "slug": "legal-corporate-formation-specialist",
+      "description": "Autonomous agent specialized in legal compliance. Provides expert execution, strategy, and architecture for Supreme Legal: CORPORATE FORMATION SPECIALIST.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/legal-corporate-formation-specialist/SKILL.md"
+    },
+    {
+      "slug": "legal-delaware-chancery-specialist",
+      "description": "Use this skill for Supreme Legal: DELAWARE CHANCERY SPECIALIST. **KNOWLEDGE CUTOFF:** March 25, 2026 **JURISDICTION FOCUS:** Delaware Court of Chancery, Delaware Supreme Court, Delaware Superior Court.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/legal-delaware-chancery-specialist/SKILL.md"
+    },
+    {
+      "slug": "legal-m-a-deal-specialist",
+      "description": "Autonomous agent specialized in legal compliance. Provides expert execution, strategy, and architecture for Supreme Legal: M&A DEAL SPECIALIST.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/legal-m-a-deal-specialist/SKILL.md"
+    },
+    {
+      "slug": "legal-public-records-retrieval-specialist",
+      "description": "Use this skill for Supreme Legal: PUBLIC RECORDS RETRIEVAL SPECIALIST. **CourtListener (Federal Courts):** ``` Base: https://www.courtlistener.com/api/rest/v3/ Auth: Authorization: Token 19f8bbe3a51ecb842de3bd8f2759a7ab95bcae16 Endpoints...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/legal-public-records-retrieval-specialist/SKILL.md"
+    },
+    {
+      "slug": "legal-sec-enforcement-specialist",
+      "description": "Autonomous agent specialized in legal compliance. Provides expert execution, strategy, and architecture for Supreme Legal: SEC ENFORCEMENT SPECIALIST.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/legal-sec-enforcement-specialist/SKILL.md"
+    },
+    {
+      "slug": "legal-securities-compliance-specialist",
+      "description": "Autonomous agent specialized in legal compliance. Provides expert execution, strategy, and architecture for Supreme Legal: SECURITIES COMPLIANCE SPECIALIST.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/legal-securities-compliance-specialist/SKILL.md"
+    },
+    {
+      "slug": "legal-state-court-routing-specialist",
+      "description": "Use this skill for Supreme Legal: STATE COURT ROUTING SPECIALIST. **User says:** \\'I'm in Texas and I need to sue for breach of contract\\' **System detects:** Texas jurisdiction **System loads:** - Texas statutes of limitations (4 years ...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/legal-state-court-routing-specialist/SKILL.md"
+    },
+    {
+      "slug": "level-world-designer",
+      "description": "LEVEL / WORLD DESIGN",
+      "source": "agents/plugins",
+      "path": ".agents/skills/level-world-designer/SKILL.md"
+    },
+    {
+      "slug": "literature_search_arxiv",
+      "description": "RJ Business Solutions Skill (plugin:science)",
+      "source": "plugin:science",
+      "path": ".agents/skills/literature_search_arxiv/SKILL.md"
+    },
+    {
+      "slug": "literature_search_biorxiv",
+      "description": "RJ Business Solutions Skill (plugin:science)",
+      "source": "plugin:science",
+      "path": ".agents/skills/literature_search_biorxiv/SKILL.md"
+    },
+    {
+      "slug": "literature_search_europepmc",
+      "description": "RJ Business Solutions Skill (plugin:science)",
+      "source": "plugin:science",
+      "path": ".agents/skills/literature_search_europepmc/SKILL.md"
+    },
+    {
+      "slug": "literature_search_openalex",
+      "description": "RJ Business Solutions Skill (plugin:science)",
+      "source": "plugin:science",
+      "path": ".agents/skills/literature_search_openalex/SKILL.md"
+    },
+    {
+      "slug": "live-verification",
+      "description": "Verifies current technical facts, APIs, package versions, security standards, models, prices and provider capabilities.",
+      "source": "plugin:rj-prometheus-apex",
+      "path": ".agents/skills/live-verification/SKILL.md"
+    },
+    {
+      "slug": "managing-python-dependencies",
+      "description": "RJ Business Solutions Skill (rj-global-skills)",
+      "source": "rj-global-skills",
+      "path": ".agents/skills/managing-python-dependencies/SKILL.md"
+    },
+    {
+      "slug": "market-intelligence",
+      "description": "MARKET INTELLIGENCE",
+      "source": "agents/plugins",
+      "path": ".agents/skills/market-intelligence/SKILL.md"
+    },
+    {
+      "slug": "marketing-director-neuronedge-labs",
+      "description": "Use this skill for MARKETING DIRECTOR \u2014 NeuronEdge Labs\u2122. You are the Marketing Director of NeuronEdge Labs. You own funnels, paid and organic campaigns, growth strategy, conversion optimization, and multi-channel marketing.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/marketing-director-neuronedge-labs/SKILL.md"
+    },
+    {
+      "slug": "mcp-builder",
+      "description": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python...",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/mcp-builder/SKILL.md"
+    },
+    {
+      "slug": "meeting-sdk",
+      "description": "RJ Business Solutions Skill (plugin:zoom-skills)",
+      "source": "plugin:zoom-skills",
+      "path": ".agents/skills/meeting-sdk/SKILL.md"
+    },
+    {
+      "slug": "memory-leak-debugging",
+      "description": "Diagnoses and resolves memory leaks in JavaScript/Node.js applications. Use when a user reports high memory usage, OOM errors, or wants to analyze heapsnapshots or run memory leak detection tools like memlab.",
+      "source": "plugin:chrome-devtools-plugin",
+      "path": ".agents/skills/memory-leak-debugging/SKILL.md"
+    },
+    {
+      "slug": "men-s-justice-legal-titan-ai-fathers",
+      "description": "Use this skill for MEN'S JUSTICE LEGAL TITAN AI \u2014 Fathers. You help fathers and men understand and navigate family court \u2014 custody, child support, divorce, paternity, enforcement/contempt, and responding to allegations \u2014 in any U.S. state.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/men-s-justice-legal-titan-ai-fathers/SKILL.md"
+    },
+    {
+      "slug": "ml-best-practices",
+      "description": "RJ Business Solutions Skill (rj-global-skills)",
+      "source": "rj-global-skills",
+      "path": ".agents/skills/ml-best-practices/SKILL.md"
+    },
+    {
+      "slug": "model-discovery",
+      "description": "Discovers current models across Cloudflare Workers AI, OpenRouter, Hugging Face and approved providers, including availability, cost, free options and task suitability.",
+      "source": "plugin:antigravity-omega",
+      "path": ".agents/skills/model-discovery/SKILL.md"
+    },
+    {
+      "slug": "model-evaluation",
+      "description": "Benchmarks AI model candidates against representative application tasks for correctness, formatting, tool use, hallucination, latency and cost.",
+      "source": "plugin:antigravity-omega",
+      "path": ".agents/skills/model-evaluation/SKILL.md"
+    },
+    {
+      "slug": "model-intelligence",
+      "description": "MODEL INTELLIGENCE",
+      "source": "agents/plugins",
+      "path": ".agents/skills/model-intelligence/SKILL.md"
+    },
+    {
+      "slug": "model-router",
+      "description": "MODEL ROUTER",
+      "source": "agents/plugins",
+      "path": ".agents/skills/model-router/SKILL.md"
+    },
+    {
+      "slug": "modern-web-guidance",
+      "description": "RJ Business Solutions Skill (plugin:modern-web-guidance-plugin)",
+      "source": "plugin:modern-web-guidance-plugin",
+      "path": ".agents/skills/modern-web-guidance/SKILL.md"
+    },
+    {
+      "slug": "monetization-architect",
+      "description": "MONETIZATION ARCHITECT",
+      "source": "agents/plugins",
+      "path": ".agents/skills/monetization-architect/SKILL.md"
+    },
+    {
+      "slug": "monetization-liveops",
+      "description": "MONETIZATION & LIVEOPS",
+      "source": "agents/plugins",
+      "path": ".agents/skills/monetization-liveops/SKILL.md"
+    },
+    {
+      "slug": "multi-agent-design",
+      "description": "Designs efficient parent/subagent teams, handoffs, context isolation, parallel work and approval boundaries.",
+      "source": "plugin:rj-prometheus-apex",
+      "path": ".agents/skills/multi-agent-design/SKILL.md"
+    },
+    {
+      "slug": "multiplayer-backend-engineer",
+      "description": "MULTIPLAYER & BACKEND",
+      "source": "agents/plugins",
+      "path": ".agents/skills/multiplayer-backend-engineer/SKILL.md"
+    },
+    {
+      "slug": "multiplayer-design",
+      "description": "Designs authority, prediction, replication, matchmaking and backend requirements.",
+      "source": "plugin:apex-gameforge",
+      "path": ".agents/skills/multiplayer-design/SKILL.md"
+    },
+    {
+      "slug": "narrative-designer",
+      "description": "NARRATIVE DESIGNER",
+      "source": "agents/plugins",
+      "path": ".agents/skills/narrative-designer/SKILL.md"
+    },
+    {
+      "slug": "ncbi_sequence_fetch",
+      "description": "RJ Business Solutions Skill (plugin:science)",
+      "source": "plugin:science",
+      "path": ".agents/skills/ncbi_sequence_fetch/SKILL.md"
+    },
+    {
+      "slug": "nextjs-core-team",
+      "description": "Expert guidelines from the Next.js core engineering team for App Router, RSC, Turbopack, and high-performance server rendering.",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/nextjs-core-team/SKILL.md"
+    },
+    {
+      "slug": "nexus-architect",
+      "description": "NEXUS ARCHITECT",
+      "source": "agents/plugins",
+      "path": ".agents/skills/nexus-architect/SKILL.md"
+    },
+    {
+      "slug": "notebook-guidance",
+      "description": "RJ Business Solutions Skill (rj-global-skills)",
+      "source": "rj-global-skills",
+      "path": ".agents/skills/notebook-guidance/SKILL.md"
+    },
+    {
+      "slug": "oauth",
+      "description": "RJ Business Solutions Skill (plugin:zoom-skills)",
+      "source": "plugin:zoom-skills",
+      "path": ".agents/skills/oauth/SKILL.md"
+    },
+    {
+      "slug": "observability-and-instrumentation",
+      "description": "Instruments code so production behavior is visible and diagnosable. Use when adding logging, metrics, tracing, or alerting. Use when shipping any feature that runs in production and you need evidence it works. Use when production issues ...",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/observability-and-instrumentation/SKILL.md"
+    },
+    {
+      "slug": "omega-commander",
+      "description": "OMEGA COMMANDER",
+      "source": "agents/plugins",
+      "path": ".agents/skills/omega-commander/SKILL.md"
+    },
+    {
+      "slug": "openfda_database",
+      "description": "RJ Business Solutions Skill (plugin:science)",
+      "source": "plugin:science",
+      "path": ".agents/skills/openfda_database/SKILL.md"
+    },
+    {
+      "slug": "openrouter-specialist",
+      "description": "OPENROUTER SPECIALIST",
+      "source": "agents/plugins",
+      "path": ".agents/skills/openrouter-specialist/SKILL.md"
+    },
+    {
+      "slug": "opentargets_database",
+      "description": "RJ Business Solutions Skill (plugin:science)",
+      "source": "plugin:science",
+      "path": ".agents/skills/opentargets_database/SKILL.md"
+    },
+    {
+      "slug": "package-recency",
+      "description": "Reviews package maintenance, current version, registry metadata, repository activity, license, security advisories and compatibility.",
+      "source": "plugin:rj-prometheus-apex",
+      "path": ".agents/skills/package-recency/SKILL.md"
+    },
+    {
+      "slug": "pdb_database",
+      "description": "RJ Business Solutions Skill (plugin:science)",
+      "source": "plugin:science",
+      "path": ".agents/skills/pdb_database/SKILL.md"
+    },
+    {
+      "slug": "pdf",
+      "description": "Use this skill whenever the user wants to do anything with PDF files. This includes reading or extracting text/tables from PDFs, combining or merging multiple PDFs into one, splitting PDFs apart, rotating pages, adding watermarks, creati...",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/pdf/SKILL.md"
+    },
+    {
+      "slug": "performance-engineer",
+      "description": "PERFORMANCE ENGINEER",
+      "source": "agents/plugins",
+      "path": ".agents/skills/performance-engineer/SKILL.md"
+    },
+    {
+      "slug": "performance-optimization",
+      "description": "Optimizes application performance across frontend, backend, queries, and databases. Use when performance requirements exist, when you suspect performance regressions, when Core Web Vitals or load times need improvement, when N+1 query pa...",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/performance-optimization/SKILL.md"
+    },
+    {
+      "slug": "phone",
+      "description": "Zoom Phone skill pack for OAuth, Phone APIs, webhooks, Smart Embed postMessage events, URI schemes, and call-history migration patterns. Use for CRM/CTI dialer workflows, real-time call tracking, and call handling automation.",
+      "source": "plugin:zoom-skills",
+      "path": ".agents/skills/phone/SKILL.md"
+    },
+    {
+      "slug": "planning-and-task-breakdown",
+      "description": "Breaks work into ordered tasks. Use when you have a spec or clear requirements and need to break work into implementable tasks. Use when a task feels too large to start, when you need to estimate scope, or when parallel work is possible.",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/planning-and-task-breakdown/SKILL.md"
+    },
+    {
+      "slug": "platform-release-engineer",
+      "description": "RELEASE ENGINEER",
+      "source": "agents/plugins",
+      "path": ".agents/skills/platform-release-engineer/SKILL.md"
+    },
+    {
+      "slug": "playtest-analysis",
+      "description": "Turns observed play behavior into prioritized design changes.",
+      "source": "plugin:apex-gameforge",
+      "path": ".agents/skills/playtest-analysis/SKILL.md"
+    },
+    {
+      "slug": "plugin-sdk",
+      "description": "Zoom Plugin SDK guidance for native macOS and Windows applications that control an installed Zoom Workplace desktop client over IPC. Use for desktop companion apps that start or join meetings, control meeting audio/video/share/UI, inspec...",
+      "source": "plugin:zoom-skills",
+      "path": ".agents/skills/plugin-sdk/SKILL.md"
+    },
+    {
+      "slug": "podcast-empire-architect",
+      "description": "ELITE AI PODCAST EMPIRE ARCHITECT",
+      "source": "agents/plugins",
+      "path": ".agents/skills/podcast-empire-architect/SKILL.md"
+    },
+    {
+      "slug": "pptx",
+      "description": "Use this skill any time a .pptx file is involved in any way \u2014 as input, output, or both. This includes: creating slide decks, pitch decks, or presentations; reading, parsing, or extracting text from any .pptx file (even if the extracted ...",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/pptx/SKILL.md"
+    },
+    {
+      "slug": "predictingthepast",
+      "description": "RJ Business Solutions Skill (plugin:science)",
+      "source": "plugin:science",
+      "path": ".agents/skills/predictingthepast/SKILL.md"
+    },
+    {
+      "slug": "principal-engineer",
+      "description": "PRINCIPAL ENGINEER",
+      "source": "agents/plugins",
+      "path": ".agents/skills/principal-engineer/SKILL.md"
+    },
+    {
+      "slug": "probe-sdk",
+      "description": "Zoom Probe SDK for web diagnostics. Use to test media permissions, audio/video/screen-share diagnostics, network quality, compatibility reporting, and consented offline camera-dump evidence before users join meetings or sessions.",
+      "source": "plugin:zoom-skills",
+      "path": ".agents/skills/probe-sdk/SKILL.md"
+    },
+    {
+      "slug": "procedural-generation",
+      "description": "Designs deterministic, seedable, controllable procedural content systems.",
+      "source": "plugin:apex-gameforge",
+      "path": ".agents/skills/procedural-generation/SKILL.md"
+    },
+    {
+      "slug": "product-suite-architect",
+      "description": "PRODUCT SUITE ARCHITECT",
+      "source": "agents/plugins",
+      "path": ".agents/skills/product-suite-architect/SKILL.md"
+    },
+    {
+      "slug": "production-build",
+      "description": "Drives implementation through inspect, build, test, fix and verification stages.",
+      "source": "plugin:rj-prometheus-apex",
+      "path": ".agents/skills/production-build/SKILL.md"
+    },
+    {
+      "slug": "production-readiness",
+      "description": "Enforces launch gates covering builds, tests, security, secrets, configuration, persistence, migrations, observability, recovery, documentation and deployment.",
+      "source": "plugin:antigravity-omega",
+      "path": ".agents/skills/production-readiness/SKILL.md"
+    },
+    {
+      "slug": "project-architecture",
+      "description": "Converts verified requirements into the minimum reliable maintainable architecture with explicit tradeoffs and acceptance criteria.",
+      "source": "plugin:antigravity-omega",
+      "path": ".agents/skills/project-architecture/SKILL.md"
+    },
+    {
+      "slug": "prompt-architect",
+      "description": "PROMPT ARCHITECT",
+      "source": "agents/plugins",
+      "path": ".agents/skills/prompt-architect/SKILL.md"
+    },
+    {
+      "slug": "prompt-architect-prompt-engineering",
+      "description": "Use this skill for @prompt_architect \u2014 Prompt Engineering. You are @prompt_architect. Your ONLY job: take whatever Rick says \u2014 rough, messy, half-formed, voice-note energy, typos and all \u2014 and turn it into a clear, ready-to-paste orchest...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/prompt-architect-prompt-engineering/SKILL.md"
+    },
+    {
+      "slug": "prompt-design",
+      "description": "Designs task, system and agent prompts from objectives, constraints, environment, tools, failure modes and success criteria.",
+      "source": "plugin:rj-prometheus-apex",
+      "path": ".agents/skills/prompt-design/SKILL.md"
+    },
+    {
+      "slug": "prompt-evaluation",
+      "description": "Runs structured tests and adversarial cases against prompts to measure adherence, robustness, security and output reliability.",
+      "source": "plugin:rj-prometheus-apex",
+      "path": ".agents/skills/prompt-evaluation/SKILL.md"
+    },
+    {
+      "slug": "prompt-evaluator",
+      "description": "PROMPT EVALUATOR",
+      "source": "agents/plugins",
+      "path": ".agents/skills/prompt-evaluator/SKILL.md"
+    },
+    {
+      "slug": "protein_sequence_msa",
+      "description": "RJ Business Solutions Skill (plugin:science)",
+      "source": "plugin:science",
+      "path": ".agents/skills/protein_sequence_msa/SKILL.md"
+    },
+    {
+      "slug": "protein_sequence_similarity_search",
+      "description": "RJ Business Solutions Skill (plugin:science)",
+      "source": "plugin:science",
+      "path": ".agents/skills/protein_sequence_similarity_search/SKILL.md"
+    },
+    {
+      "slug": "pubchem_database",
+      "description": "RJ Business Solutions Skill (plugin:science)",
+      "source": "plugin:science",
+      "path": ".agents/skills/pubchem_database/SKILL.md"
+    },
+    {
+      "slug": "publishing-indexing",
+      "description": "PUBLISHING & INDEXING",
+      "source": "agents/plugins",
+      "path": ".agents/skills/publishing-indexing/SKILL.md"
+    },
+    {
+      "slug": "pubmed_database",
+      "description": "RJ Business Solutions Skill (plugin:science)",
+      "source": "plugin:science",
+      "path": ".agents/skills/pubmed_database/SKILL.md"
+    },
+    {
+      "slug": "pymol",
+      "description": "RJ Business Solutions Skill (plugin:science)",
+      "source": "plugin:science",
+      "path": ".agents/skills/pymol/SKILL.md"
+    },
+    {
+      "slug": "qa-director-neuronedge-labs-v2",
+      "description": "Use this skill for QA DIRECTOR \u2014 NeuronEdge Labs\u2122 (v2. You are the QA Director of NeuronEdge Labs. You own test strategy, test automation, coverage and test-effectiveness analysis, regression protection, and release quality signals.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/qa-director-neuronedge-labs-v2/SKILL.md"
+    },
+    {
+      "slug": "qa-playtest-agent",
+      "description": "QA / PLAYTEST",
+      "source": "agents/plugins",
+      "path": ".agents/skills/qa-playtest-agent/SKILL.md"
+    },
+    {
+      "slug": "qa-verifier",
+      "description": "QA VERIFIER",
+      "source": "agents/plugins",
+      "path": ".agents/skills/qa-verifier/SKILL.md"
+    },
+    {
+      "slug": "quantum-prompt-genesis-v2",
+      "description": "Use this skill for QUANTUM PROMPT GENESIS \u2014 v2. You speak like a senior CTO in a design review: decisive, precise, receipts attached. Confidence comes from verification, not volume.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/quantum-prompt-genesis-v2/SKILL.md"
+    },
+    {
+      "slug": "quickgo_database",
+      "description": "RJ Business Solutions Skill (plugin:science)",
+      "source": "plugin:science",
+      "path": ".agents/skills/quickgo_database/SKILL.md"
+    },
+    {
+      "slug": "reactome_database",
+      "description": "RJ Business Solutions Skill (plugin:science)",
+      "source": "plugin:science",
+      "path": ".agents/skills/reactome_database/SKILL.md"
+    },
+    {
+      "slug": "reasoning-selection",
+      "description": "Chooses task-appropriate decomposition, verification, retrieval, tool use and multi-agent strategy based on complexity and risk.",
+      "source": "plugin:rj-prometheus-apex",
+      "path": ".agents/skills/reasoning-selection/SKILL.md"
+    },
+    {
+      "slug": "reasoning-strategist",
+      "description": "REASONING STRATEGIST",
+      "source": "agents/plugins",
+      "path": ".agents/skills/reasoning-strategist/SKILL.md"
+    },
+    {
+      "slug": "research-director-2-neuronedge-labs",
+      "description": "Use this skill for RESEARCH DIRECTOR 2\u2014 NeuronEdge Labs\u2122 (. Produce research that is correct, cited, reproducible, and decision-ready. Speed matters; being wrong matters more.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/research-director-2-neuronedge-labs/SKILL.md"
+    },
+    {
+      "slug": "research-director-neuronedge-labs",
+      "description": "Use this skill for RESEARCH DIRECTOR \u2014 NeuronEdge Labs\u2122 (. Produce research that is correct, cited, reproducible, and decision-ready. Speed matters; being wrong matters more.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/research-director-neuronedge-labs/SKILL.md"
+    },
+    {
+      "slug": "research-director1-neuronedge-labs",
+      "description": "Use this skill for RESEARCH DIRECTOR1 \u2014 NeuronEdge Labs\u2122 (. Produce research that is correct, cited, reproducible, and decision-ready. Speed matters; being wrong matters more.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/research-director1-neuronedge-labs/SKILL.md"
+    },
+    {
+      "slug": "research-oracle",
+      "description": "RESEARCH ORACLE",
+      "source": "agents/plugins",
+      "path": ".agents/skills/research-oracle/SKILL.md"
+    },
+    {
+      "slug": "rest-api",
+      "description": "Zoom REST API - 600+ endpoints for meetings, users, webinars, recordings, reports, and more. Server-side API for managing Zoom resources programmatically with OAuth 2.0 authentication.",
+      "source": "plugin:zoom-skills",
+      "path": ".agents/skills/rest-api/SKILL.md"
+    },
+    {
+      "slug": "rick-jefferson-agentic-systems-archi",
+      "description": "Use this skill for RICK JEFFERSON \u2014 AGENTIC SYSTEMS ARCHI. You speak as Rick Jefferson, an elite AI systems architect who designs and ships real-world agentic platforms: autonomous agents, orchestration frameworks, reasoning pipelines, a...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/rick-jefferson-agentic-systems-archi/SKILL.md"
+    },
+    {
+      "slug": "rick-jefferson-ai-quantum-image-vi",
+      "description": "Use this skill for RICK JEFFERSON AI \u2014 Quantum Image & Vi. Rick Jefferson's AI art director and prompt engineer for image and video generation: cinematic, emotional, photoreal, illustrated, anime. Infer missing details (subject, composit...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/rick-jefferson-ai-quantum-image-vi/SKILL.md"
+    },
+    {
+      "slug": "rick-jefferson-ai-supreme-meta-reaso",
+      "description": "Use this skill for RICK JEFFERSON AI \u2014 Supreme Meta-Reaso. You are Rick Jefferson's AI strategist and builder \u2014 an elite AI architect, systems designer, and prompt engineer who delivers enterprise-grade architectures, code, and strategy....",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/rick-jefferson-ai-supreme-meta-reaso/SKILL.md"
+    },
+    {
+      "slug": "rick-jefferson-ai-supreme-prompt-eng",
+      "description": "Use this skill for RICK JEFFERSON AI \u2014 Supreme Prompt Eng. You are Rick Jefferson's AI prompt architect: you design production- grade prompts, system prompts, and agent instructions for any LLM or agent stack \u2014 for enterprise teams, tech...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/rick-jefferson-ai-supreme-prompt-eng/SKILL.md"
+    },
+    {
+      "slug": "rick-jefferson-ai-supreme-viral-mult",
+      "description": "Use this skill for RICK JEFFERSON AI \u2014 Supreme Viral Mult. You are Rick Jefferson's AI content strategist: a multimodal viral content architect for TikTok, Instagram (Reels/carousels), YouTube Shorts, X, Reddit, LinkedIn, Threads, and em...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/rick-jefferson-ai-supreme-viral-mult/SKILL.md"
+    },
+    {
+      "slug": "rick-jefferson-credit-oracle-of-the",
+      "description": "Use this skill for RICK JEFFERSON \u2014 CREDIT ORACLE OF THE. You are Rick Jefferson, the Credit Oracle of the South\u2122 \u2014 a credit and financial MENTOR and educator. Mission: \\'I don't repair credit \u2014 I teach you to become your own financial a...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/rick-jefferson-credit-oracle-of-the/SKILL.md"
+    },
+    {
+      "slug": "rick-jefferson-faceless-digital-empi",
+      "description": "Autonomous agent specialized in growth marketing sales. Provides expert execution, strategy, and architecture for RICK JEFFERSON \u2014 FACELESS DIGITAL EMPI.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/rick-jefferson-faceless-digital-empi/SKILL.md"
+    },
+    {
+      "slug": "rick-jefferson-personal-social-media",
+      "description": "Autonomous agent specialized in growth marketing sales. Provides expert execution, strategy, and architecture for RICK JEFFERSON \u2014 PERSONAL SOCIAL MEDIA.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/rick-jefferson-personal-social-media/SKILL.md"
+    },
+    {
+      "slug": "rick-jefferson-revenue-catalyst-academ",
+      "description": "Use this skill for RICK JEFFERSON REVENUE CATALYST ACADEM. You are the Revenue Catalyst Academy: Rick Jefferson's AI instructor, strategist, and execution coach. You teach entrepreneurs, creators, and business owners to use AI for market...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/rick-jefferson-revenue-catalyst-academ/SKILL.md"
+    },
+    {
+      "slug": "rick-jefferson-s-ai-assistant-consum",
+      "description": "Use this skill for RICK JEFFERSON'S AI ASSISTANT \u2014 Consum. You are Rick Jefferson's AI assistant: a legal research and content specialist focused on consumer protection law and educational content. You speak in Rick's brand voice, but yo...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/rick-jefferson-s-ai-assistant-consum/SKILL.md"
+    },
+    {
+      "slug": "rick-jefferson-supreme-credit-master",
+      "description": "Use this skill for RICK JEFFERSON SUPREME CREDIT MASTER. Multi-agent credit analysis and dispute-drafting system for credit repair companies, compliance teams, and consumers. Internal roles: Extractor \u2192 Verifier \u2192 Legal Analyst \u2192 Drafter...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/rick-jefferson-supreme-credit-master/SKILL.md"
+    },
+    {
+      "slug": "rick-jefferson-total-mastery-mentor",
+      "description": "Use this skill for RICK JEFFERSON TOTAL MASTERY MENTOR. Scale down for quick questions: answer clearly, add one tiny DO IT or SAY IT BACK, and skip unused sections. Use the full format when teaching something new.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/rick-jefferson-total-mastery-mentor/SKILL.md"
+    },
+    {
+      "slug": "rick-jefferson-ultimate-ai-tax-system",
+      "description": "Use this skill for RICK JEFFERSON ULTIMATE AI TAX SYSTEM. RICK JEFFERSON ULTIMATE AI TAX SYSTEM Complete Technical Specifications & System Architecture VERSION 3.0 | ENTERPRISE EDITION | UPDATED JULY 20, 2026 \ud83d\ude80 WHAT'S NEW IN VERSION 3.0 ...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/rick-jefferson-ultimate-ai-tax-system/SKILL.md"
+    },
+    {
+      "slug": "rivet-sdk",
+      "description": "Zoom Rivet SDK for JavaScript/TypeScript server-side integrations. Use for auth handling, webhook event consumers, API endpoint wrappers, multi-module app composition, and AWS Lambda receiver patterns.",
+      "source": "plugin:zoom-skills",
+      "path": ".agents/skills/rivet-sdk/SKILL.md"
+    },
+    {
+      "slug": "rj-architect-lead-full-stack-archite",
+      "description": "Use this skill for RJ ARCHITECT \u2014 Lead Full-Stack Archite. You are the principal-level SaaS architect, senior engineer, product strategist, and creative director embedded in RJ Business Solutions. You take founders, engineers, and agenci...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/rj-architect-lead-full-stack-archite/SKILL.md"
+    },
+    {
+      "slug": "rj-boardroom-multidisciplinary-busin",
+      "description": "Use this skill for RJ BOARDROOM \u2014 Multidisciplinary Busin. You are an executive taskforce \u2014 Legal, Finance & Tax, Strategy, HR, Operations & IT, Marketing & Sales, and Growth advisors \u2014 operating as one boardroom. You deliver phased, imp...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/rj-boardroom-multidisciplinary-busin/SKILL.md"
+    },
+    {
+      "slug": "rj-brand-system",
+      "description": "Authoritative RJ Business Solutions Brand Universe design system, CSS tokens, Space Grotesk/Inter typography, HTML scaffolds, UI components, tone of voice, and brand compliance for all apps, funnels, web pages, and documents.",
+      "source": "plugin:rj-brand-universe",
+      "path": ".agents/skills/rj-brand-system/SKILL.md"
+    },
+    {
+      "slug": "rj-enterprise-repo-designer",
+      "description": "Open-Source Program Manager and Technical Writer for RJ Business Solutions. Turns GitHub repositories into polished, enterprise-grade showcases comparable to Vercel, Stripe, Supabase, and Cloudflare.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/rj-enterprise-repo-designer/SKILL.md"
+    },
+    {
+      "slug": "rj-fleet-orchestrator",
+      "description": "Sovereign Master Fleet Orchestrator for RJ Business Solutions. Chains all 11 stages of the repository lifecycle from discovery, audit, and rebrand through SaaS productization, monetization, and automated buyer delivery.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/rj-fleet-orchestrator/SKILL.md"
+    },
+    {
+      "slug": "rj-github-ops-autopilot",
+      "description": "GitHub DevOps & Repository Autopilot for RJ Business Solutions. Automates issue triaging, branded label synchronization, branch protection, Dependabot updates, and SemVer release management.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/rj-github-ops-autopilot/SKILL.md"
+    },
+    {
+      "slug": "rj-product-finisher-monetizer",
+      "description": "Product Finisher and Monetization Strategist for RJ Business Solutions. Audits, finishes partial features, injects Stripe test-mode billing, commercial licensing, EULA, and automated GitHub collaborator delivery.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/rj-product-finisher-monetizer/SKILL.md"
+    },
+    {
+      "slug": "rj-prometheus-apex",
+      "description": "RJ PROMETHEUS APEX",
+      "source": "agents/plugins",
+      "path": ".agents/skills/rj-prometheus-apex/SKILL.md"
+    },
+    {
+      "slug": "rj-repo-deep-auditor",
+      "description": "Senior Code Health & Pre-Acquisition Auditor for RJ Business Solutions. Conducts due diligence on target repositories, checking security, secrets, dead code, licensing, and test pass rates.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/rj-repo-deep-auditor/SKILL.md"
+    },
+    {
+      "slug": "rj-repo-fusion-architect",
+      "description": "Principal Architect for merging multiple repositories into a unified, cohesive monorepo for RJ Business Solutions. Resolves stack conflicts, unifies auth and data schemas, and preserves commit history.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/rj-repo-fusion-architect/SKILL.md"
+    },
+    {
+      "slug": "rj-repo-rebrander",
+      "description": "Senior Brand Systems Rebrander for RJ Business Solutions. Fully rebrands repositories to the RJ Business Solutions brand universe (Space Grotesk, Inter, #2563eb palette, dark gradient banner, legal notice) while keeping 100% functionalit...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/rj-repo-rebrander/SKILL.md"
+    },
+    {
+      "slug": "rj-repo-scout-analyst",
+      "description": "Build-vs-Reuse Analyst & Repo Scout for RJ Business Solutions. Finds the best open-source repos and packages to build SaaS products on, evaluates licenses, and ranks candidates with live evidence.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/rj-repo-scout-analyst/SKILL.md"
+    },
+    {
+      "slug": "rj-saas-pricing-packaging",
+      "description": "SaaS Pricing and Packaging Strategist for RJ Business Solutions. Designs high-margin subscription packaging, calculates unit economics, and generates entitlement rules for multi-tenant apps.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/rj-saas-pricing-packaging/SKILL.md"
+    },
+    {
+      "slug": "rj-saas-productizer",
+      "description": "Principal SaaS Productizer for RJ Business Solutions. Converts standalone tools, CLI apps, and templates into multi-tenant, subscription SaaS platforms powered by Cloudflare Workers, Supabase Postgres RLS, and Stripe.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/rj-saas-productizer/SKILL.md"
+    },
+    {
+      "slug": "rj-seo-architect-v2",
+      "description": "Use this skill for RJ SEO ARCHITECT \u2014 v2. Multi-agent SEO strategist: Strategist \u00b7 Technical SEO \u00b7 Schema Architect \u00b7 Content Strategist \u00b7 AI-Search Specialist \u00b7 Automation Engineer. Analyze a site or business and deliver a national SEO ...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/rj-seo-architect-v2/SKILL.md"
+    },
+    {
+      "slug": "rj-white-label-builder",
+      "description": "White-Label and Reseller Platform Architect for RJ Business Solutions. Builds multi-tier tenant hierarchies (Platform -> Agency Reseller -> Client Orgs) with custom domain routing and runtime reseller branding.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/rj-white-label-builder/SKILL.md"
+    },
+    {
+      "slug": "rjbs-prime-ai-assistant-v2",
+      "description": "Use this skill for RJBS PRIME AI ASSISTANT \u2014 v2. You are RJBS Prime, the official AI assistant of RJ Business Solutions (RJBS). You help prospects and clients understand RJBS services, diagnose their business needs, and take the next ste...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/rjbs-prime-ai-assistant-v2/SKILL.md"
+    },
+    {
+      "slug": "rtms",
+      "description": "RJ Business Solutions Skill (plugin:zoom-skills)",
+      "source": "plugin:zoom-skills",
+      "path": ".agents/skills/rtms/SKILL.md"
+    },
+    {
+      "slug": "sales-director-neuronedge-labs-v2",
+      "description": "Use this skill for SALES DIRECTOR \u2014 NeuronEdge Labs\u2122 (v2. You are the Sales Director of NeuronEdge Labs. You own sales strategy, CRM pipelines, discovery and closing, revenue optimization, and sales enablement.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/sales-director-neuronedge-labs-v2/SKILL.md"
+    },
+    {
+      "slug": "schema-mapping",
+      "description": "Guides the process of analyzing, mapping, and documenting transformations",
+      "source": "rj-global-skills",
+      "path": ".agents/skills/schema-mapping/SKILL.md"
+    },
+    {
+      "slug": "schema-specialist",
+      "description": "SCHEMA SPECIALIST",
+      "source": "agents/plugins",
+      "path": ".agents/skills/schema-specialist/SKILL.md"
+    },
+    {
+      "slug": "science_skills_common",
+      "description": "RJ Business Solutions Skill (plugin:science)",
+      "source": "plugin:science",
+      "path": ".agents/skills/science_skills_common/SKILL.md"
+    },
+    {
+      "slug": "scienceskillscommon",
+      "description": "RJ Business Solutions Skill (plugin:science)",
+      "source": "plugin:science",
+      "path": ".agents/skills/scienceskillscommon/SKILL.md"
+    },
+    {
+      "slug": "scribe",
+      "description": "Zoom AI Services Scribe for synchronous and batch transcription of uploaded or stored media. Use for Build-platform JWT auth, fast mode transcription, batch S3 jobs, webhook callbacks, and transcript-pipeline design.",
+      "source": "plugin:zoom-skills",
+      "path": ".agents/skills/scribe/SKILL.md"
+    },
+    {
+      "slug": "security-and-hardening",
+      "description": "Hardens code against vulnerabilities. Use when handling user input, authentication, data storage, or external integrations. Use when building any feature that accepts untrusted data, manages user sessions, or interacts with third-party s...",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/security-and-hardening/SKILL.md"
+    },
+    {
+      "slug": "security-integrity-agent",
+      "description": "SECURITY & INTEGRITY",
+      "source": "agents/plugins",
+      "path": ".agents/skills/security-integrity-agent/SKILL.md"
+    },
+    {
+      "slug": "security-red-team",
+      "description": "SECURITY RED TEAM",
+      "source": "agents/plugins",
+      "path": ".agents/skills/security-red-team/SKILL.md"
+    },
+    {
+      "slug": "seo-optimizer",
+      "description": "SEO OPTIMIZER",
+      "source": "agents/plugins",
+      "path": ".agents/skills/seo-optimizer/SKILL.md"
+    },
+    {
+      "slug": "shadcn-ui-cli",
+      "description": "Accessible Radix primitive compositions, custom design systems, and modular component registry tools.",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/shadcn-ui-cli/SKILL.md"
+    },
+    {
+      "slug": "shipping-and-launch",
+      "description": "Prepares production launches. Use when preparing to deploy to production. Use when you need a pre-launch checklist, when setting up monitoring, when planning a staged rollout, or when you need a rollback strategy.",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/shipping-and-launch/SKILL.md"
+    },
+    {
+      "slug": "skill-creator",
+      "description": "Create new skills, modify and improve existing skills, and measure skill performance. Use when users want to create a skill from scratch, edit, or optimize an existing skill, run evals to test a skill, benchmark skill performance with va...",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/skill-creator/SKILL.md"
+    },
+    {
+      "slug": "skill-repair",
+      "description": "RJ Business Solutions Skill (rj-global-skills)",
+      "source": "rj-global-skills",
+      "path": ".agents/skills/skill-repair/SKILL.md"
+    },
+    {
+      "slug": "slack-gif-creator",
+      "description": "Knowledge and utilities for creating animated GIFs optimized for Slack. Provides constraints, validation tools, and animation concepts. Use when users request animated GIFs for Slack like 'make me a GIF of X doing Y for Slack.",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/slack-gif-creator/SKILL.md"
+    },
+    {
+      "slug": "source-driven-development",
+      "description": "Grounds every implementation decision in official documentation. Use when you want authoritative, source-cited code free from outdated patterns. Use when building with any framework or library where correctness matters.",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/source-driven-development/SKILL.md"
+    },
+    {
+      "slug": "spec-driven-development",
+      "description": "Creates specs before coding. Use when starting a new project, feature, or significant change and no specification exists yet. Use when requirements are unclear, ambiguous, or only exist as a vague idea.",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/spec-driven-development/SKILL.md"
+    },
+    {
+      "slug": "sponsorship-affiliate-strategist",
+      "description": "SPONSORSHIP & AFFILIATE STRATEGIST",
+      "source": "agents/plugins",
+      "path": ".agents/skills/sponsorship-affiliate-strategist/SKILL.md"
+    },
+    {
+      "slug": "string_database",
+      "description": "RJ Business Solutions Skill (plugin:science)",
+      "source": "plugin:science",
+      "path": ".agents/skills/string_database/SKILL.md"
+    },
+    {
+      "slug": "stripe-nexus-payments-integration-ar",
+      "description": "Use this skill for STRIPE NEXUS \u2014 Payments Integration Ar. You design, build, debug, and harden Stripe integrations: payments, billing, Connect, tax, fraud, in-person, and money-movement products. You give clear architecture decisions an...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/stripe-nexus-payments-integration-ar/SKILL.md"
+    },
+    {
+      "slug": "summarizer",
+      "description": "Zoom AI Services Summarizer for synchronous transcript summarization and asynchronous batch summary jobs. Use for conversation recaps, action items, detailed summaries, Build-platform JWT auth, S3 transcript archives, and webhook-driven ...",
+      "source": "plugin:zoom-skills",
+      "path": ".agents/skills/summarizer/SKILL.md"
+    },
+    {
+      "slug": "support-director-neuronedge-labs-v",
+      "description": "Use this skill for SUPPORT DIRECTOR \u2014 NeuronEdge Labs\u2122 (v. You are the Support Director of NeuronEdge Labs. You own customer support operations: ticketing, SLAs, knowledge base, AI chat/agents, escalations, quality, and retention.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/support-director-neuronedge-labs-v/SKILL.md"
+    },
+    {
+      "slug": "supreme-blog-commander",
+      "description": "SUPREME BLOG COMMANDER",
+      "source": "agents/plugins",
+      "path": ".agents/skills/supreme-blog-commander/SKILL.md"
+    },
+    {
+      "slug": "supreme-legal-agi-ecosystem",
+      "description": "Use this skill for SUPREME_LEGAL_AGI_ECOSYSTEM. %PDF-1.7 %\ud83d\udda4 5 0 obj <</Filter /FlateDecode/Length 877>> stream x\u06a5Vn\u00141 }g$R\u06c9sP \u0002$ZiEB<l\u0007\u0016!mAL\u0019gw\u0556n&'/''\u0603<Q~B~n;0'x~\u0004&Dt1\u0018}q\u0233\\'Zg\u076fl\u0006 \u007f \u0002&/ !\u0006/.\u020aE] \u001a#$|?v\u03faEDdCuS!\u0005\u0014tr vi\u0090\\'e;\u0006z^Z\\~ )/W \u0003,D\u0016 l\u06d1...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/supreme-legal-agi-ecosystem/SKILL.md"
+    },
+    {
+      "slug": "supreme-legal-agi-skill-file",
+      "description": "Use this skill for SUPREME_LEGAL_AGI_SKILL_FILE. %PDF-1.7 %\ud83d\udda4 5 0 obj <</Filter /FlateDecode/Length 1959>> stream x\u06b5ZYo6\u0010~_\u0000y @\u000f\u9060-\u0018\u0002A veoPn\u0003 \u0121\u02ae\u0011;873\u050aw\u0002~ ee\u01d93#yc$ '=\udb37\udd1aq\u077dc2\u007fz\u039fD\u000fvn\u000e \u0011\\\u0004 \u0014Y`\u0154\u054e\u7e11\u041eYY-\ud110Lw_[&:N\\'jYpF{,(IT-LIN\u001a \u0006I0vA,rtO\\'\u0017-\u00149X3% L\u024f...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/supreme-legal-agi-skill-file/SKILL.md"
+    },
+    {
+      "slug": "supreme-meta-agi-rick-mode-v11",
+      "description": "Use this skill for SUPREME META AGI \u2014 RICK MODE v11. \u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550 PRIORITY ORDER (top wins on conflict) 1. Safety gates & Red-tier stops (Part 0.95, Part 16) 2.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/supreme-meta-agi-rick-mode-v11/SKILL.md"
+    },
+    {
+      "slug": "supreme-meta-agi-rick-mode-v12",
+      "description": "Autonomous agent specialized in orchestrators. Provides expert execution, strategy, and architecture for \ud83d\udd25 SUPREME META AGI \u2014 RICK MODE v12.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/supreme-meta-agi-rick-mode-v12/SKILL.md"
+    },
+    {
+      "slug": "supreme-underwriting-intelligence-agen",
+      "description": "Use this skill for SUPREME UNDERWRITING INTELLIGENCE AGEN. You are a senior pre-underwriting analyst and credit strategist for Rick Jefferson Solutions. You analyze consumer and business credit, income, cash flow, and collateral document...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/supreme-underwriting-intelligence-agen/SKILL.md"
+    },
+    {
+      "slug": "system-prompt-1",
+      "description": "Use this skill for SYSTEM_PROMPT (1). **Copy this entire file into any LLM's system prompt / custom instructions field.**.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/system-prompt-1/SKILL.md"
+    },
+    {
+      "slug": "systems-designer",
+      "description": "SYSTEMS DESIGNER",
+      "source": "agents/plugins",
+      "path": ".agents/skills/systems-designer/SKILL.md"
+    },
+    {
+      "slug": "tailwind-tailwind-v4",
+      "description": "Next-gen Tailwind v4 utility composition, CSS-only config overrides, and performance optimizations.",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/tailwind-tailwind-v4/SKILL.md"
+    },
+    {
+      "slug": "team-chat",
+      "description": "Zoom Team Chat - Build messaging integrations, chatbots with rich cards/buttons, and apps. Covers Team Chat API (user-level messaging) and Chatbot API (bot-level interactions with webhooks).",
+      "source": "plugin:zoom-skills",
+      "path": ".agents/skills/team-chat/SKILL.md"
+    },
+    {
+      "slug": "temporal-research",
+      "description": "Verifies changing facts such as APIs, SDKs, pricing, free tiers, model availability, versions, platform capabilities and limits using date-aware authoritative research.",
+      "source": "plugin:antigravity-omega",
+      "path": ".agents/skills/temporal-research/SKILL.md"
+    },
+    {
+      "slug": "test-driven-development",
+      "description": "Drives development with tests. Use when implementing any logic, fixing any bug, or changing any behavior. Use when you need to prove that code works, when a bug report arrives, or when you're about to modify existing functionality.",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/test-driven-development/SKILL.md"
+    },
+    {
+      "slug": "the-supreme-full-stack-architect-agent",
+      "description": "Use this skill for THE SUPREME FULL-STACK ARCHITECT AGENT. You are the Supreme Full-Stack Architect Agent: a principal-level engineering agent that architects complete software systems, writes production-quality code, automates infrastru...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/the-supreme-full-stack-architect-agent/SKILL.md"
+    },
+    {
+      "slug": "theme-factory",
+      "description": "Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML landing pages, etc. There are 10 pre-set themes with colors/fonts that you can apply to any artifact that has been creating, or can generat...",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/theme-factory/SKILL.md"
+    },
+    {
+      "slug": "this-gpt-helps-create-compliant-high-co",
+      "description": "Use this skill for This GPT helps create compliant, high-co. This GPT helps create compliant, high-converting marketing and operational content for the credit repair industry. It simulates Rick Jefferson\u2019s strategic approach to compliant...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/this-gpt-helps-create-compliant-high-co/SKILL.md"
+    },
+    {
+      "slug": "title-hook-thumbnail-strategist",
+      "description": "PACKAGING STRATEGIST",
+      "source": "agents/plugins",
+      "path": ".agents/skills/title-hook-thumbnail-strategist/SKILL.md"
+    },
+    {
+      "slug": "topical-authority",
+      "description": "TOPICAL AUTHORITY",
+      "source": "agents/plugins",
+      "path": ".agents/skills/topical-authority/SKILL.md"
+    },
+    {
+      "slug": "transcript-knowledge-miner",
+      "description": "TRANSCRIPT KNOWLEDGE MINER",
+      "source": "agents/plugins",
+      "path": ".agents/skills/transcript-knowledge-miner/SKILL.md"
+    },
+    {
+      "slug": "translator",
+      "description": "Zoom AI Services Translator for synchronous text translation and asynchronous batch file translation. Use for plain-text translation, one-target-language jobs, S3 text archives, Build-platform JWT auth, and webhook-driven translation pip...",
+      "source": "plugin:zoom-skills",
+      "path": ".agents/skills/translator/SKILL.md"
+    },
+    {
+      "slug": "trend-intelligence",
+      "description": "TREND INTELLIGENCE",
+      "source": "agents/plugins",
+      "path": ".agents/skills/trend-intelligence/SKILL.md"
+    },
+    {
+      "slug": "trend-opportunity-scout",
+      "description": "TREND OPPORTUNITY SCOUT",
+      "source": "agents/plugins",
+      "path": ".agents/skills/trend-opportunity-scout/SKILL.md"
+    },
+    {
+      "slug": "troubleshooting",
+      "description": "Uses Chrome DevTools MCP and documentation to troubleshoot connection and target issues. Trigger this skill when list_pages, new_page, or navigate_page fail, or when the server initialization fails.",
+      "source": "plugin:chrome-devtools-plugin",
+      "path": ".agents/skills/troubleshooting/SKILL.md"
+    },
+    {
+      "slug": "truth-engine",
+      "description": "Verifies consequential factual claims, separates evidence from inference, handles uncertainty, and prevents unsupported assertions in research and architecture work.",
+      "source": "plugin:antigravity-omega",
+      "path": ".agents/skills/truth-engine/SKILL.md"
+    },
+    {
+      "slug": "truth-seo-auditor",
+      "description": "TRUTH & SEO TEMPORAL AUDITOR",
+      "source": "agents/plugins",
+      "path": ".agents/skills/truth-seo-auditor/SKILL.md"
+    },
+    {
+      "slug": "truth-temporal-auditor",
+      "description": "TRUTH & TEMPORAL AUDITOR",
+      "source": "agents/plugins",
+      "path": ".agents/skills/truth-temporal-auditor/SKILL.md"
+    },
+    {
+      "slug": "truth-temporal-engineer",
+      "description": "TRUTH & TEMPORAL ENGINEER",
+      "source": "agents/plugins",
+      "path": ".agents/skills/truth-temporal-engineer/SKILL.md"
+    },
+    {
+      "slug": "truth-temporal-game-auditor",
+      "description": "TRUTH & TEMPORAL GAME AUDITOR",
+      "source": "agents/plugins",
+      "path": ".agents/skills/truth-temporal-game-auditor/SKILL.md"
+    },
+    {
+      "slug": "truth-temporal-oracle",
+      "description": "TRUTH TEMPORAL ORACLE",
+      "source": "agents/plugins",
+      "path": ".agents/skills/truth-temporal-oracle/SKILL.md"
+    },
+    {
+      "slug": "tubemind-agi",
+      "description": "ALGORITHM GOD - TubeMind AGI System. Autonomous multi-agent YouTube empire builder backed by 26+ ArXiv research papers, 5-agent swarm, Brain Refresh Protocol v1.1, and 37x content multiplier.",
+      "source": "plugin:youtube-empire",
+      "path": ".agents/skills/tubemind-agi/SKILL.md"
+    },
+    {
+      "slug": "twilio-master-developer-v2",
+      "description": "RJ Business Solutions Skill (rj-super-agents)",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/twilio-master-developer-v2/SKILL.md"
+    },
+    {
+      "slug": "ucsc_conservation_and_tfbs",
+      "description": "RJ Business Solutions Skill (plugin:science)",
+      "source": "plugin:science",
+      "path": ".agents/skills/ucsc_conservation_and_tfbs/SKILL.md"
+    },
+    {
+      "slug": "ui-toolkit",
+      "description": "Zoom Video SDK UI Toolkit for Web. Use when building prebuilt or low-code Zoom Video SDK browser UI with @zoom/videosdk-ui-toolkit, composite UI, individual components, session lifecycle, React/Vue/Angular/Next.js/vanilla integration, fe...",
+      "source": "plugin:zoom-skills",
+      "path": ".agents/skills/ui-toolkit/SKILL.md"
+    },
+    {
+      "slug": "unibind_database",
+      "description": "RJ Business Solutions Skill (plugin:science)",
+      "source": "plugin:science",
+      "path": ".agents/skills/unibind_database/SKILL.md"
+    },
+    {
+      "slug": "uniprot_database",
+      "description": "RJ Business Solutions Skill (plugin:science)",
+      "source": "plugin:science",
+      "path": ".agents/skills/uniprot_database/SKILL.md"
+    },
+    {
+      "slug": "universal-metacor-template-engine-v2",
+      "description": "Use this skill for UNIVERSAL METACOR TEMPLATE ENGINE \u2014 v2. You are the Universal MetaCoR Template Engine. You convert any AI agent, workflow, team, or organizational role into a standardized MetaCoR JSON specification, including large mu...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/universal-metacor-template-engine-v2/SKILL.md"
+    },
+    {
+      "slug": "unreal-c-engine-authority-v2",
+      "description": "Use this skill for UNREAL C++ ENGINE AUTHORITY \u2014 v2. You are a senior Unreal Engine engine/gameplay programmer and technical director. You design, implement, optimize, and ship production C++ systems across UE 4.27 through UE 5.8.x.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/unreal-c-engine-authority-v2/SKILL.md"
+    },
+    {
+      "slug": "untitled-2",
+      "description": "Use this skill for Untitled-2. You are Jukeyman \u2014 the Supreme UI/UX Engineering Agent of RJ Business Solutions, created by Rick Jefferson. You design and generate production-grade interfaces, components, and full design systems using cur...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/untitled-2/SKILL.md"
+    },
+    {
+      "slug": "untitled-39",
+      "description": "Use this skill for Untitled-39. You are the AI/ML Director of NeuronEdge Labs. You design, build, evaluate, and operate AI systems: model selection and integration, embeddings, RAG pipelines, agent architectures, and vector databases.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/untitled-39/SKILL.md"
+    },
+    {
+      "slug": "using-agent-skills",
+      "description": "Discovers and invokes agent skills. Use when starting a session or when you need to discover which skill applies to the current task. This is the meta-skill that governs how all other skills are discovered and invoked.",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/using-agent-skills/SKILL.md"
+    },
+    {
+      "slug": "uv",
+      "description": "RJ Business Solutions Skill (plugin:science)",
+      "source": "plugin:science",
+      "path": ".agents/skills/uv/SKILL.md"
+    },
+    {
+      "slug": "vertical-slice",
+      "description": "Creates a representative production-quality slice before full-scale content production.",
+      "source": "plugin:apex-gameforge",
+      "path": ".agents/skills/vertical-slice/SKILL.md"
+    },
+    {
+      "slug": "video-ranking-analyst",
+      "description": "VIDEO RANKING ANALYST",
+      "source": "agents/plugins",
+      "path": ".agents/skills/video-ranking-analyst/SKILL.md"
+    },
+    {
+      "slug": "video-sdk",
+      "description": "RJ Business Solutions Skill (plugin:zoom-skills)",
+      "source": "plugin:zoom-skills",
+      "path": ".agents/skills/video-sdk/SKILL.md"
+    },
+    {
+      "slug": "virtual-agent",
+      "description": "Zoom Virtual Agent skill pack for web campaigns/chat embeds, Android and iOS WebView bridge integrations, and knowledge-base sync workflows. Use for lifecycle patterns, event handling, and version-drift troubleshooting.",
+      "source": "plugin:zoom-skills",
+      "path": ".agents/skills/virtual-agent/SKILL.md"
+    },
+    {
+      "slug": "visual-content-director",
+      "description": "VISUAL CONTENT DIRECTOR",
+      "source": "agents/plugins",
+      "path": ".agents/skills/visual-content-director/SKILL.md"
+    },
+    {
+      "slug": "wave-professor-wave-music-mentor-s",
+      "description": "Use this skill for WAVE PROFESSOR \u2014 Wave Music Mentor & S. Help artists find their own wave \u2014 melody, confidence, honesty, and timeless originality \u2014 across any genre or content.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/wave-professor-wave-music-mentor-s/SKILL.md"
+    },
+    {
+      "slug": "web-artifacts-builder",
+      "description": "Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui). Use for complex artifacts requiring state management, routing, or shadcn/ui componen...",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/web-artifacts-builder/SKILL.md"
+    },
+    {
+      "slug": "webapp-testing",
+      "description": "Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing browser screenshots, and viewing browser logs.",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/webapp-testing/SKILL.md"
+    },
+    {
+      "slug": "webhooks",
+      "description": "RJ Business Solutions Skill (plugin:zoom-skills)",
+      "source": "plugin:zoom-skills",
+      "path": ".agents/skills/webhooks/SKILL.md"
+    },
+    {
+      "slug": "websockets",
+      "description": "RJ Business Solutions Skill (plugin:zoom-skills)",
+      "source": "plugin:zoom-skills",
+      "path": ".agents/skills/websockets/SKILL.md"
+    },
+    {
+      "slug": "workflow_skill_creator",
+      "description": "RJ Business Solutions Skill (plugin:science)",
+      "source": "plugin:science",
+      "path": ".agents/skills/workflow_skill_creator/SKILL.md"
+    },
+    {
+      "slug": "xcode_project_setup",
+      "description": "Safely modifies Xcode projects (.pbxproj) to add Swift Packages and link files. Use this skill whenever an iOS project needs dependencies installed (e.g. Firebase, Alamofire).",
+      "source": "plugin:firebase",
+      "path": ".agents/skills/xcode_project_setup/SKILL.md"
+    },
+    {
+      "slug": "xlsx",
+      "description": "Use this skill any time a spreadsheet file is the primary input or output. This means any task where the user wants to: open, read, edit, or fix an existing .xlsx, .xlsm, .csv, or .tsv file (e.g., adding columns, computing formulas, form...",
+      "source": "plugin:base44-awesome-skills-plugin",
+      "path": ".agents/skills/xlsx/SKILL.md"
+    },
+    {
+      "slug": "you-are-a-senior-full-stack-software-arc",
+      "description": "Use this skill for You are a senior full-stack software arc. You are a senior full-stack software architect at RJ Business Solutions \u2014 backend, frontend, API integration, DevOps, and system design in one. You deliver complete, real-world...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/you-are-a-senior-full-stack-software-arc/SKILL.md"
+    },
+    {
+      "slug": "you-are-funnelforge-ultra-v2",
+      "description": "Use this skill for You are FunnelForge Ultra\u2122 v2. You are FunnelForge Ultra\u2122 v2.0 APEX \u2014 the funnel architecture and conversion optimization agent of RJ Business Solutions. You turn any offer into a complete, compliant, revenue-generatin...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/you-are-funnelforge-ultra-v2/SKILL.md"
+    },
+    {
+      "slug": "you-are-rick-jefferson-elite-ai-system",
+      "description": "Use this skill for You are Rick Jefferson \u2014 elite AI system. You are Rick Jefferson \u2014 elite AI systems architect at RJ Business Solutions. You help users design and deploy real-world agentic AI platforms.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/you-are-rick-jefferson-elite-ai-system/SKILL.md"
+    },
+    {
+      "slug": "you-are-rick-jefferson-the-supreme-car",
+      "description": "Use this skill for You are Rick Jefferson \u2014 The Supreme Car. You are Rick Jefferson \u2014 The Supreme Career Domination & ATS Mastery Agent, created by Rick Jefferson of RJ Business Solutions. You turn professionals into top candidates throu...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/you-are-rick-jefferson-the-supreme-car/SKILL.md"
+    },
+    {
+      "slug": "you-are-rick-jefferson-the-ultimate-of",
+      "description": "Use this skill for You are Rick Jefferson \u2014 The Ultimate Of. You are Rick Jefferson \u2014 The Ultimate Offer Engineering & Viral Conversion System, created by Rick Jefferson of RJ Business Solutions. You are a conversion architect, viral gro...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/you-are-rick-jefferson-the-ultimate-of/SKILL.md"
+    },
+    {
+      "slug": "you-are-rj-prometheus-rick-jefferson-s",
+      "description": "Use this skill for You are RJ PROMETHEUS \u2014 Rick Jefferson's. You are RJ PROMETHEUS \u2014 Rick Jefferson's live-knowledge intelligence engine at RJ Business Solutions. Your training data is suspect.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/you-are-rj-prometheus-rick-jefferson-s/SKILL.md"
+    },
+    {
+      "slug": "you-are-supreme-legal-agi-master-router",
+      "description": "Use this skill for You are SUPREME LEGAL AGI (MASTER ROUTER. You are SUPREME LEGAL AGI (MASTER ROUTER) \u2014 the orchestrator of an elite 10-agent legal intelligence ecosystem.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/you-are-supreme-legal-agi-master-router/SKILL.md"
+    },
+    {
+      "slug": "you-are-the-architecture-omniscient-matr",
+      "description": "Use this skill for You are the ARCHITECTURE OMNISCIENT MATR. You are the ARCHITECTURE OMNISCIENT MATRIX \u2014 an elite system architecture intelligence for RJ Business Solutions. You turn any system concept, however ambitious, into a product...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/you-are-the-architecture-omniscient-matr/SKILL.md"
+    },
+    {
+      "slug": "you-are-the-genspark-master-agent-rj-b",
+      "description": "Use this skill for You are the GenSpark Master Agent \u2014 RJ B. You are the GenSpark Master Agent \u2014 RJ Business Solutions' high-capability reasoning and execution agent. You solve complex problems across technical, business, scientific, and...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/you-are-the-genspark-master-agent-rj-b/SKILL.md"
+    },
+    {
+      "slug": "you-are-the-omniscient-legal-enforcer",
+      "description": "Use this skill for You are The Omniscient Legal Enforcer\u2122. You are The Omniscient Legal Enforcer\u2122 \u2014 the legal research, analysis, and drafting engine of RJ Business Solutions. You help consumers, businesses, and their attorneys enforce r...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/you-are-the-omniscient-legal-enforcer/SKILL.md"
+    },
+    {
+      "slug": "you-are-the-supreme-quantum-funnel-archi",
+      "description": "Use this skill for You are the Supreme Quantum Funnel Archi. You are the Supreme Quantum Funnel Architect v2.0 (SQFA 2.0) of RJ Business Solutions. From a single prompt (e.g., \\'Build me a funnel for luxury wellness coaching targeting C-...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/you-are-the-supreme-quantum-funnel-archi/SKILL.md"
+    },
+    {
+      "slug": "you-are-the-supreme-typescript-quantum-d",
+      "description": "Use this skill for You are the Supreme TypeScript Quantum D. You are the Supreme TypeScript Quantum Dev \u2014 elite TypeScript engineer built by Rick Jefferson Solutions. You deliver production-grade, strictly typed, secure TypeScript system...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/you-are-the-supreme-typescript-quantum-d/SKILL.md"
+    },
+    {
+      "slug": "you-are-the-video-seo-optimization-ass",
+      "description": "Use this skill for You are the Video SEO Optimization & Ass. You are the Video SEO Optimization & Asset Intelligence Agent for RJ Business Solutions \u2014 you turn video libraries into discoverable, high-performing assets across YouTube, Goo...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/you-are-the-video-seo-optimization-ass/SKILL.md"
+    },
+    {
+      "slug": "your-doc-was-dated-february-28-and-it-s",
+      "description": "Use this skill for Your doc was dated February 28, and it's. Your doc was dated February 28, and it's gone stale in the places that matter. Below I fix what's wrong as of October 4, 2026, then give you the agent as a plug-in pack.",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/your-doc-was-dated-february-28-and-it-s/SKILL.md"
+    },
+    {
+      "slug": "youtube-data-auditor",
+      "description": "YOUTUBE DATA AUDITOR",
+      "source": "agents/plugins",
+      "path": ".agents/skills/youtube-data-auditor/SKILL.md"
+    },
+    {
+      "slug": "youtube-empire-commander",
+      "description": "YOUTUBE EMPIRE COMMANDER & ALGORITHM GOD \u2014 TUBEMIND AGI",
+      "source": "agents/plugins",
+      "path": ".agents/skills/youtube-empire-commander/SKILL.md"
+    },
+    {
+      "slug": "youtube-intelligence-extractor-v2",
+      "description": "Use this skill for YOUTUBE INTELLIGENCE EXTRACTOR \u2014 v2. You are a business and technical intelligence analyst. You turn YouTube video and channel content into structured, reusable knowledge: summaries, taxonomies, process docs, data mode...",
+      "source": "rj-super-agents",
+      "path": ".agents/skills/youtube-intelligence-extractor-v2/SKILL.md"
+    },
+    {
+      "slug": "zoom-apps-sdk",
+      "description": "RJ Business Solutions Skill (plugin:zoom-skills)",
+      "source": "plugin:zoom-skills",
+      "path": ".agents/skills/zoom-apps-sdk/SKILL.md"
+    },
+    {
+      "slug": "zoom-mcp",
+      "description": "RJ Business Solutions Skill (plugin:zoom-skills)",
+      "source": "plugin:zoom-skills",
+      "path": ".agents/skills/zoom-mcp/SKILL.md"
+    }
+  ]
+}

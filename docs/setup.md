@@ -11,7 +11,7 @@ Agents run without approval prompts and share their account's files. Do not give
 On an x86_64 or arm64 machine (a VPS, a home server, or a spare laptop), one script does most of the manual setup below, using the newest CI-tested release instead of a source build:
 
 ```sh
-curl -fsSL https://raw.githubusercontent.com/davidondrej/cloudroom-core/main/install/install.sh -o install.sh
+curl -fsSL https://raw.githubusercontent.com/rjbizsolution23-wq/cloudroom-core/main/install/install.sh -o install.sh
 sudo bash install.sh
 ```
 
@@ -31,7 +31,7 @@ sudo apt-get install -y build-essential curl git ca-certificates pkg-config pyth
 Install [current stable Rust](https://rustup.rs/) and [Node.js 24](https://nodejs.org/en/download). Node and npm must be installed system-wide, under `/usr/local/bin` or `/usr/bin`, not only in your administrator's nvm directory.
 
 ```sh
-git clone https://github.com/davidondrej/cloudroom-core.git
+git clone https://github.com/rjbizsolution23-wq/cloudroom-core.git
 cd cloudroom-core
 cargo build --locked --release --jobs 2
 sudo npm install --global --prefix /usr/local @openai/codex@0.154.0
@@ -176,15 +176,15 @@ Never use `tailscale funnel` for Core: it opens the API to the whole internet.
 
 ## Connect the desktop app
 
-In the [Cloudroom app](https://github.com/davidondrej/cloudroom-gui/releases) (v83 or newer), open **Settings → Cloudroom account → Connect your own Core**. Enter the HTTPS URL and the token from `sudo grep ^CLOUDROOM_TOKEN= /etc/cloudroom/core.env`. No Cloudroom account is needed. Cloud threads then run on this machine and share its files.
+In the Cloudroom desktop client (v83 or newer), open **Settings → Cloudroom account → Connect your own Core**. Enter the HTTPS URL and the token from `sudo grep ^CLOUDROOM_TOKEN= /etc/cloudroom/core.env`. No Cloudroom account is needed. Cloud threads then run on this machine and share its files.
 
 ## Upgrade
 
-Pick a version from the [releases](https://github.com/davidondrej/cloudroom-core/releases), then:
+Pick a version from the [releases](https://github.com/rjbizsolution23-wq/cloudroom-core/releases), then:
 
 ```sh
 v=X.Y.Z; a=$(uname -m)
-curl -fsSLO https://github.com/davidondrej/cloudroom-core/releases/download/core-v$v/cloudroom-core-$v-linux-$a.tar.gz
+curl -fsSLO https://github.com/rjbizsolution23-wq/cloudroom-core/releases/download/core-v$v/cloudroom-core-$v-linux-$a.tar.gz
 mkdir core-$v && tar -xzf cloudroom-core-$v-linux-$a.tar.gz -C core-$v
 sudo python3 core-$v/install/update.py upgrade "$PWD/core-$v"
 sudo cat /var/lib/cloudroom-update/state.json

@@ -954,7 +954,11 @@ pub fn checkpoint(
 
 pub(super) fn command(binary: &Path, config: &Config) -> Command {
     // System tools come first; tools the agent installed itself follow (ADR 0119).
-    let mut path = std::ffi::OsString::from("/usr/local/bin:/usr/bin:/bin");
+    let mut path = std::ffi::OsString::from(if cfg!(target_os = "macos") {
+        "/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin"
+    } else {
+        "/usr/local/bin:/usr/bin:/bin"
+    });
     for folder in [".local/bin", ".cargo/bin", "go/bin"] {
         path.push(":");
         path.push(config.account_home.join(folder));

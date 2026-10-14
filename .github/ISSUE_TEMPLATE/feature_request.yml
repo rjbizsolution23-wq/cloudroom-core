@@ -1,0 +1,12 @@
+name: 🚀 Feature / Agent Request
+description: Propose an enhancement, harness capability, or new autonomous agent/skill
+title: "[FEAT] "
+labels: ["type: feature", "status: triage"]
+body:
+  - type: textarea
+    id: objective
+    attributes:
+      label: Strategic Objective
+      description: How does this capability enhance RJ Cloudroom Core?
+    validations:
+      required: true

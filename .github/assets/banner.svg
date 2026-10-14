@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="100%" height="100%">
+  <defs>
+    <linearGradient id="rjHero" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="55%" stop-color="#1e3a8a"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+    <linearGradient id="rjAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-width="0.6" stroke-opacity="0.06"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="640" fill="url(#rjHero)" rx="16"/>
+  <rect width="1280" height="640" fill="url(#grid)" rx="16"/>
+  <circle cx="1080" cy="140" r="240" fill="#0ea5e9" opacity="0.12"/>
+  <circle cx="180" cy="520" r="220" fill="#2563eb" opacity="0.18"/>
+  <rect x="72" y="72" width="1136" height="496" rx="16" fill="#0f172a" fill-opacity="0.52" stroke="#bfdbfe" stroke-opacity="0.24" stroke-width="1.5"/>
+  <rect x="120" y="124" width="380" height="36" rx="18" fill="#1e3a8a" stroke="#0ea5e9" stroke-width="1"/>
+  <text x="310" y="147" font-family="'Space Grotesk', system-ui, -apple-system, sans-serif" font-size="13" font-weight="700" fill="#f8fafc" text-anchor="middle" letter-spacing="2">RJ BUSINESS SOLUTIONS · ENTERPRISE CORE</text>
+  <text x="120" y="250" font-family="'Space Grotesk', system-ui, -apple-system, sans-serif" font-size="68" font-weight="800" fill="#ffffff" letter-spacing="-1.5">CLOUDROOM CORE</text>
+  <rect x="120" y="278" width="220" height="6" rx="3" fill="url(#rjAccent)"/>
+  <text x="120" y="335" font-family="'Inter', system-ui, -apple-system, sans-serif" font-size="24" font-weight="500" fill="#eff6ff">Sovereign Linux Multi-Agent Runtime, Harness Daemon &amp; 416-Skill Execution Engine</text>
+  <text x="120" y="378" font-family="'Inter', system-ui, -apple-system, sans-serif" font-size="18" font-weight="400" fill="#bfdbfe">Orchestrates Claude Code, Codex &amp; Pi with 222 Autonomous Agents, 416 Verified Skills &amp; Zero-Trust Isolation</text>
+  <!-- Stats Pills -->
+  <g transform="translate(120, 420)">
+    <rect x="0" y="0" width="210" height="54" rx="10" fill="#1e3a8a" fill-opacity="0.7" stroke="#0ea5e9" stroke-opacity="0.5"/>
+    <text x="105" y="24" font-family="'Space Grotesk', monospace" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">416 SKILLS</text>
+    <text x="105" y="43" font-family="'Inter', sans-serif" font-size="11" fill="#bfdbfe" text-anchor="middle">Native .agents/skills Runtime</text>
+
+    <rect x="230" y="0" width="210" height="54" rx="10" fill="#1e3a8a" fill-opacity="0.7" stroke="#0ea5e9" stroke-opacity="0.5"/>
+    <text x="335" y="24" font-family="'Space Grotesk', monospace" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">222 AGENTS</text>
+    <text x="335" y="43" font-family="'Inter', sans-serif" font-size="11" fill="#bfdbfe" text-anchor="middle">10 Specialized Divisions</text>
+
+    <rect x="460" y="0" width="230" height="54" rx="10" fill="#1e3a8a" fill-opacity="0.7" stroke="#0ea5e9" stroke-opacity="0.5"/>
+    <text x="575" y="24" font-family="'Space Grotesk', monospace" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">RUST 2024 DAEMON</text>
+    <text x="575" y="43" font-family="'Inter', sans-serif" font-size="11" fill="#bfdbfe" text-anchor="middle">Axum · Tokio · cgroup v2</text>
+  </g>
+  <text x="120" y="528" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="15" font-weight="600" fill="#0ea5e9">RICK JEFFERSON, CEO · RJ BUSINESS SOLUTIONS · TIJERAS, NM · RJBIZSOLUTION23-WQ</text>
+</svg>

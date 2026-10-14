@@ -257,3 +257,50 @@ pub(super) fn expand(handle: &Handle, input: &Value) -> io::Result<(String, Vec<
     }
     Ok((expanded, warnings))
 }
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    #[test]
+    fn all_bundled_repository_skills_load_cleanly() {
+        let root = Path::new(env!("CARGO_MANIFEST_DIR"));
+        let skills_dir = root.join(".agents/skills");
+        let claude_skills_dir = root.join(".claude/skills");
+        let mut loaded = 0usize;
+        for entry in fs::read_dir(&skills_dir).expect("read .agents/skills") {
+            let entry = entry.expect("dir entry");
+            if !entry.file_type().expect("file type").is_dir() {
+                continue;
+            }
+            let name = entry.file_name().into_string().expect("utf8 skill name");
+            assert!(
+                !name.is_empty()
+                    && name
+                        .bytes()
+                        .all(|ch| ch.is_ascii_alphanumeric() || matches!(ch, b'-' | b'_')),
+                "invalid skill name: {name}"
+            );
+            let skill_file = claude_skills_dir.join(&name).join("SKILL.md");
+            let content = fs::read_to_string(&skill_file).unwrap_or_else(|e| {
+                panic!("skill {name} missing at .claude/skills/{name}/SKILL.md: {e}")
+            });
+            assert!(
+                content.len() <= MAX_LINE,
+                "skill {name} exceeds MAX_LINE ({} > {MAX_LINE})",
+                content.len()
+            );
+            let parsed = body(&content, &name)
+                .unwrap_or_else(|e| panic!("skill {name} failed body() validation: {e}"));
+            assert!(
+                !parsed.trim().is_empty(),
+                "skill {name} parsed body is empty"
+            );
+            loaded += 1;
+        }
+        assert!(
+            loaded >= 400,
+            "expected at least 400 bundled RJ skills, found {loaded}"
+        );
+    }
+}
