@@ -4,6 +4,7 @@ pub mod config;
 pub mod mac;
 mod observability;
 pub mod preview;
+pub mod rj;
 pub mod runtime;
 pub mod secrets;
 pub mod session;

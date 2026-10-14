@@ -6,3 +6,6 @@ private/
 !.env.example
 __pycache__/
 /integrations/bb/dist/
+/.runtime/
+/cloudflare/node_modules/
+/cloudflare/.wrangler/

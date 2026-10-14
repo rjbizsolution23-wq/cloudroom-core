@@ -1,0 +1,19 @@
+{
+  "name": "rj-cloudroom-core",
+  "main": "worker.mjs",
+  "compatibility_date": "2025-03-01",
+  "workers_dev": true,
+  "rules": [
+    {
+      "type": "Text",
+      "globs": ["**/*.html"],
+      "fallthrough": true
+    }
+  ],
+  "vars": {
+    "ORGANIZATION": "RJ Business Solutions",
+    "ARCHITECT": "Rick Jefferson, CEO",
+    "VERSION": "0.1.57",
+    "GITHUB_RAW_BASE": "https://raw.githubusercontent.com/rjbizsolution23-wq/cloudroom-core/main"
+  }
+}
