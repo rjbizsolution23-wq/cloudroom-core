@@ -1,0 +1,11 @@
+{
+  "name": "rj-portfolio-showcase",
+  "version": "1.0.0",
+  "private": true,
+  "description": "RJ Business Solutions — Verified Master Portfolio & Live Systems Showcase (30 Unique Production Deployments · Zero Duplicates)",
+  "main": "src/worker.mjs",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  }
+}

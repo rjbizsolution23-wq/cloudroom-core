@@ -1,0 +1,18 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "rj-portfolio-showcase",
+  "main": "src/worker.mjs",
+  "compatibility_date": "2025-03-01",
+  "observability": {
+    "enabled": true
+  },
+  "rules": [
+    {
+      "type": "Text",
+      "globs": [
+        "**/*.html"
+      ],
+      "fallthrough": true
+    }
+  ]
+}
