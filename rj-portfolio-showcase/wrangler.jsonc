@@ -3,9 +3,28 @@
   "name": "rj-portfolio-showcase",
   "main": "src/worker.mjs",
   "compatibility_date": "2025-03-01",
+  "workers_dev": true,
   "observability": {
     "enabled": true
   },
+  "routes": [
+    {
+      "pattern": "portfolio.rjbusinesssolutions.org",
+      "custom_domain": true
+    },
+    {
+      "pattern": "showcase.rjbusinesssolutions.org",
+      "custom_domain": true
+    },
+    {
+      "pattern": "portfolio.rickjefferson.com",
+      "custom_domain": true
+    },
+    {
+      "pattern": "portfolio.rjbusinesssolutions.dev",
+      "custom_domain": true
+    }
+  ],
   "rules": [
     {
       "type": "Text",

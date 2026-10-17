@@ -16,5 +16,15 @@
       "database_name": "rj-stream-live-db",
       "database_id": "a8b2e888-dd25-4d9e-aa72-745a421525f3"
     }
+  ],
+  "routes": [
+    {
+      "pattern": "live.rjbusinesssolutions.org",
+      "custom_domain": true
+    },
+    {
+      "pattern": "stream.rickjefferson.com",
+      "custom_domain": true
+    }
   ]
 }
